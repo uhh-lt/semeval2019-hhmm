@@ -1,0 +1,594 @@
+#21562037 8 buy.na investment-:-4-:-Theme
+#21957004 13 post.na bourse-:-12-:-Agent gain-:-14-:-Topic
+#20660001 6 buy.na share-:-12-:-Theme Montedison_S.p.A.-:-1_2-:-Agent
+#21728005 3 climb.na consumer_price-:-1_2-:-Attribute 0.2_%-:-6_7-:-Extent
+#21875035 2 join.na Politburo-:-4-:-Theme Mr._Krenz-:-12_13-:-Agent
+#21190005 18_19 join_in.na investment-:-21-:-Theme partner-:-16-:-Agent
+#20473024 16 build.na it-:-14-:-Agent pipeline-:-19-:-Product
+#20295003 10 join.na Mr._Achenbaum-:-7_8-:-Agent they-:-11-:-Theme
+#20098006 11 rise.na minimum_wage-:-8_9-:-Attribute $_3.80-:-13_14-:-Result
+#21574020 35 buy.na you-:-29-:-Agent it-:-36-:-Theme
+#20277034 36 purchase.na which-:-34-:-Agent Building-:-39-:-Theme
+#20994090 7 build.na hotel-:-5-:-Agent retail_complex-:-9_10-:-Product
+#21316001 14 value.na transaction-:-13-:-Theme
+#21208043 20 buy.na firm-:-16-:-Agent future-:-21-:-Theme
+#21634096 16 buy.na Warner-:-14-:-Agent Guber_Peters-:-17_18-:-Theme
+#21856048 4 buy.na whatever-:-5-:-Theme they-:-2-:-Agent
+#21002009 20 begin.na buyer-:-18-:-Agent write-:-21-:-Theme
+#21100001 7 buy.na it-:-5-:-Agent Shaw-Walker_Co-:-8_9-:-Theme
+#21446046 2 join.na Illinois-:-1-:-Agent state-:-5-:-Theme
+#20786004 19 join.na Harry_J._Gray_and_Melvyn_N._Klein_along_with_IMA_designee-:-1_2_3_4_5_6_7_9_10_13_14-:-Agent board-:-24-:-Theme
+#21304002 21_22 buy_back.na common_outstanding-:-30_31-:-Theme it-:-19-:-Agent
+#21315017 12 buy.na he-:-7-:-Agent crack-:-13-:-Theme
+#21263001 20 join.na who-:-19-:-Agent Reebok-:-21-:-Theme
+#21569088 3 start.na save-:-4-:-Theme you-:-2-:-Agent
+#21717001 25 value.na transaction-:-24-:-Theme
+#20063015 25_26 buy_back.na stock-:-29-:-Theme Sea_Containers-:-22_23-:-Agent
+#20141024 9 buy.na they-:-7-:-Agent appliance-:-10-:-Theme
+#21569079 5 pick.na sponsor-:-2-:-Agent stock-:-7-:-Theme
+#21057031 39 buy.na Tisch-:-38-:-Agent stake-:-43-:-Theme
+#20568024 15 buy.na customer-:-10-:-Agent
+#21540002 27 value.na proposal-:-3-:-Theme
+#21999002 7 post.na Southwestern_Bell_Corp._and_Cincinnati_Bell-:-1_2_3_4_5_6-:-Agent decline-:-9-:-Topic
+#20569031 26 believe.na who-:-25-:-Agent nosedive-:-32-:-Theme
+#20036016 3 fall.na payroll-:-2-:-Attribute factory-:-1-:-Patient
+#22092003 2 join.na Control_Data-:-5_6-:-Agent MIPS-:-3-:-Co-Agent
+#21145015 10 value.na it-:-9-:-Theme
+#21140022 15 buy.na investor-:-5-:-Agent stock-:-16-:-Theme
+#20296018 8 believe.na he-:-6-:-Agent manage-:-27-:-Theme
+#20475024 24 begin.na negotiate-:-25-:-Theme two_side-:-20_21-:-Agent
+#20277001 1 buy.na Mitsubishi_Estate_Co.-:-11_12_13-:-Agent Rockefeller_Group_Inc.-:-5_6_7-:-Theme
+#21856055 15 buy.na product-:-16-:-Theme consumer-:-11-:-Agent
+#20564050 6 buy.na Omni-:-4-:-Agent stake-:-11-:-Theme
+#20029013 14 buy.na they-:-1-:-Agent bond-:-21-:-Theme
+#20155043 26 buy.na grain-:-28-:-Theme which-:-24-:-Agent
+#22106027 10 accompany.na music-:-7-:-Theme reading-:-11-:-Co-Theme
+#20721003 11 purchase.na it-:-4-:-Agent share-:-16-:-Theme
+#20742013 26 buy.na thing-:-23-:-Theme you-:-24-:-Agent
+#20934011 5 buy.na they-:-1-:-Agent item-:-7-:-Theme
+#20444020 18 rise.na british_pound-:-2_3-:-Patient $_1.5820-:-21_22-:-Result $_1.5795-:-26_27-:-Initial_State
+#21753010 8 build.na pipeline-:-10-:-Product
+#20239029 11 follow.na I-:-10-:-Theme its_progress-:-12_13-:-Co-Theme
+#21161055 23 buy.na share-:-24-:-Theme
+#21692045 16 join.na who-:-6-:-Agent McCutchen_Doyle_Brown_&_Enersen-:-17_19_21_22_23-:-Theme
+#21949011 25 join.na Christopher_Whittington-:-14_15-:-Agent firm-:-29-:-Theme
+#21245002 14 buy.na joint_venture-:-11_12-:-Agent plant-:-16-:-Theme
+#20376005 11 value.na company-:-14-:-Theme
+#22170050 21 pick.na you-:-19-:-Agent time-:-24-:-Theme
+#21069008 2 climb.na revenue-:-1-:-Attribute 18_%-:-3_4-:-Extent $_289_million-:-6_7_8-:-Result $_245.3_million-:-10_11_12-:-Initial_State
+#20409075 20 decline.na membership-:-18-:-Patient
+#20036029 3 fall.na 1.6_%-:-4_5-:-Extent $_234.4_billion-:-7_8_9-:-Result shipment-:-2-:-Patient
+#20314025 6 buy.na they-:-4-:-Agent cost_discipline-:-9_10-:-Theme
+#20622006 3 believe.na we-:-2-:-Agent indication-:-10-:-Theme
+#21328029 11_12 buy_out.na Manville-:-9-:-Agent trust_'s_share-:-14_15_16-:-Theme
+#22054009 3 begin.na Mr._Allen-:-1_2-:-Agent it-:-4-:-Theme
+#20254008 5 follow.na sale-:-11-:-Co-Theme weakness-:-4-:-Theme
+#20714004 3 fall.na 4.97_yen-:-5_6-:-Result 5.40_yen-:-8_9-:-Initial_State pershare_net-:-1_2-:-Attribute
+#20074001 19 begin.na worker-:-10-:-Agent strike-:-21-:-Theme
+#21884028 7 climb.na Georgia-Pacific-:-6-:-Patient 1_1/4-:-8_9-:-Extent 58-:-11-:-Result
+#20021002 9 believe.na call_for-:-20_21-:-Theme
+#21819049 22 join.na Gibson_Dunn_&_Crutcher-:-23_25_26_27-:-Theme Randy_Mastro-:-4_5-:-Agent
+#22045038 18 buy.na that-:-9-:-Agent sugar-:-20-:-Theme
+#21438005 12 join.na Hibernia_Corp.-:-1_2-:-Agent Big_Board-:-14_15-:-Theme
+#20194024 19 buy.na it-:-5-:-Agent share_of_common_stock-:-24_25_26_27-:-Theme
+#20584015 6 value.na pact-:-4-:-Theme
+#21944031 5 buy.na director-:-4-:-Agent share-:-9-:-Theme
+#21283013 11 buy.na operator-:-5-:-Agent truck-:-13-:-Theme
+#20983021 28 buy.na it-:-27-:-Agent bond-:-26-:-Theme
+#21006004 3 join.na Mr._Lortie-:-1_2-:-Agent Provigo-:-4-:-Theme
+#20409005 15 move.na it-:-16-:-Theme he-:-13-:-Agent country-:-19-:-Trajectory
+#20648012 2 buy.na Insurers-:-1-:-Agent insurance-:-4-:-Theme
+#20900009 19 believe.na they-:-18-:-Agent dominate-:-26-:-Theme
+#20467017 8 start.na executive-:-7-:-Agent company-:-12-:-Theme
+#20456004 3 follow.na he-:-2-:-Agent correct_path-:-5_6-:-Co-Theme
+#20100030 7 begin.na build_up-:-8_9-:-Theme he-:-6-:-Agent
+#20760006 20 rise.na 2_%-:-21_22-:-Extent operating_profit-:-13_14-:-Attribute segment-:-19-:-Patient
+#20998040 5 buy.na I-:-3-:-Agent building-:-7-:-Theme
+#21578041 3 climb.na Paramount_Communications-:-1_2-:-Patient 1_1/4-:-4_5-:-Extent 58_1/2-:-7_8-:-Result
+#21208064 3 climb.na 5_3/4-:-4_5-:-Extent 41-:-7-:-Result Dow_Jones-:-1_2-:-Attribute
+#21273043 4 buy.na who-:-3-:-Agent zero-coupon_CDs-:-5_6-:-Theme
+#21047001 21 buy.na department_store_concern-:-9_10_11-:-Agent Bloomingdale_'s-:-22_23-:-Theme
+#21099036 3 join.na he-:-15-:-Agent subsidiary-:-10-:-Theme
+#20765092 7 believe.na place-:-12-:-Theme business_leader_and_other-:-2_3_4_5-:-Agent
+#21560009 17 buy.na check-:-6-:-Theme
+#20742023 17 buy.na portfolio-:-19-:-Theme you-:-15-:-Agent
+#20155017 11 believe.na that-:-12-:-Theme
+#20414040 12 buy.na worker-:-11-:-Agent vacation_day-:-15_16-:-Theme
+#21916032 23 wrap.na freeway_column-:-24_25-:-Destination steel_blanket-:-28_29-:-Theme Caltrans-:-3-:-Agent
+#22061025 2 fall.na Citicorp-:-1-:-Patient 1/2-:-3-:-Extent 32-:-5-:-Result
+#20978003 9 buy.na stock-:-10-:-Theme Renaissance-:-1-:-Agent
+#21146142 3 buy.na he-:-1-:-Agent clothes_and_Mercedes-:-7_9_12-:-Theme
+#20275003 19 buy.na stock-:-21-:-Theme shareholder-:-15-:-Agent
+#21863011 5 buy.na stock-:-8-:-Theme trader-:-4-:-Agent
+#21659008 29 value.na deal-:-28-:-Theme
+#21519001 34 build.na power_plant-:-28_29-:-Product
+#20938016 28 buy.na MCA_and_Bronfman_associate-:-19_20_22_23-:-Agent theater_complex-:-41_42-:-Theme
+#21652023 11 fall.na $_1.69_billion-:-17_18_19-:-Initial_State net_income-:-9_10-:-Attribute $_1.29_billion-:-13_14_15-:-Result
+#21603045 12 value.na he-:-11-:-Agent which-:-10-:-Theme
+#20376014 21 value.na market-:-24-:-Agent part-:-11-:-Theme
+#20978007 6 believe.na they-:-5-:-Agent buy_program-:-13_14-:-Theme
+#20415017 13 pick.na man-:-12-:-Theme electoral_college-:-16_17-:-Agent
+#21869011 5 decline.na 29_%-:-10_11-:-Result rate-:-2-:-Attribute
+#20141019 11 buy.na they-:-9-:-Agent car-:-13-:-Theme
+#20093006 23 believe.na China-:-22-:-Agent what-:-21-:-Theme
+#20761040 15 buy.na that-:-14-:-Agent land-:-19-:-Theme
+#20601007 12 believe.na who-:-11-:-Agent botch-:-17-:-Theme
+#21248015 4 buy.na stake-:-7-:-Theme carrier-:-11-:-Agent
+#21855010 19_20 join_in.na CBOE_American_Stock_Exchange_Options_Clearing_Corp._and_Stephen_Fossett-:-2_4_5_6_8_9_10_11_12_13-:-Agent put_up-:-21_22-:-Theme
+#20477012 5 buy.na Commerzbank-:-1-:-Agent stake-:-7-:-Theme
+#21146039 5 buy.na feed-:-6-:-Theme they-:-2-:-Agent
+#20254002 13 climb.na which-:-11-:-Attribute 0.5_%-:-14_15-:-Extent
+#21036038 8 rise.na AMR-:-1-:-Patient 3_3/8-:-9_10-:-Extent 72_1/4-:-12_13-:-Result
+#20550011 19 wonder.na everyone-:-18-:-Agent shoot-:-26-:-Topic
+#21991003 10 purchase.na holder-:-8-:-Agent share-:-12-:-Theme
+#21479003 10 post.na company-:-7-:-Agent net_loss-:-12_13-:-Topic
+#21859004 22 purchase.na interest-:-24-:-Theme it-:-6-:-Agent
+#20037054 10 join.na PLO-:-2-:-Agent organization-:-12-:-Theme
+#21019003 7 buy.na stock-:-12-:-Theme institutional_investor-:-4_5-:-Agent
+#21272054 8 build.na they-:-5-:-Agent machine-:-11-:-Product
+#21621001 14 post.na Inland_Steel_Industries_Inc.-:-1_2_3_4-:-Agent drop-:-18-:-Topic
+#21594011 7 climb.na 20_%-:-8_9-:-Extent net-:-6-:-Attribute $_102_million-:-15_16_17-:-Result $_85_million-:-26_27_28-:-Initial_State
+#20155003 5 buy.na trader-:-2-:-Agent future_contract-:-6_7-:-Theme
+#21172024 11 buy.na we-:-8-:-Agent import-:-13-:-Theme
+#20118081 8 fall.na stockbroker-:-1-:-Patient business_and_pay-:-3_4_5-:-Attribute
+#20060002 8 buy.na that-:-7-:-Agent Cosby_rerun-:-10_12-:-Theme
+#20912001 8 buy.na it-:-5-:-Agent Viroqua_Telephone_Co.-:-9_10_11-:-Theme
+#20584014 2 value.na they-:-1-:-Agent bid-:-5-:-Theme a_share-:-12_13-:-Attribute
+#20639004 9 buy.na investor-:-5-:-Agent stock-:-11-:-Theme
+#20319011 4 climb.na cost-:-2-:-Attribute labor-:-1-:-Patient
+#21455018 19 make.na polish_center-:-13_14-:-Product aluminum_,_steel_and_glass-:-21_22_23_24_25-:-Material
+#20345003 6 climb.na 41.60-:-7-:-Extent 2645.08-:-9-:-Result Dow_Jones_Industrial_Average-:-2_3_4_5-:-Attribute
+#21390048 2 join.na Mr._Brawer-:-7_8-:-Agent Maidenform-:-3-:-Theme
+#21026035 27 purchase.na China-:-26-:-Agent cotton-:-28-:-Theme
+#20453005 25 follow.na come-:-14-:-Co-Theme tell-:-30-:-Theme
+#21262001 14 buy.na firm-:-17-:-Theme
+#21623016 15 decline.na interest-:-11-:-Patient rate-:-12-:-Attribute
+#20033004 3 follow.na decline-:-9-:-Co-Theme announcement-:-2-:-Theme
+#21201040 19 buy.na they-:-16-:-Agent
+#20469033 40 join.na Morrison_Cohen_Singer_&_Weinstein-:-41_42_43_44_45-:-Theme who-:-34-:-Agent
+#21192021 2 rise.na revenue-:-1-:-Attribute 12_%-:-3_4-:-Extent $_4.75_billion-:-6_7_8-:-Result $_4.22_billion-:-10_11_12-:-Initial_State
+#21955002 24 buy.na holder-:-22-:-Agent share-:-25-:-Theme
+#22145023 5 begin.na we-:-2-:-Agent look-:-7-:-Theme
+#20064019 27 begin.na company-:-10-:-Agent phase_in-:-28_30-:-Theme
+#20340006 18 value.na purchase-:-4-:-Theme
+#20345005 11 place.na order-:-9-:-Result
+#21457056 3 value.na he-:-1-:-Agent share-:-5-:-Theme
+#20354002 2 value.na it-:-1-:-Agent transaction-:-4-:-Theme
+#20367005 21 begin.na Specialized-:-9-:-Agent mass-produce-:-22-:-Theme
+#21480030 27 buy.na we-:-16-:-Agent share-:-30-:-Theme
+#20415034 15 accompany.na economic_program-:-9_10-:-Theme measure-:-17-:-Pivot
+#20359049 11 buy.na you-:-8-:-Agent stock-:-14-:-Theme
+#20118094 6 begin.na trade-:-7-:-Theme stock-index_future-:-4_5-:-Agent
+#21273015 34 buy.na CD-:-36-:-Theme he-:-33-:-Agent
+#21065018 7 buy.na company-:-3-:-Agent one-:-9-:-Theme
+#21093003 2 climb.na revenue-:-1-:-Attribute 13_%-:-3_4-:-Extent 45.4_billion_franc-:-6_7_8-:-Result 40.1_billion-:-10_11-:-Initial_State
+#21586054 6 move.na who-:-3-:-Agent production-:-8-:-Theme overseas-:-9-:-Destination
+#20996016 18 pick.na one-:-21-:-Theme
+#20683006 11 analyze.na researcher-:-10-:-Agent change-:-13-:-Theme
+#21646022 7 begin.na China-:-4-:-Agent relax-:-8-:-Theme
+#20439003 42 accompany.na political_reform-:-40_41-:-Co-Theme civil_unrest-:-44_45-:-Theme
+#20210001 8 erupt.na conflict-:-3-:-Theme
+#20943005 15 buy.na Bell_Atlantic-:-11_12-:-Agent customer_base_and_maintenance_facility-:-19_20_21_26_27-:-Theme
+#20934014 31 buy.na they-:-30-:-Agent they-:-32-:-Theme
+#21761051 3 purchase.na you-:-2-:-Agent stock-:-5-:-Theme
+#21122023 9 buy.na they-:-1-:-Agent acre-:-12-:-Theme
+#21784016 19 decline.na 5_%-:-20_21-:-Extent sale-:-14-:-Patient
+#20342004 8 climb.na sale-:-1-:-Patient 29_%-:-9_10-:-Extent 787.02_billion_yen-:-12_13_14-:-Initial_State
+#20142006 17 buy.na you-:-12-:-Agent name-:-19-:-Theme
+#20435014 15 buy.na American_Motors_Corp.-:-16_17_18-:-Theme it-:-14-:-Agent
+#20654004 5 begin.na it-:-3-:-Agent discussion-:-6-:-Theme
+#21368032 11 buy.na who-:-10-:-Agent porcelain_and_matryoshka_nesting_doll-:-13_14_16_18_19-:-Theme
+#21572008 5 buy.na person-:-4-:-Agent oil_well-:-7_8-:-Theme
+#20162043 8 rise.na net_income-:-2_3-:-Attribute its-:-1-:-Patient 41_%-:-10_11-:-Extent
+#21273024 10 buy.na he-:-8-:-Agent CD-:-12-:-Theme
+#22113108 4 buy.na everybody-:-1-:-Agent Monets-:-5-:-Theme
+#20553014 29 join.na he-:-1-:-Agent European_Monetary_System-:-31_32_33-:-Theme
+#20464004 6 decline.na OTC_market-:-2_3-:-Patient
+#21622024 3 buy.na what-:-4-:-Theme market_maker-:-1_2-:-Agent
+#21767002 18 build.na sedan-:-17-:-Product Ford-:-20-:-Agent
+#20400036 13 purchase.na Federal_Reserve-:-8_9-:-Agent bill-:-14-:-Theme
+#21586021 14 buy.na woman-:-2-:-Agent mink-:-17-:-Theme
+#20968012 24 begin.na company-:-22-:-Agent follow_suit-:-26_27-:-Theme
+#20979003 20 buy.na MGM/UA_Communications_Co.-:-21_22_23-:-Theme
+#21411062 12 buy.na team-:-14-:-Theme he-:-11-:-Agent
+#20083023 16 buy.na Mitsubishi_International_Corp.-:-4_5_6-:-Agent control_interest-:-17_18-:-Theme
+#22124009 20 buy.na he-:-19-:-Agent stock-:-26-:-Theme
+#20742003 8 buy.na basket_of_stock-:-16_17_18-:-Theme
+#20103013 12 begin.na agency-:-11-:-Agent investigate-:-13-:-Theme
+#21723042 3 fall.na Sun_Alliance-:-1_2-:-Patient 1-:-4-:-Extent
+#20151001 12 buy.na it-:-11-:-Agent share-:-15-:-Theme
+#20450008 22 buy.na present-:-23-:-Theme he-:-1-:-Agent
+#20194026 16 increase.na Carl_Icahn-:-13_14-:-Agent stake-:-18-:-Patient
+#20915001 8 buy.na Automax_Inc.-:-9_10-:-Theme it-:-4-:-Agent
+#21957058 10 decline.na Racal_Electric-:-1_2-:-Patient 12-:-11-:-Extent 218-:-13-:-Result
+#20137022 4 fall.na Sumitomo_Metal_Mining-:-1_2_3-:-Patient five_yen-:-5_6-:-Extent 692-:-8-:-Result
+#20943007 19 post.na which-:-16-:-Agent sale-:-20-:-Topic
+#21586014 26 buy.na she-:-24-:-Agent mink-:-28-:-Theme
+#20217001 27 value.na transaction-:-26-:-Theme
+#21354003 6 post.na CMS-:-5-:-Agent profit-:-7-:-Topic
+#20978012 12 buy.na stock-:-13-:-Theme it-:-8-:-Agent
+#20089020 5_6 start_off.na english_bell-:-2_3-:-Theme
+#21161058 23 buy.na share-:-24-:-Theme
+#21266009 16 buy.na who-:-11-:-Agent stock-:-24-:-Theme
+#20029003 11_12 place_with.na fund-:-9-:-Theme institutional_investor-:-14_15-:-Recipient
+#20725002 9 begin.na they-:-1-:-Agent twist-:-10-:-Theme
+#20137027 8 post.na intraday_low-:-10_11-:-Topic
+#21362002 19 post.na loss-:-21-:-Topic it-:-17-:-Agent
+#21174037 25 buy.na who-:-24-:-Agent Spendthrift-:-26-:-Theme
+#21481001 7 begin.na it-:-5-:-Agent offering-:-9-:-Theme
+#21515022 17 buy.na company-:-23-:-Theme he-:-15-:-Agent
+#20334004 21 rise.na five_penny-:-23_24-:-Result 4.5_penny-:-26_27-:-Initial_State per-share_earnings-:-19_20-:-Attribute
+#20319001 6 rise.na 1.2_%-:-7_8-:-Extent labor-:-4-:-Patient cost-:-5-:-Attribute
+#21320041 14 buy.na Soviets-:-6-:-Agent grain_and_commodity_and_goods-:-15_16_19_20_21-:-Theme
+#20274027 21_22 buy_back.na issuer-:-13-:-Agent bond-:-24-:-Theme
+#20308001 32 buy.na it-:-17-:-Agent common_share-:-38_39-:-Theme
+#20532002 26 buy.na that-:-23-:-Agent MTM-:-27-:-Theme
+#21014018 16_17 join_in.na he-:-12-:-Agent barroom_brawl-:-19_20-:-Theme
+#22125022 5 buy.na institution-:-2-:-Agent retail_paper-:-6_7-:-Theme
+#20551002 14 buy.na Society_Corp.-:-1_2-:-Agent Trustcorp-:-15-:-Theme
+#20315001 13 move.na it-:-4-:-Agent fastener_operation-:-15_16-:-Theme facility-:-20-:-Destination
+#20071046 4 buy.na who-:-3-:-Agent
+#20779025 27 buy.na Fed-:-19-:-Agent market_average-:-28_29-:-Theme
+#20721001 7 buy.na it-:-4-:-Agent common_share-:-16_17-:-Theme
+#20350013 3 climb.na cost-:-2-:-Attribute labor-:-1-:-Patient 1.2_%-:-4_5-:-Extent
+#21111017 12 buy.na Norfolk-:-6-:-Agent share-:-17-:-Theme
+#20994075 2 buy.na MGM_Grand_hotel-casino-:-5_6_7-:-Theme Bally-:-1-:-Agent
+#20586027 20 buy.na share-:-29-:-Theme
+#20417001 9 buy.na investor-:-5-:-Agent Detroit_Free_Press-:-14_15_16-:-Theme
+#20996028 9 join.na congressman-:-7-:-Agent team-:-11-:-Theme
+#21046003 15 decline.na failure-:-14-:-Patient
+#21574077 29 buy.na policy-:-32-:-Theme people-:-13-:-Agent
+#22140027 7 begin.na it-:-3-:-Agent produce-:-8-:-Theme
+#21809049 16 begin.na ship-:-17-:-Theme
+#20779037 13 buy.na government_or_central_bank-:-7_8_10_11-:-Agent share-:-20-:-Theme
+#21344002 7 climb.na pretax_profit-:-1_2-:-Attribute #_187.1_million-:-9_10_11-:-Result #_146.3_million-:-18_19_20-:-Initial_State
+#20317066 12 buy.na plant-:-14-:-Theme
+#20192036 6 buy.na Soviet_Union-:-2_3-:-Agent crop-:-8-:-Theme
+#21600049 11 buy.na S&P_500_option-:-12_13_14-:-Theme
+#20560002 19 join.na Westinghouse-:-3-:-Agent legion-:-22-:-Theme
+#22055007 6 join.na Mr._Dannemiller-:-1_2-:-Agent Bearings-:-7-:-Theme
+#20758038 11 buy.na wife-:-10-:-Agent book-:-13-:-Theme
+#21881034 18 buy.na he-:-17-:-Agent stock-:-24-:-Theme
+#21316004 23 buy.na that-:-21-:-Theme Goodson-:-22-:-Agent
+#21263018 16 join.na Reebok-:-17-:-Theme who-:-4-:-Agent
+#21146105 9 buy.na land-:-12-:-Theme farmer-:-3-:-Agent
+#20349020 6 buy.na trader-:-5-:-Agent stock-:-12-:-Theme
+#21303033 3 join.na Mr._Dozen-:-1_2-:-Agent Daiwa-:-4-:-Theme
+#20141022 10 buy.na they-:-8-:-Agent house-:-12-:-Theme
+#20681039 13 value.na stock-:-10-:-Theme
+#21311030 5 climb.na earnings-:-4-:-Attribute refining_and_marketing-:-1_2_3-:-Patient $_33.3_million-:-7_8_9-:-Result $_12.9_million-:-11_12_13-:-Initial_State
+#21172020 5 rise.na export-:-4-:-Patient #_8.43_billion-:-7_8_9-:-Result
+#20054003 7 buy.na company-:-5-:-Agent manufacturing_plant-:-10_11-:-Theme
+#20931031 7 begin.na House_and_Senate-:-2_3_4-:-Agent hash_out-:-9_10-:-Theme
+#21154058 14 buy.na they-:-13-:-Agent fee-:-40-:-Theme
+#21463013 12 fall.na 5_%-:-14_15-:-Extent sale-:-6-:-Patient
+#21852004 15 buy.na investor-:-13-:-Agent option-:-18-:-Theme
+#22142008 9 begin.na buy-:-10-:-Theme investor-:-3-:-Agent
+#20059001 3 post.na gain-:-4-:-Topic
+#20174008 19 follow.na East_Germany-:-16_17-:-Agent plan-:-23-:-Co-Theme
+#20688009 6 begin.na Mobil-:-4-:-Agent offer-:-7-:-Theme
+#21319036 13 buy.na Paribas-:-20-:-Theme Mr._Fournier-:-8_9-:-Agent
+#21306001 7 join.na U.S._Memories-:-8_9-:-Theme it-:-4-:-Agent
+#20371002 43 buy.na which-:-39-:-Agent subsidiary-:-49-:-Theme
+#20350017 18 buy.na Sea_Containers-:-1_2-:-Agent common_share-:-24_25-:-Theme
+#21446036 4 join.na Larry_Gainen-:-6_7-:-Agent they-:-1-:-Theme
+#20563004 19 increase.na quantity-:-21-:-Attribute home_copying-:-23_24-:-Patient availability-:-5-:-Causer
+#20584035 33 buy.na share-:-36-:-Theme company-:-23-:-Agent
+#20063002 29 buy.na it-:-14-:-Agent common_share-:-35_36-:-Theme
+#20477018 9 buy.na Allianz-:-7-:-Agent
+#21830029 4 buy.na opponent-:-1-:-Agent argument-:-6-:-Topic
+#20465059 2 believe.na he-:-1-:-Agent arise-:-7-:-Theme
+#20328012 14 increase.na ceiling-:-3-:-Attribute loan-:-6-:-Patient
+#21450006 10 buy.na he-:-9-:-Agent store-:-8-:-Theme
+#21057066 2 start.na bidding_war-:-5_6-:-Theme that-:-1-:-Causer
+#21572075 7 buy.na we-:-2-:-Agent house-:-9-:-Theme
+#20034038 6 buy.na investor-:-3-:-Agent fund-:-8-:-Theme
+#21730022 11 erupt.na protest-:-10-:-Theme
+#21161052 23 buy.na share-:-24-:-Theme
+#21201046 7 buy.na investor-:-4-:-Agent stock-:-9-:-Theme
+#21572028 16 join.na investor-:-10-:-Agent group-:-19-:-Theme
+#20562008 18 analyze.na work_process-:-23_24-:-Theme
+#21146041 6 buy.na middleman-:-3-:-Agent
+#20661006 24 buy.na it-:-16-:-Agent share-:-26-:-Theme
+#21250030 5 begin.na strike-:-6-:-Theme who-:-4-:-Agent
+#20224010 5 believe.na let-:-11-:-Theme I-:-2-:-Agent
+#21567001 10 give.na father-:-9-:-Agent he-:-11-:-Recipient career_advice-:-15_16-:-Topic
+#21819055 2 join.na Apple-:-3-:-Theme Mr._Karalis-:-7_8-:-Agent
+#21578063 14 climb.na 4.74-:-15-:-Extent 382.81-:-17-:-Result Amex-:-2-:-Patient Market_Value_Index-:-3_4_5-:-Attribute
+#20719010 17 erupt.na trading_problem-:-15_16-:-Theme
+#21274001 17 buy.na professional-:-8-:-Agent vodka_brandy_and_spirit-:-20_22_23_25-:-Theme
+#20700018 9 buy.na commodity_or_financial_instrument-:-13_14_15_16-:-Theme
+#20049073 12 join.na member-:-3-:-Agent firm-:-15-:-Theme
+#20779016 4 buy.na Fed-:-2-:-Agent foreign_exchange-:-7_8-:-Theme
+#20748001 19 accompany.na fanfare-:-17-:-Pivot travels-:-24-:-Theme
+#21538005 24 buy.na he-:-1-:-Agent share-:-25-:-Theme
+#21469016 9 fall.na 90_%-:-13_14-:-Extent sale-:-7-:-Patient
+#20340002 18 buy.na unit-:-13-:-Agent share-:-21-:-Theme
+#20985007 25 value.na currency-:-27-:-Theme
+#22043014 12 decline.na rate-:-10-:-Attribute federal_fund-:-8_9-:-Patient 1/4_percentage_point-:-13_14_15-:-Extent 8_3/4_%-:-18_19_20-:-Result 9_%-:-28_29-:-Initial_State
+#21582013 5 begin.na court-:-3-:-Agent recognize-:-7-:-Theme
+#21295004 23 post.na Carbide-:-1-:-Agent earnings-:-24-:-Topic
+#20001001 9 join.na Pierre_Vinken-:-1_2-:-Agent board-:-11-:-Theme
+#21569057 4 buy.na they-:-2-:-Agent prepaid-tuition_plan-:-10_11-:-Theme
+#20675009 4 buy.na owner-:-2-:-Agent machinery-:-6-:-Theme
+#20043026 7 begin.na country-:-1-:-Agent consider-:-9-:-Theme
+#21002035 4 buy.na fabric-:-5-:-Theme manufacturer-:-2-:-Agent
+#20192029 17 begin.na investor-:-15-:-Agent buy-:-18-:-Theme
+#21642028 14 climb.na operator-:-2-:-Patient 3_1/8-:-15_16-:-Extent 23-:-18-:-Result
+#20725056 15 buy.na rights-:-19-:-Theme Santa_Fe_Energy_Co.-:-1_2_3_4-:-Agent
+#20761030 31 buy.na people-:-29-:-Agent home-:-33-:-Theme
+#21035005 6 post.na Consolidated-:-4-:-Agent profit-:-9-:-Topic
+#21796001 28 post.na Republic_New_York_Corp.-:-1_2_3_4-:-Agent net_loss-:-34_35-:-Topic
+#20578003 9 buy.na Sony-:-5-:-Agent Guber-Peters_Entertainment_Co.-:-10_11_12-:-Theme
+#21692041 12 join.na partner-:-3-:-Agent Cowan_&_Owen-:-13_14_15-:-Theme
+#21586036 12 buy.na who-:-10-:-Agent fur-:-13-:-Theme
+#20979010 21 believe.na he-:-20-:-Agent forthcoming-:-27-:-Theme
+#20146011 6 believe.na offer-:-8-:-Theme
+#21285027 5 buy.na SIBV-MS_Holdings-:-7_8-:-Agent share-:-2-:-Theme
+#20437011 6 buy.na trader-:-4-:-Agent contract-:-7-:-Theme
+#21084001 4 rise.na 0.2_%-:-5_6-:-Extent french-:-1-:-Patient consumer_price-:-2_3-:-Attribute
+#20214023 10 join.na retiree_and_tourist-:-6_7_8-:-Agent fan-:-12-:-Theme
+#21337015 5 pick.na investor-:-3-:-Agent stock-:-7-:-Theme
+#20713003 9 buy.na Dresdner_Bank-:-6_7-:-Agent BIP-:-13-:-Theme
+#22153038 18 build.na steel_service_center-:-14_15_16-:-Agent processing_plant-:-20_21-:-Product
+#20998015 9 buy.na Japanese-:-4-:-Agent real_estate-:-11_12-:-Theme
+#20155043 37 buy.na wheat-:-42-:-Theme government-:-22-:-Agent
+#21709002 12_13 buy_back.na Schlumberger-:-7-:-Agent stock-:-15-:-Theme
+#20440001 4 climb.na construction_contracting-:-2_3-:-Patient 8_%-:-5_6-:-Extent $_274.2_billion-:-12_13_14-:-Result
+#21975001 8 fall.na 12_%-:-9_10-:-Extent net_income-:-6_7-:-Attribute
+#22048009 9 begin.na Chamber-:-6-:-Agent use-:-10-:-Theme
+#20464025 31 join.na Daimler-Benz-:-30-:-Agent list-:-33-:-Theme
+#20900011 29 join.na who-:-26-:-Agent board-:-34-:-Theme
+#20666035 12 buy.na which-:-11-:-Agent pulp-:-13-:-Theme
+#22153001 19 begin.na it-:-17-:-Agent test-:-20-:-Theme
+#20564010 3 buy.na Mr._Rey-:-1_2-:-Agent control_stake-:-5_6-:-Theme
+#20663001 16 rise.na net_income-:-10_11-:-Attribute 8.9_%-:-17_18-:-Extent 8.2_billion_yen-:-20_21_22-:-Result 7.54_billion_yen-:-29_30_31-:-Initial_State
+#21617038 19 pick.na client-:-17-:-Agent trip-:-21-:-Theme
+#20484004 16 analyze.na situation-:-18-:-Theme committee-:-8-:-Agent
+#21438001 16 join.na another-:-14-:-Agent Big_Board-:-18_19-:-Theme
+#21335016 12 climb.na 4.6_%-:-13_14-:-Extent deflator-:-9-:-Attribute
+#21424033 11 begin.na State_Department-:-2_3-:-Agent distance-:-12-:-Theme
+#22109024 11 begin.na it-:-8-:-Agent run_ad-:-12_13-:-Theme
+#21353008 10 climb.na death_toll-:-3_4-:-Attribute temblor-:-9-:-Patient 61-:-12-:-Result
+#20573005 20 climb.na personal_income-:-4_5-:-Attribute 0.6_%-:-21_22-:-Extent
+#20627021 21 buy.na clothes-:-18-:-Theme people-:-23-:-Agent
+#22045015 29 fall.na price-:-27-:-Attribute gold-:-26-:-Patient
+#20900004 22 buy.na company-:-17-:-Agent insurance-:-23-:-Theme
+#21121044 3 wrap.na man-:-2-:-Agent diamond-:-5-:-Theme knot_of_tie-:-8_9_11-:-Destination
+#20429001 25 value.na intercompany_receivable-:-23_24-:-Theme
+#20761013 10 buy.na those-:-2-:-Agent home-:-12-:-Theme
+#21642017 23 begin.na buyer-:-21-:-Agent shop-:-25-:-Theme
+#20693033 23 purchase.na investor-:-13-:-Agent bond_issue-:-25_26-:-Theme
+#20997001 17_18 buy_time.na troubled_SCI_Television_Inc.-:-1_2_3_4-:-Agent sell_and_pay-:-20_22_23-:-Theme
+#21603083 9 buy.na it-:-8-:-Agent rice-:-16-:-Theme
+#21036046 5 purchase.na convertible_preferred_stock-:-10_11_12-:-Theme company-:-2-:-Agent
+#21153001 12 value.na jetliner-:-11-:-Theme
+#20155029 7 buy.na sugar-:-8-:-Theme it-:-4-:-Agent
+#21086009 10 join.na company-:-8-:-Agent
+#21844006 8 give.na move-:-7-:-Causer it-:-9-:-Beneficiary foothold-:-13-:-Theme
+#22045019 6 buy.na gold-:-7-:-Theme
+#21782007 14 climb.na which-:-11-:-Patient
+#22153040 6 begin.na Detroit-:-5-:-Agent talk-:-7-:-Theme
+#21470017 6 start.na graduate-:-4-:-Agent job-:-7-:-Theme
+#20583010 8 buy.na company-:-6-:-Agent company-:-15-:-Theme
+#21320027 14 buy.na copper-:-15-:-Theme who-:-7-:-Agent
+#20994045 11 believe.na people-:-2-:-Agent that-:-12-:-Theme
+#21255004 7 begin.na FDA-:-6-:-Agent detain-:-8-:-Theme
+#21314016 5 buy.na share-:-7-:-Theme investor-:-4-:-Agent
+#21086007 4 begin.na it-:-1-:-Agent construction-:-5-:-Theme
+#20983029 17_18 buy_back.na New_America_High_Income_Fund-:-1_2_3_4_5-:-Agent prefer_stock_and_note-:-23_24_25_26-:-Theme
+#20686015 8 increase.na House-Senate_conference-:-5_6-:-Agent National_Aeronautics_and_Space_Administration-:-10_11_12_13_14-:-Patient budget-:-15-:-Attribute
+#22003001 12 post.na Great_American_Bank-:-1_2_3-:-Agent loss-:-15-:-Topic
+#21026034 11_13 buy_back.na trader-:-1-:-Agent they-:-12-:-Theme
+#20719050 6 buy.na machine-:-9-:-Theme they-:-2-:-Agent
+#20584024 34 buy.na company-:-41-:-Theme regional_Bell_company-:-28_29_30-:-Agent
+#20779038 6 buy.na Fed-:-4-:-Agent broad_market_composite-:-8_9_10-:-Theme
+#20953023 4 value.na New_England_Electric-:-1_2_3-:-Agent offer-:-6-:-Theme
+#21936052 13 begin.na massage-:-15-:-Theme he-:-10-:-Agent
+#21201030 27 buy.na they-:-24-:-Agent any_more-:-28_29-:-Theme
+#21587011 3 begin.na official-:-2-:-Agent post-:-4-:-Theme
+#21438008 13 start.na franchisor-:-11-:-Agent trade-:-14-:-Theme
+#21048008 4 buy.na share-:-7-:-Theme McCaw-:-1-:-Agent
+#20231022 5 rise.na 40-:-6-:-Extent Sumitomo_Realty_&_Development-:-1_2_3_4-:-Patient 2170-:-8-:-Result
+#21570021 12 accompany.na appraisal-:-14-:-Theme deduction-:-1-:-Co-Theme
+#21291007 13 purchase.na York_Capital_Inc.-:-8_9_10-:-Agent interest-:-17-:-Theme
+#20488002 6 climb.na Dow_Jones_Industrial_Average-:-2_3_4_5-:-Attribute 6.76_point-:-7_8-:-Extent
+#20246002 3 follow.na increase-:-2-:-Theme report-:-7-:-Co-Theme
+#20679007 8 buy.na Hewlett-Packard-:-6-:-Agent share-:-11-:-Theme
+#21223016 11 buy.na investor-:-9-:-Agent this-:-12-:-Theme
+#22144007 4 wrap.na plastic_lens-:-2_3-:-Agent itself-:-5-:-Theme cornea-:-8-:-Destination
+#21081001 14 build.na Jacobs_Engineering_Group_Inc._'s_Jacobs_International_unit-:-1_2_3_4_5_6_7_8-:-Agent manufacturing_plant-:-17_18-:-Product
+#21812001 3 post.na AMR_Corp.-:-1_2-:-Agent drop-:-7-:-Topic
+#21480003 5 buy.na they-:-1-:-Agent growth_stock-:-6_7-:-Theme
+#21187030 26 buy.na issue-:-21-:-Theme investment_trust_fund-:-28_29_30-:-Agent
+#20764028 8 increase.na launder_drug_money-:-1_2_3-:-Causer price-:-13-:-Attribute real_estate-:-15_16-:-Patient
+#20557010 3 buy.na RJR-:-4-:-Theme KKR-:-2-:-Agent
+#21162030 35 rise.na 30_%-:-37_38-:-Extent $_100,000-:-42_43-:-Result spending-:-10-:-Attribute regulatory_paper_work_and_people-:-12_13_14_15_17-:-Patient
+#20359034 6 buy.na stock-:-7-:-Theme you-:-4-:-Agent
+#21449003 12 post.na Bond_Corp.-:-9_10-:-Agent operating_loss-:-14_15-:-Topic
+#20959006 6 join.na Mr._Pimlott_and_Mr._McCarthy-:-1_2_3_4_5-:-Agent Barclay_'s-:-7_8-:-Theme
+#20764029 7 buy.na car_airplane_launch_and_nightclub-:-9_11_13_14_15-:-Theme
+#22155007 2 climb.na revenue-:-1-:-Attribute 4.3_%-:-3_4-:-Extent $_14.31_billion-:-6_7_8-:-Result $_13.71_billion-:-10_11_12-:-Initial_State
+#20671008 17 buy.na municipal_bond-:-18_19-:-Theme who-:-7-:-Agent
+#20456013 11 join.na European_Community-:-13_14-:-Theme Spain-:-10-:-Agent
+#21319035 14 begin.na Marc_Fournier-:-7_8-:-Agent buy-:-15-:-Theme
+#20773004 11 join.na Waertsilae_Marine-:-9_10-:-Agent rank-:-13-:-Theme
+#22140020 2 begin.na SsangYong-:-1-:-Agent make-:-3-:-Theme
+#20148013 14 buy.na investor-:-4-:-Agent stock-:-20-:-Theme
+#21172016 16_17 join_in.na nation-:-15-:-Agent plan-:-22-:-Theme
+#20064023 2 begin.na Ford-:-1-:-Agent install-:-3-:-Theme
+#21422010 25 buy.na electronic_card-:-26_27-:-Theme driver-:-20-:-Agent
+#21422023 30 buy.na smoker-:-21-:-Agent french-:-31-:-Theme
+#20049032 19 join.na judge-:-5-:-Agent law_firm-:-23_24-:-Theme
+#20587022 4 move.na measure-:-2-:-Causer budget-:-13-:-Theme home-state_project-:-15_16-:-Destination foreign_basis-:-18_19-:-Initial_location
+#21613009 15 fall.na 7.61_%-:-17_18-:-Result 7.82_%-:-20_21-:-Initial_State average_yield-:-13_14-:-Attribute
+#21822023 20 give.na Wall_Street-:-5_6-:-Agent lender-:-21-:-Recipient stake-:-24-:-Theme
+#20472006 2 climb.na sale-:-1-:-Patient 71_%-:-3_4-:-Extent $_6.36_billion-:-6_7_8-:-Result $_3.72_billion-:-10_11_12-:-Initial_State
+#20787009 14 buy.na investor-:-8-:-Agent future_contract-:-18_19-:-Theme
+#20116005 3 begin.na send-:-4-:-Theme they-:-1-:-Agent
+#21052012 6 buy.na people-:-3-:-Agent anything-:-7-:-Theme
+#21512018 36 believe.na he-:-35-:-Agent what-:-34-:-Theme
+#21013014 18 value.na thrift-:-16-:-Agent bond-:-20-:-Theme
+#20349018 9 join.na firm-:-8-:-Agent other-:-10-:-Theme
+#20570011 3 begin.na Gabelli_Group-:-1_2-:-Agent raise-:-4-:-Theme
+#21316016 8 begin.na Mr._Ingersoll-:-6_7-:-Agent focus-:-9-:-Theme
+#21429002 20 make.na which-:-18-:-Product Avions_Marcel_Dassault-Breguet_Aviation_SA-:-22_23_24_25_26-:-Agent
+#20766079 9 buy.na I-:-7-:-Agent insurance-:-11-:-Theme
+#21142024 7 buy.na share-:-10-:-Theme
+#20741006 28 begin.na son-:-18-:-Agent expansion-:-32-:-Theme
+#20675025 14 buy.na firm-:-10-:-Agent company-:-24-:-Theme
+#21273030 6 buy.na I-:-4-:-Agent CD-:-8-:-Theme
+#20553025 8 join.na Mr._Lawson-:-1_2-:-Agent EMS-:-10-:-Theme
+#21276001 13 buy.na share-:-16-:-Theme Federal_Mogul_Corp.-:-9_10_11-:-Agent
+#21043002 13 buy.na investor-:-11-:-Agent stock-:-20-:-Theme
+#21273008 8 buy.na CD-:-6-:-Theme he-:-7-:-Agent
+#20937011 24 believe.na George_Bush-:-9_10-:-Agent turn_the_clock_back-:-31_32_33_34-:-Theme
+#21919002 13 buy.na Mr._Ruskin-:-4_5-:-Agent share-:-16-:-Theme
+#20610029 21 build.na plant-:-17-:-Product
+#20469048 9 join.na lawyer-:-3-:-Agent Whitman_&_Ransom-:-10_11_12-:-Theme
+#20687012 15 build.na they-:-9-:-Agent life-:-16-:-Patient
+#20477020 25 buy.na which-:-23-:-Theme it-:-24-:-Agent
+#21957013 9_10 join_in.na investor-:-2-:-Agent buying-:-12-:-Theme
+#21120016 6 buy.na people-:-4-:-Agent goods-:-12-:-Theme
+#21079005 2_3 buy_back.na ITT-:-1-:-Agent share-:-6-:-Theme
+#20373016 21 value.na package-:-20-:-Theme
+#21320024 30 buy.na contract-:-31-:-Theme short_seller-:-20_21-:-Agent
+#20101002 36 increase.na loan_guarantee-:-27_28-:-Attribute Overseas_Private_Investment_Corp.-:-31_32_33_34-:-Patient
+#20428003 15 decline.na export-:-13-:-Patient
+#20016002 4 follow.na growth-:-3-:-Theme year-to-year_increase-:-5_6-:-Co-Theme
+#21065054 26 join.na John_Ake-:-1_2-:-Agent Ballard_Spahr-:-27_28-:-Theme
+#21781022 5 climb.na Morgan_Grenfell-:-3_4-:-Patient 14-:-6-:-Extent 406-:-8-:-Result
+#21120003 6 join.na Japan-:-5-:-Agent club-:-13-:-Theme
+#21245001 14 buy.na power-:-15-:-Theme Consumers_Power_Co.-:-1_2_3-:-Agent
+#20520005 5 fluctuate.na stock-:-3-:-Patient
+#21698003 18 join.na revel-:-25-:-Theme he-:-16-:-Agent
+#20170008 8 build.na ship-:-4-:-Product
+#20632016 6 believe.na individual-:-1-:-Agent seek-:-10-:-Theme
+#20524030 18 believe.na Maureen_Fraser-:-1_2-:-Agent able-:-25-:-Theme
+#20467042 9 rise.na nine_penny-:-10_11-:-Extent 216_penny-:-14_15-:-Result share-:-8-:-Patient
+#20681076 17 buy.na Montedison-:-1-:-Agent rest-:-19-:-Theme
+#21569037 2 build.na nest_egg-:-4_5-:-Result parent-:-19-:-Agent
+#20922017 5 begin.na analyst-:-3-:-Agent link-:-7-:-Theme
+#20428003 9 rise.na export-:-8-:-Patient 2.1_%-:-10_11-:-Extent
+#21139019 23 fall.na 14.1_%-:-24_25-:-Extent 8,355-:-27-:-Result sale-:-18-:-Patient
+#21026036 14 buy.na China-:-13-:-Agent bale-:-18-:-Theme
+#21257014 3 value.na Mr._Lee-:-1_2-:-Agent package-:-5-:-Theme
+#20286023 15 join.na who-:-14-:-Agent Nissan-:-16-:-Theme
+#20481002 15 begin.na service-:-21-:-Theme Times-:-14-:-Agent
+#21223017 17 buy.na stock-:-19-:-Theme bank_and_account-:-6_11_14-:-Agent
+#20374036 12 buy.na company-:-10-:-Agent stock-:-16-:-Theme
+#20609040 28 accompany.na report-:-27-:-Pivot spending_bill-:-29_30-:-Theme
+#21201009 7 buy.na Bear_,_Stearns-:-4_5_6-:-Agent share-:-12-:-Theme
+#20967007 16 begin.na collect-:-17-:-Theme state-:-15-:-Agent
+#21377018 4 believe.na executive-:-3-:-Agent outweigh-:-10-:-Theme
+#20414035 3 believe.na executive-:-1-:-Agent know-:-6-:-Theme
+#20050001 15 buy.na it-:-7-:-Agent building_and_property-:-16_17_19-:-Theme
+#20578002 18 value.na transaction-:-17-:-Theme
+#21891004 10 buy.na subsidiary-:-2-:-Agent electricity_and_steam-:-11_12_13-:-Theme
+#21442034 13 climb.na foreclosure-:-11-:-Patient 1,482-:-16-:-Result
+#21567066 20 join.na Mr._Peterson-:-15_16-:-Agent club-:-25-:-Theme
+#20732011 5 begin.na you-:-4-:-Agent talk-:-6-:-Theme
+#21819053 11 join.na John_P._Karalis-:-7_8_9-:-Agent law_firm-:-17_18-:-Theme
+#20761042 31 buy.na business_group-:-29_30-:-Agent real_estate-:-32_33-:-Theme
+#20437015 6 buy.na Japan-:-3-:-Agent copper-:-7-:-Theme
+#20174031 8 begin.na U.S.-:-7-:-Agent plan-:-9-:-Theme
+#20280017 5 buy.na bottle-:-10-:-Theme customer-:-3-:-Agent
+#20331015 5 value.na railroad-:-3-:-Theme
+#20036026 28 climb.na 0.9_%-:-29_30-:-Extent order-:-4-:-Patient
+#21002017 4 buy.na I-:-2-:-Agent fabric-:-5-:-Theme
+#20521002 5 join.na Mr._Nicastro-:-3_4-:-Agent Grand_Union-:-6_7-:-Theme
+#20584037 8_9 buy_up.na BellSouth-:-6-:-Agent share-:-10-:-Theme
+#21441010 23 buy.na share-:-25-:-Theme
+#20983012 20 buy.na bond-:-22-:-Theme
+#22135002 17 join.na who-:-14-:-Agent Securities_and_Futures_Commission-:-21_22_23_24-:-Theme
+#21744017 8 build.na car-:-15-:-Product which-:-7-:-Instrument
+#20151004 3 follow.na action-:-2-:-Theme announcement-:-9-:-Co-Theme
+#20224035 7 buy.na GM-:-2-:-Agent stock-:-15-:-Theme
+#20477002 9 buy.na Navigation_Mixte-:-15_16-:-Theme Allianz-:-1-:-Agent
+#21319035 15 buy.na share-:-17-:-Theme Marc_Fournier-:-7_8-:-Agent
+#20936036 14 buy.na dollar-:-15-:-Theme
+#20089021 9 begin.na ringer-:-8-:-Agent vary-:-10-:-Theme
+#21401002 13 accompany.na chart-:-12-:-Pivot column-:-20-:-Theme
+#20767022 3 believe.na we-:-2-:-Agent find-:-8-:-Theme
+#22055029 7 move.na Yaohan_Departmentstore_Co.-:-1_2_3-:-Agent headquarters_and_hold_company-:-10_11_12_13-:-Theme Hong_Kong-:-15_16-:-Destination
+#21026039 28 buy.na who-:-25-:-Agent cotton-:-29-:-Theme
+#21321001 4_5 buy_out.na interest-:-9-:-Theme Rockwell_International_Corp.-:-1_2_3-:-Agent
+#20126021 12 build.na they-:-8-:-Product
+#21094047 16 begin.na president-:-15-:-Agent lower-:-18-:-Theme
+#21554039 15 buy.na feedlot_operator-:-12_13-:-Agent they-:-8-:-Theme
+#21219003 9 purchase.na Meredith_Relocation_Corp.-:-5_6_7-:-Agent home-:-12-:-Theme
+#21467005 5 buy.na share-:-8-:-Theme McCaw-:-1-:-Agent
+#21167001 6 buy.na Lion_Nathan_Ltd.-:-1_2_3-:-Agent franchise-:-8-:-Theme
+#21190028 18 buy.na it-:-16-:-Agent movie-:-19-:-Theme
+#20373008 26 buy.na studio-:-24-:-Agent stake-:-29-:-Theme
+#20693033 17 buy.na investor-:-13-:-Agent dollar-:-18-:-Theme
+#21875115 8 purchase.na natural_gas-:-9_10-:-Theme Poland-:-1-:-Agent
+#20224017 4 value.na proposal-:-3-:-Agent Jaguar-:-5-:-Theme
+#21302029 10 join.na I-:-2-:-Agent Lloyd_'s-:-11_12-:-Theme
+#20989051 19 buy.na Vizeversa-:-20-:-Theme it-:-16-:-Agent
+#20334004 11 rise.na 12_%-:-12_13-:-Extent #_135.2_million-:-15_16_17-:-Result profit_after_tax_and_minority_interest-:-1_2_3_4_5_6-:-Attribute
+#20979002 18 join.na Jonathan_Lloyd-:-10_11-:-Agent board-:-21-:-Theme
+#20192029 18 buy.na investor-:-15-:-Agent future_contract-:-20_21-:-Theme
+#21065053 17 join.na partner-:-15-:-Agent department-:-22-:-Theme
+#21635049 6 buy.na institution-:-5-:-Agent asset-backed_issue-:-7_8-:-Theme
+#21120012 10 start.na crumble-:-12-:-Theme LDP-:-9-:-Agent
+#20177005 3 rise.na 7.84_yen-:-5_6-:-Result per-share_net-:-1_2-:-Attribute 6.53_yen-:-8_9-:-Initial_State
+#20578042 28 buy.na he_and_Mr._Peters-:-19_20_21_22-:-Agent MGM/UA_Entertainment_Co.-:-31_32_33-:-Theme
+#20777008 17 buy.na MGM/UA_Communications_Co-:-18_19_20-:-Theme group-:-3-:-Agent
+#21314008 8 buy.na they-:-7-:-Agent McDonald_'s_,_Coca-Cola_Co._and_Procter_&_Gamble-:-9_10_11_12_13_14_15_16_17-:-Theme
+#20332006 5 follow.na takeover-:-2-:-Co-Theme restructuring-:-8-:-Theme
+#21464013 22 buy.na bond-:-23-:-Theme client-:-20-:-Agent
+#20177009 13 climb.na 600_billion_yen-:-15_16_17-:-Result 566.54_billion_yen-:-19_20_21-:-Initial_State sale-:-11-:-Patient
+#20628001 4 buy.na owner-:-2-:-Agent machinery-:-6-:-Theme
+#20531001 6 buy.na common_share-:-13_14-:-Theme it-:-4-:-Agent
+#20039034 14 buy.na she-:-12-:-Agent jam_cocoa_and_goody-:-15_17_18_21-:-Theme
+#21687008 9 buy.na company-:-7-:-Agent contract-:-10-:-Theme
+#20082016 10 value.na stake-:-9-:-Theme
+#20141020 10 buy.na they-:-8-:-Agent car-:-12-:-Theme
+#21432018 4 move.na Cathay-:-1-:-Agent operation-:-10-:-Theme outside_Hong_Kong-:-11_12_13-:-Destination
+#20510003 13 purchase.na it-:-7-:-Agent Wilson-:-14-:-Theme
+#21166018 7 rise.na average_yield-:-2_3-:-Attribute jumbo-:-6-:-Patient 8.00_%-:-9_10-:-Result 7.96_%-:-12_13-:-Initial_State
+#21110001 6_7 fall_back.na order-:-2-:-Patient
+#21875089 5 begin.na economist-:-4-:-Agent blame-:-7-:-Theme
+#21328042 12 buy.na Manville-:-9-:-Agent much-:-13-:-Theme
+#21136017 17 post.na P&G-:-15-:-Agent net-:-18-:-Topic
+#21562036 6 buy.na broker-:-4-:-Agent investment-:-10-:-Theme
+#20100019 10 join.na Mr._Hahn-:-7_8-:-Agent company-:-12-:-Theme
+#21270028 15 build.na stadium-:-23-:-Product
+#21422016 4 buy.na RJR_Nabisco_Inc.-:-5_6_7-:-Theme it-:-1-:-Agent
+#20162042 4 rise.na Old_Spaghetti_Warehouse-:-1_2_3-:-Patient 1-:-5-:-Extent 16_1/8-:-7_8-:-Result
+#20409066 6 join.na who-:-5-:-Agent club-:-8-:-Theme
+#22102019 15 begin.na decline-:-17-:-Theme
+#21026039 49 climb.na price-:-48-:-Attribute 74_cent-:-52_53-:-Extent
+#20371002 26 join.na who-:-24-:-Agent HMS_Acquisition_Corp.-:-28_29_30-:-Theme
+#22111010 12 build.na David_Peterson-:-9_10-:-Agent Lexus_dealership-:-14_15-:-Product
+#21796001 5 join.na Republic_New_York_Corp.-:-1_2_3_4-:-Agent list-:-7-:-Theme
+#21691028 10 begin.na we-:-4-:-Agent get_back-:-11_12-:-Theme
+#21208056 11 buy.na share-:-12-:-Theme she-:-1-:-Agent
+#21036038 28 rise.na 1/2-:-29-:-Extent Delta_Air_Lines-:-25_26_27-:-Patient 66_1/2-:-31_32-:-Result
+#21319004 4 buy.na stake-:-9-:-Theme
+#22045015 13 buy.na they-:-12-:-Agent gold-:-14-:-Theme
+#20194005 2 rise.na sale-:-1-:-Patient 5_%-:-3_4-:-Extent $_4.4_billion-:-6_7_8-:-Result $_4.2_billion-:-10_11_12-:-Initial_State
+#21678005 22 begin.na work-:-23-:-Theme Mr._Kelly-:-20_21-:-Agent
+#21548005 3 post.na information_system-:-1_2-:-Agent loss-:-5-:-Topic
+#22032014 4 value.na professional-:-9-:-Agent route-:-2-:-Theme
+#22100018 21 pass.na local_phone_company_and_long-distance_carrier-:-6_7_8_9_11_12-:-Agent money-:-26-:-Theme originator-:-29-:-Recipient
+#20649007 7 rise.na 45_%-:-8_9-:-Extent 380_billion_yen-:-11_12_13-:-Result net-:-5-:-Attribute
+#21689004 16 join.na Deloitte_firm-:-3_4-:-Agent Coopers_&_Lybrand-:-17_18_19-:-Theme
+#20530014 5 buy.na they-:-3-:-Agent wardrobe-:-9-:-Theme
+#20359001 16 buy.na investor-:-2-:-Agent share-:-17-:-Theme
+#20327058 14 buy.na it-:-11-:-Agent Ansco_&_Associates_and_affiliate-:-15_16_17_18_20-:-Theme
+#20578002 10 buy.na Sony_Corp.-:-5_6-:-Agent Columbia_Pictures_Entertainment_Inc.-:-11_12_13_14-:-Theme
+#21845001 18 begin.na it-:-16-:-Agent ship-:-19-:-Theme
+#21285044 8 fall.na 1_1/2-:-9_10-:-Extent 30-:-12-:-Result Novell-:-1-:-Patient
+#20560016 10 purchase.na Westinghouse-:-5-:-Agent combustion_turbine-:-12_13-:-Theme
+#20409002 17 buy.na he-:-16-:-Agent rowing_machine-:-14_15-:-Theme
+#21924036 11 join.na employee-:-10-:-Agent work_stoppage-:-13_14-:-Theme
+#22102029 13 join.na effort-:-14-:-Theme Moscow-:-10-:-Agent
+#20585023 13 buy.na they-:-8-:-Agent share-:-14-:-Theme
+#21435009 11 accompany.na inspector-:-14-:-Theme she-:-9-:-Co-Theme
+#20405023 4 buy.na Kawasaki_Steel_Corp.-:-1_2_3-:-Agent patent-:-8-:-Theme
+#20162039 10 begin.na company-:-8-:-Agent market-:-11-:-Theme
+#21453043 25 fall.na dollar-:-24-:-Patient
+#21453034 7 buy.na he-:-4-:-Agent company-:-11-:-Theme
+#20274017 13 join.na they-:-8-:-Agent group-:-17-:-Theme

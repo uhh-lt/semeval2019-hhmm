@@ -1,0 +1,1000 @@
+#21331032 20 give.na proceedings-:-19-:-Agent protection-:-22-:-Theme #PersPron-:-21-:-Recipient
+#21150010 32 rise.na number-:-21-:-Patient
+#21783001 6 post.na inc.-:-5-:-Agent turnaround-:-10-:-Theme
+#20118106 21 consider.na
+#21480071 26 fall.na Lamson-:-1-:-Patient Sessions-:-3-:-Patient 1_2-:-27-:-Extent
+#21209004 5 rise.na earnings-:-4-:-Patient #Percnt-:-7-:-Extent
+#21624021 9 buy.na bondholder-:-7-:-Agent total-:-11-:-Theme
+#21574069 5 start.na insurer-:-2-:-Agent offer-:-6-:-Theme
+#21578050 3 soar.na computer-:-2-:-Patient 4-:-4-:-Extent 5_8-:-5-:-Extent
+#21003022 30 drop.na cost-:-23-:-Patient
+#21124013 8 post.na salomon-:-7-:-Agent net-:-14-:-Theme
+#22053024 15 prevent.na damage-:-16-:-Theme
+#21789038 16 give.na #PersPron-:-13-:-Agent notice-:-17-:-Theme customer-:-20-:-Recipient
+#21612004 16 avoid.na sell-:-11-:-Agent problem-:-18-:-Theme
+#21101011 29 conduct.na PLO-:-26-:-Agent terrorism-:-30-:-Theme
+#21622019 34 accompany.na that-:-31-:-Agent access-:-36-:-Theme
+#20029009 22 decline.na rate-:-21-:-Patient
+#20717002 25 rise.na sale-:-22-:-Patient #Percnt-:-27-:-Extent
+#21512016 6 believe.na
+#20907001 12 jump.na income-:-11-:-Patient #Percnt-:-14-:-Extent
+#20220006 11 drop.na index-:-10-:-Patient #Percnt-:-13-:-Extent
+#21994004 15 fall.na import-:-8-:-Patient
+#21136001 19 post.na co.-:-4-:-Agent rise-:-23-:-Theme
+#20290019 9 begin.na compromise-:-7-:-Theme
+#20416023 21 jump.na debt-:-9-:-Patient #Percnt-:-23-:-Extent
+#20435014 15 buy.na #PersPron-:-14-:-Agent Corp.-:-18-:-Theme
+#20692053 7 choose.na #PersPron_#Cor-:-6-:-Agent keep-:-9-:-Theme
+#21123016 25 criticize.na Lauder-:-2-:-Agent practice-:-27-:-Theme
+#21003016 6 decline.na shipment-:-5-:-Patient
+#21035005 6 post.na consolidated-:-4-:-Agent profit-:-9-:-Theme
+#20562027 18 build.na plant-:-15-:-Product
+#21861001 29 post.na other-:-28-:-Agent drop-:-32-:-Theme
+#21677046 32 start.na who-:-30-:-Agent company-:-35-:-Theme
+#21094052 6 avoid.na house-:-3-:-Agent involvement-:-8-:-Theme
+#21036007 7 drop.na index-:-6-:-Patient 1.20-:-8-:-Extent
+#20584043 14 fall.na share-:-13-:-Patient cent-:-16-:-Extent
+#20576026 21 post.na member-:-18-:-Agent performance-:-25-:-Theme
+#22030007 9 conduct.na program-:-7-:-Agent testing-:-13-:-Theme
+#22061058 4 begin.na Hutton-:-3-:-Agent coverage-:-6-:-Theme
+#21903046 7 scout.na #PersPron-:-4-:-Agent acquisition-:-9-:-Theme
+#20675009 4 buy.na owner-:-2-:-Agent machinery-:-6-:-Theme
+#21058057 14 suspect.na salesperson-:-13-:-Agent use-:-18-:-Theme
+#21460003 15 buy.na Ferranti-:-17-:-Agent Signal-:-2-:-Theme Control-:-4-:-Theme manufacturer-:-12-:-Theme #-:-21-:-Asset $-:-25-:-Asset
+#20164001 28 rise.na earnings-:-19-:-Patient #Percnt-:-30-:-Extent
+#21046002 12 drop.na failure-:-11-:-Patient #Percnt-:-14-:-Extent
+#21036048 5 pursue.na goldberg-:-3-:-Agent offer-:-10-:-Theme
+#21059019 8 gain.na share-:-7-:-Patient $-:-9-:-Extent
+#20742044 10 fall.na market-:-8-:-Patient
+#21957030 7 fall.na index-:-6-:-Patient 29.6-:-8-:-Extent
+#21971009 7 buy.na that-:-5-:-Agent machine-:-9-:-Theme
+#20437011 12 begin.na #PersPron_#Cor-:-10-:-Agent focus-:-13-:-Theme
+#21273043 4 buy.na who-:-3-:-Agent CD-:-6-:-Theme
+#20975014 7 conduct.na kaddurah-daouk-:-3-:-Agent schimmel-:-6-:-Agent research-:-10-:-Theme
+#21682015 5 ridicule.na dole-:-4-:-Agent chief-:-8-:-Theme
+#20112012 5 believe.na
+#22059005 18 begin.na line-:-7-:-Theme
+#21621016 14 drop.na profit-:-13-:-Patient
+#21784021 4 gain.na sale-:-3-:-Patient #Percnt-:-6-:-Extent
+#21121017 3 dot.na town-:-2-:-Agent dune-:-6-:-Destination
+#20439051 31 lay.na foundation-:-18-:-Theme
+#21567041 15 assess.na
+#20655023 32 start.na who-:-31-:-Agent what-:-33-:-Theme
+#20414013 7 hire.na
+#21069005 4 fall.na sale-:-3-:-Patient level-:-6-:-Extent
+#21986039 28 buy.na #PersPron-:-10-:-Agent picture-:-30-:-Theme
+#22153001 19 begin.na #PersPron_#Cor-:-17-:-Agent test-:-20-:-Theme
+#21295004 23 post.na company-:-5-:-Agent earnings-:-24-:-Theme
+#20181009 8 give.na association-:-7-:-Agent rating-:-14-:-Theme those-:-16-:-Recipient
+#21623028 5 drop.na rate-:-3-:-Patient
+#20114024 5 hire.na Hearst-:-4-:-Agent Bellows-:-8-:-Theme
+#21449005 6 jump.na bill-:-5-:-Patient #Percnt-:-8-:-Extent
+#21582013 5 begin.na court-:-3-:-Agent recognize-:-7-:-Theme
+#20818030 5 fall.na profit-:-4-:-Patient
+#21201014 24 consider.na
+#21160011 6 believe.na
+#20767022 3 believe.na
+#21096001 7 consolidate.na #PersPron-:-5-:-Agent control-:-8-:-Patient
+#21464041 3 believe.na
+#20051009 18 understand.na #PersPron-:-17-:-Agent concern-:-21-:-Theme
+#21601016 4 post.na management-:-3-:-Agent increase-:-7-:-Theme
+#22123001 8 drop.na income-:-7-:-Patient #Percnt-:-11-:-Extent
+#21770004 17 consider.na #PersPron-:-14-:-Agent number-:-21-:-Theme
+#20118033 14 hire.na contel-:-9-:-Agent manager-:-17-:-Theme
+#21203058 40 buy.na who-:-39-:-Agent
+#20194026 16 increase.na stake-:-18-:-Patient
+#21829036 12 conduct.na department-:-9-:-Agent research-:-13-:-Theme
+#22169032 10 avoid.na #PersPron-:-8-:-Agent grenade-:-13-:-Theme
+#20439054 37 fill.na corporatism-:-27-:-Agent shop-:-39-:-Destination goods-:-41-:-Theme
+#21600033 7 buy.na #PersPron-:-6-:-Agent future-:-9-:-Theme stock-:-12-:-Theme
+#20090016 18 rise.na dividend-:-16-:-Patient
+#21829019 14 build.na circuit-:-12-:-Product
+#20155045 19 purchase.na soviet-:-17-:-Agent grain-:-20-:-Theme
+#21642018 4 follow.na report-:-6-:-Co-Theme
+#22100022 5 lead.na caller-:-3-:-Theme
+#21338003 5 buy.na GSX-:-3-:-Agent $-:-6-:-Theme option-:-22-:-Theme
+#20640004 17 jump.na sale-:-13-:-Patient #Percnt-:-19-:-Extent
+#20682002 18 suspect.na official-:-5-:-Agent lead-:-26-:-Theme
+#21863005 5 castigate.na trader-:-2-:-Theme
+#20281001 28 pursue.na claim-:-20-:-Theme
+#20950001 19 fall.na income-:-18-:-Patient #Percnt-:-21-:-Extent
+#20569052 3 understand.na shilling-:-2-:-Agent problem-:-7-:-Theme
+#21981003 28 fall.na sale-:-15-:-Patient #Percnt-:-32-:-Extent
+#21939027 27 ridicule.na #PersPron-:-21-:-Theme
+#20537011 11 drive.na penalty-:-4-:-Agent fee-:-7-:-Agent interest-:-9-:-Agent value-:-13-:-Theme
+#21128026 12 drop.na price-:-10-:-Patient
+#21916002 18 begin.na worker-:-17-:-Agent task-:-21-:-Theme
+#20048030 20 gain.na receipt-:-15-:-Patient adr-:-18-:-Patient 5/8-:-21-:-Extent
+#20987001 15 consider.na #PersPron-:-13-:-Agent impose-:-16-:-Theme
+#21314032 18 fall.na capital-:-3-:-Patient 1-:-19-:-Extent 5_8-:-20-:-Extent
+#20962007 16 start.na vila-:-15-:-Agent do-:-17-:-Theme
+#21678005 22 begin.na kelly-:-21-:-Agent work-:-23-:-Theme
+#21274004 10 jump.na export-:-9-:-Patient time-:-15-:-Extent
+#20473016 37 consider.na #PersPron_#Cor-:-35-:-Agent venture-:-39-:-Theme
+#21337020 11 gain.na Hakko-:-10-:-Patient 30-:-12-:-Extent
+#20321003 15 purchase.na #PersPron-:-13-:-Agent stock-:-18-:-Theme
+#22017013 25 believe.na
+#21208098 6 fall.na index-:-5-:-Patient 3.10-:-7-:-Extent
+#21624032 11 post.na note-:-10-:-Agent decline-:-13-:-Theme
+#21240001 8 decrease.na production-:-2-:-Patient #Percnt-:-10-:-Extent
+#22061070 22 gain.na E-:-20-:-Patient #Percnt-:-24-:-Extent 5_8-:-27-:-Extent
+#20118036 17 begin.na leadership-:-6-:-Theme
+#21537005 27 buy.na Central-:-26-:-Agent interest-:-31-:-Theme
+#21688020 32 investigate.na engineer-:-21-:-Agent collapse-:-35-:-Location
+#20436025 34 begin.na negotiation-:-33-:-Theme
+#21999010 5 fall.na sale-:-4-:-Patient
+#20363005 10 give.na Fed-:-8-:-Agent permission-:-18-:-Theme handful-:-12-:-Recipient
+#20701004 3 increase.na income-:-2-:-Patient #Percnt-:-5-:-Extent
+#20011007 11 increase.na export-:-10-:-Patient #Percnt-:-13-:-Extent
+#20142039 17 post.na bond-:-16-:-Agent return-:-20-:-Theme
+#22167012 5 pass.na
+#21108001 5 rise.na rate-:-4-:-Patient
+#21937041 9 gain.na Cetus-:-8-:-Patient 1_2-:-10-:-Extent
+#21208034 21 start.na speculator-:-2-:-Agent sell-:-22-:-Theme
+#22124050 25 decline.na share-:-24-:-Patient more-:-27-:-Extent
+#20306004 17 rise.na price-:-16-:-Patient cent-:-19-:-Extent
+#20583033 6 post.na peck-:-5-:-Agent jump-:-10-:-Theme
+#20077005 4 rise.na price-:-3-:-Patient
+#20970012 17 investigate.na company-:-15-:-Agent channel-:-21-:-Location
+#20449029 29 understand.na #PersPron-:-28-:-Agent receive-:-33-:-Theme
+#20151004 3 follow.na announcement-:-9-:-Co-Theme
+#21320011 7 begin.na explosion-:-6-:-Theme
+#20467020 5 soar.na circulation-:-4-:-Patient
+#21601001 9 decline.na interest-:-2-:-Patient #Percnt-:-19-:-Extent
+#20409024 9 rise.na price-:-5-:-Patient
+#21554055 8 believe.na
+#20416007 21 move.na
+#21278001 6 build.na #PersPron-:-4-:-Agent plant-:-12-:-Product
+#20275003 13 give.na #PersPron-:-11-:-Agent right-:-17-:-Theme shareholder-:-15-:-Recipient
+#21586011 6 believe.na
+#21971011 37 buy.na who-:-34-:-Agent machine-:-39-:-Theme
+#20286028 13 buy.na consumer-:-9-:-Agent that-:-8-:-Theme
+#21094008 26 consider.na #PersPron-:-24-:-Agent compromise-:-28-:-Theme
+#21856008 20 start.na #PersPron_#Cor-:-15-:-Agent buy-:-21-:-Theme
+#20327042 4 give.na Hutton-:-3-:-Agent news-:-9-:-Theme investor-:-6-:-Recipient
+#22113049 24 buy.na #PersPron-:-22-:-Agent anything-:-25-:-Theme
+#20765077 14 believe.na
+#20712001 9 rise.na measure-:-5-:-Patient #Percnt-:-11-:-Extent
+#20277008 5 criticize.na #PersPron-:-4-:-Agent timing-:-7-:-Theme
+#22125009 8 believe.na
+#20057014 34 position.na #PersPron-:-30-:-Theme
+#21654015 7 drop.na sale-:-6-:-Patient #Percnt-:-12-:-Extent
+#20975040 6 investigate.na subcommitee-:-3-:-Agent abuse-:-9-:-Location
+#21825029 6 begin.na exhibit-:-9-:-Theme fax-:-2-:-Instrument
+#20374002 3 post.na stock-:-2-:-Agent loss-:-6-:-Theme
+#20975037 4 believe.na
+#20090029 15 begin.na drop-:-11-:-Theme
+#20126009 6 scoff.na Baim-:-5-:-Agent that-:-8-:-Recipient
+#21480018 17 join.na investor-:-5-:-Agent pursuit-:-19-:-Patient
+#21212002 15 buy.na #PersPron-:-11-:-Agent
+#21121004 13 search.na man-:-1-:-Agent glint-:-17-:-Location
+#20732018 5 believe.na
+#21970010 4 draw.na
+#21151021 7 gain.na bond-:-6-:-Patient point-:-11-:-Extent $-:-15-:-Extent
+#20442011 22 choose.na Kidder-:-8-:-Agent Peabody-:-10-:-Agent Co.-:-12-:-Agent subsidiary-:-16-:-Agent subsidiary-:-25-:-Theme provide-:-27-:-Theme
+#21743033 19 consider.na question-:-4-:-Theme
+#20444013 8 rise.na price-:-7-:-Patient
+#21447017 15 believe.na
+#21290003 7 move.na
+#20192061 10 rise.na index-:-9-:-Patient
+#21899006 7 place.na county-:-3-:-Agent firefighter-:-9-:-Theme sheriff-:-11-:-Theme alert-:-13-:-Destination
+#21566034 16 give.na share-:-7-:-Agent demonstration-:-21-:-Theme
+#20336016 3 believe.na Marcus-:-2-:-Agent continue-:-8-:-Theme reverse-:-16-:-Theme
+#20295020 5 follow.na announcement-:-7-:-Co-Theme
+#21311009 9 assess.na impact-:-4-:-Theme
+#21692015 7 prohibit.na law-:-6-:-Agent discrimination-:-8-:-Theme
+#21455007 3 believe.na
+#21469002 28 tug.na massacre-:-18-:-Agent event-:-27-:-Agent belt-:-30-:-Patient tight-:-32-:-Co-Patient
+#20153018 7 post.na company-:-6-:-Agent net-:-8-:-Theme down-:-20-:-Theme $-:-22-:-Theme $-:-27-:-Theme
+#21322052 11 consider.na inc.-:-9-:-Agent restructure-:-12-:-Theme
+#21651041 10 post.na company-:-7-:-Agent earnings-:-11-:-Theme
+#21377018 4 believe.na
+#21208086 3 swell.na trading-:-2-:-Patient
+#22092003 7 follow.na Data-:-6-:-Theme competitor-:-9-:-Co-Theme
+#21470005 16 balloon.na that-:-14-:-Patient
+#20627021 21 buy.na clothes-:-18-:-Theme
+#20192029 17 begin.na investor-:-15-:-Agent buy-:-18-:-Theme
+#20682005 5 begin.na board-:-3-:-Agent day-:-7-:-Theme
+#21951014 4 select.na #PersPron-:-3-:-Agent #PersPron-:-5-:-Theme
+#21774002 3 decline.na revenue-:-2-:-Patient #Percnt-:-7-:-Extent
+#20554021 7 hire.na
+#21694018 6 drive.na official-:-2-:-Agent rate-:-8-:-Theme
+#21761050 16 consider.na investor-:-14-:-Agent sell-:-17-:-Theme
+#20112028 18 prevent.na that-:-17-:-Agent office-:-22-:-Theme subject-:-28-:-Theme
+#20257028 16 drag.na
+#20524071 3 soar.na application-:-2-:-Patient
+#20553025 12 choose.na Lawson-:-2-:-Agent shadow-:-15-:-Theme
+#21314020 12 gain.na baker-:-11-:-Patient 3_8-:-13-:-Extent
+#21931019 20 drop.na unit-:-19-:-Patient
+#21011007 3 jump.na traffic-:-2-:-Patient #Percnt-:-5-:-Extent
+#20450030 9 begin.na #PersPron_#Cor-:-2-:-Agent trade-:-11-:-Theme
+#21666006 22 start.na decision-:-20-:-Agent search-:-24-:-Theme
+#22032028 7 begin.na Eastern-:-5-:-Agent fly-:-8-:-Theme
+#20077008 4 jump.na average-:-3-:-Patient more-:-5-:-Extent
+#20214023 10 join.na retiree-:-6-:-Agent tourist-:-8-:-Agent fan-:-12-:-Patient de-:-15-:-Patient Castro-:-16-:-Patient
+#20560002 19 join.na Westinghouse-:-3-:-Agent legion-:-22-:-Patient
+#20449017 6 buy.na trader-:-5-:-Agent amount-:-10-:-Theme
+#21015002 7 fall.na stock-:-1-:-Patient
+#20405029 19 consider.na moscow-:-16-:-Agent declassify-:-20-:-Theme
+#21927006 5 believe.na
+#20254016 12 rise.na other-:-11-:-Patient supply-:-18-:-Patient length-:-21-:-Patient price-:-29-:-Patient
+#21116006 14 choose.na people-:-5-:-Agent ignore-:-16-:-Theme
+#21267102 3 scoff.na litigator-:-2-:-Agent notion-:-6-:-Recipient
+#20036049 16 fall.na price-:-10-:-Patient
+#20946005 34 deride.na mencken-:-33-:-Agent who-:-32-:-Theme primitive-:-37-:-Attribute
+#21047009 17 value.na #PersPron-:-16-:-Agent bloomingdale-:-18-:-Theme $-:-21-:-Value
+#20231016 21 follow.na price-:-24-:-Co-Theme
+#20464007 16 gain.na index-:-4-:-Patient Nasdaq-:-13-:-Patient 0.47-:-17-:-Extent
+#20690015 4 start.na drop-:-8-:-Theme drug-:-3-:-Instrument
+#20576054 21 ban.na #PersPron-:-19-:-Agent sex-:-22-:-Theme violence-:-24-:-Theme
+#22052006 3 buy.na who-:-2-:-Agent illusion-:-5-:-Theme
+#20048023 19 rise.na share-:-8-:-Patient 5/8-:-20-:-Extent
+#22040009 6 post.na bank-:-5-:-Agent increase-:-8-:-Theme
+#20051011 10 consider.na #PersPron_#Cor-:-8-:-Agent investigate-:-11-:-Theme
+#21601006 23 buy.na #PersPron-:-21-:-Agent share-:-25-:-Theme price-:-31-:-Asset
+#21999039 13 fall.na bell-:-12-:-Patient cent-:-15-:-Extent
+#21002057 11 give.na #PersPron-:-8-:-Agent #PersPron-:-12-:-Theme underperformer-:-14-:-Recipient
+#21200001 12 fall.na production-:-3-:-Patient #Percnt-:-14-:-Extent
+#21548004 19 decline.na earnings-:-18-:-Patient #Percnt-:-21-:-Extent
+#20097010 7 scrutinize.na ministry-:-4-:-Agent activity-:-11-:-Location
+#20975048 8 shun.na scientist-:-6-:-Agent contact-:-9-:-Theme
+#21570037 6 believe.na
+#20300038 6 give.na device-:-3-:-Agent certainty-:-8-:-Theme boss-:-11-:-Recipient
+#21642010 10 gain.na index-:-9-:-Patient 18.11-:-11-:-Extent
+#21203010 4 fall.na market-:-3-:-Patient
+#20946024 24 believe.na
+#21203046 3 rise.na platinum-:-2-:-Patient $-:-4-:-Extent
+#21421004 13 send.na #PersPron-:-12-:-Agent signal-:-17-:-Theme
+#21387032 14 donate.na soren-:-12-:-Agent member-:-18-:-Recipient
+#21432029 2 believe.na
+#20441011 22 plummet.na market-:-21-:-Patient
+#21692041 12 join.na partner-:-3-:-Agent Jr.-:-9-:-Agent Cowan-:-13-:-Patient Owen-:-15-:-Patient firm-:-19-:-Patient
+#20113001 18 rise.na income-:-13-:-Patient
+#21625002 54 give.na #PersPron-:-53-:-Agent difference-:-57-:-Theme #PersPron-:-55-:-Recipient
+#22148010 19 decline.na profit-:-14-:-Patient #Percnt-:-21-:-Extent
+#20350023 4 drop.na profit-:-3-:-Patient #Percnt-:-6-:-Extent
+#22041010 25 begin.na popularity-:-24-:-Agent ride-:-29-:-Theme
+#21284028 11 purchase.na that-:-8-:-Agent industry-:-13-:-Theme
+#20406015 18 soar.na fee-:-16-:-Patient
+#20085053 11 start.na bank-:-9-:-Theme
+#21928019 11 pick.na firm-:-8-:-Theme
+#21145013 22 believe.na
+#21295013 15 fall.na profit-:-7-:-Patient
+#20016001 13 rise.na sale-:-4-:-Patient #Percnt-:-15-:-Extent
+#21097010 14 jump.na income-:-9-:-Patient #Percnt-:-17-:-Extent
+#21190011 23 prevent.na that-:-21-:-Agent Tele-Communications-:-24-:-Theme drop-:-26-:-Theme
+#20983034 15 give.na #PersPron-:-13-:-Agent picture-:-18-:-Theme
+#20477025 22 fall.na share-:-20-:-Patient
+#20222001 9 buy.na #PersPron-:-7-:-Agent #Percnt-:-15-:-Theme
+#20436008 27 give.na offer-:-25-:-Agent money-:-30-:-Theme #PersPron-:-28-:-Recipient
+#20472005 7 rise.na net-:-6-:-Patient
+#20090026 8 drop.na yield-:-7-:-Patient
+#20208001 13 give.na #PersPron-:-11-:-Agent blessing-:-15-:-Theme claptrap-:-18-:-Recipient
+#21176001 22 evaluate.na director-:-20-:-Agent offer-:-24-:-Theme
+#21110010 27 begin.na year-:-26-:-Theme
+#20692046 25 increase.na budget-:-27-:-Patient #Percnt-:-30-:-Extent
+#20681071 4 drop.na Machines-:-3-:-Patient 7/8-:-5-:-Extent
+#20783013 2 believe.na
+#21611013 27 consider.na who-:-25-:-Agent proposal-:-29-:-Theme
+#22124023 14 decline.na market-:-12-:-Patient #Percnt-:-17-:-Extent
+#21047012 10 pass.na figure-:-6-:-Theme buyer-:-15-:-Recipient
+#20689009 12 consider.na investor-:-10-:-Agent that-:-8-:-Theme
+#20204003 6 begin.na fund-:-2-:-Agent operation-:-7-:-Theme
+#21017033 23 give.na bill-:-22-:-Agent authority-:-32-:-Theme department-:-25-:-Recipient
+#21935010 4 give.na effect-:-3-:-Agent right-:-8-:-Theme state-:-6-:-Recipient
+#20742023 17 buy.na #PersPron-:-15-:-Agent portfolio-:-19-:-Theme
+#20519001 6 rise.na index-:-5-:-Patient #Percnt-:-10-:-Extent
+#21010031 5 believe.na #PersPron-:-4-:-Agent succeed-:-12-:-Theme
+#20121046 17 hunt.na Gorman-:-2-:-Agent bargain-:-20-:-Theme
+#21091007 10 believe.na
+#21267108 7 believe.na
+#21926002 12 post.na Dow-:-11-:-Agent increase-:-14-:-Theme
+#21611006 5 consider.na hunt-:-3-:-Agent #PersPron-:-6-:-Theme
+#21586032 9 line.na that-:-7-:-Destination skin-:-12-:-Theme
+#22013086 20 buy.na #PersPron-:-17-:-Agent recording-:-21-:-Theme sergeant-:-28-:-Source
+#21952032 8 believe.na
+#20970012 8 begin.na usa-:-6-:-Agent distribute-:-9-:-Theme
+#20727003 5 increase.na amount-:-7-:-Patient
+#21500028 5 decline.na #PersPron-:-4-:-Patient
+#20607001 4 begin.na issue-:-3-:-Theme
+#21932032 17 buy.na which-:-14-:-Agent copper-:-18-:-Theme
+#20900009 19 believe.na
+#20118182 19 prevent.na #PersPron_#Cor-:-20-:-Theme
+#21635055 30 check.na investor-:-5-:-Agent listing-:-32-:-Location
+#20659008 6 rise.na income-:-4-:-Patient #Percnt-:-8-:-Extent
+#20524030 18 believe.na
+#21187044 14 tumble.na Siemens-:-13-:-Patient 7.5-:-15-:-Extent
+#20666005 3 fall.na profit-:-2-:-Patient
+#20359056 10 rise.na #PersPron-:-8-:-Patient
+#20505008 14 increase.na number-:-16-:-Patient
+#21272006 22 give.na #PersPron-:-21-:-Agent drubbing-:-28-:-Theme machine-:-24-:-Recipient
+#20048008 13 jump.na index-:-6-:-Patient 3.23-:-14-:-Extent
+#21267033 9 buy.na people-:-4-:-Agent corporation-:-7-:-Agent #PersPron-:-10-:-Theme
+#21924024 15 fall.na income-:-14-:-Patient #Percnt-:-17-:-Extent
+#21201039 17 give.na machinist-:-13-:-Agent much-:-10-:-Theme
+#20293004 4 start.na project-:-3-:-Theme
+#21500023 35 decline.na sterling-:-32-:-Patient
+#21208070 4 fall.na stock-:-3-:-Patient
+#20162034 4 drop.na pacific-:-3-:-Patient 1-:-5-:-Extent 1/8-:-6-:-Extent
+#21774012 9 decline.na sale-:-6-:-Patient
+#22052025 10 fill.na infantry-:-8-:-Destination conscript-:-13-:-Theme
+#21495015 11 understand.na number-:-8-:-Agent necessity-:-13-:-Theme
+#21043002 13 buy.na investor-:-11-:-Agent stock-:-20-:-Theme
+#21616029 4 fall.na cost-:-2-:-Patient #Percnt-:-6-:-Extent
+#22083001 7 drop.na profit-:-6-:-Patient #Percnt-:-9-:-Extent
+#20994001 4 erupt.na mountain-:-14-:-Theme
+#21619001 8 begin.na that-:-7-:-Theme
+#21562018 16 fall.na stock-:-11-:-Patient
+#21554007 7 begin.na firm-:-5-:-Agent produce-:-9-:-Theme
+#21222009 9 begin.na which-:-7-:-Theme
+#21601008 33 buy.na share-:-29-:-Theme
+#20465014 9 believe.na
+#20224013 11 follow.na suspension-:-14-:-Co-Theme
+#21744014 17 build.na that-:-16-:-Agent model-:-24-:-Product
+#22102019 15 begin.na rate-:-6-:-Theme
+#20034038 6 buy.na investor-:-3-:-Agent fund-:-8-:-Theme
+#21817010 8 begin.na galileo-:-6-:-Agent tour-:-11-:-Theme
+#20251005 5 decline.na requirement-:-2-:-Patient
+#21264031 9 consider.na #PersPron-:-7-:-Agent magazine-:-6-:-Theme
+#21728022 5 fall.na interest-:-4-:-Patient #Percnt-:-7-:-Extent
+#21740005 5 post.na segment-:-3-:-Agent sale-:-7-:-Theme
+#20020007 3 laud.na Hills-:-2-:-Agent korea-:-5-:-Theme create-:-7-:-Attribute
+#22106043 27 accompany.na phrase-:-20-:-Agent third-:-25-:-Agent litany-:-31-:-Theme
+#20975037 10 prevent.na escalation-:-12-:-Theme
+#20306004 3 fall.na price-:-2-:-Patient cent-:-5-:-Extent
+#21282004 21 begin.na jerell-:-20-:-Agent withhold-:-22-:-Theme
+#21019005 6 give.na commission-:-5-:-Agent approval-:-9-:-Theme basket-:-14-:-Recipient
+#21065001 23 decline.na work-:-22-:-Patient
+#22140015 19 buy.na who-:-17-:-Agent Daewoo-:-21-:-Theme
+#20638014 17 purchase.na drive-:-14-:-Theme
+#20629067 49 follow.na that-:-48-:-Theme boom-:-51-:-Co-Theme
+#21283015 16 fall.na profit-:-2-:-Patient #Percnt-:-18-:-Extent
+#21146082 6 build.na #PersPron-:-4-:-Agent road-:-8-:-Product
+#21946037 8 believe.na
+#21187007 4 fall.na index-:-3-:-Patient point-:-6-:-Extent
+#22151045 6 start.na Lingus-:-5-:-Agent ferry-:-7-:-Theme
+#20155001 5 soar.na price-:-4-:-Patient
+#21366031 16 believe.na
+#20108040 35 check.na #PersPron-:-32-:-Agent credentials-:-37-:-Location
+#21226039 3 fall.na profit-:-2-:-Patient
+#20464029 4 gain.na Time-:-3-:-Patient 1-:-5-:-Extent 1_2-:-6-:-Extent
+#21377063 11 buy.na #PersPron-:-9-:-Agent brake-:-13-:-Theme
+#20254005 17 fall.na index-:-7-:-Patient
+#20114038 10 hand.na #PersPron-:-9-:-Agent paper-:-13-:-Theme #PersPron-:-11-:-Destination
+#20267002 7 adorn.na bench-:-9-:-Destination basket-:-1-:-Theme palm-:-6-:-Theme
+#21516001 4 post.na inc.-:-3-:-Agent profit-:-8-:-Theme
+#20162005 7 gain.na Index-:-6-:-Patient 0.99-:-8-:-Extent
+#21187036 10 jump.na which-:-9-:-Patient mark-:-12-:-Extent
+#21057004 20 start.na negotiation-:-14-:-Theme
+#20444002 6 gain.na Average-:-5-:-Patient point-:-8-:-Extent
+#20092004 7 fall.na force-:-5-:-Patient
+#21208043 5 begin.na fright-:-4-:-Theme
+#20631001 8 join.na finnair-:-1-:-Agent airline-:-6-:-Agent wave-:-10-:-Patient
+#21937027 4 jump.na co.-:-3-:-Patient 2-:-5-:-Extent
+#20192024 29 rise.na price-:-27-:-Patient
+#21137041 12 guide.na vision-:-6-:-Agent #PersPron-:-13-:-Theme
+#21626004 8 believe.na Airways-:-7-:-Agent end-:-15-:-Theme
+#21428031 3 understand.na work-:-9-:-Theme
+#20513001 7 rise.na inflation-:-3-:-Patient #Percnt-:-12-:-Extent
+#20001001 9 join.na vinken-:-2-:-Agent board-:-11-:-Patient
+#20405023 4 buy.na Corp.-:-3-:-Agent patent-:-8-:-Theme
+#20990010 7 believe.na
+#20782018 7 post.na bethlehem-:-6-:-Agent charge-:-12-:-Theme
+#21856039 2 believe.na
+#21723024 11 gain.na Shimizu-:-10-:-Patient 50-:-12-:-Extent
+#20569048 23 decline.na rate-:-20-:-Patient
+#20274017 10 consider.na #PersPron_#Cor-:-8-:-Agent ask-:-11-:-Theme
+#21036003 29 fall.na average-:-5-:-Patient 5.94-:-30-:-Extent
+#21591004 24 start.na #PersPron_#Cor-:-21-:-Agent ship-:-25-:-Theme
+#20174014 3 believe.na
+#21529013 4 sidestep.na that-:-3-:-Agent issue-:-6-:-Theme
+#21636027 16 believe.na
+#21055002 5 gain.na composite-:-4-:-Patient 1.19-:-6-:-Extent
+#22031025 12 believe.na
+#21480068 9 fall.na Georgia-Pacific-:-8-:-Patient 1-:-10-:-Extent 3_4-:-11-:-Extent
+#22106038 5 begin.na rush-:-3-:-Agent life-:-7-:-Theme
+#21856053 2 believe.na
+#21328042 12 buy.na manville-:-9-:-Agent much-:-13-:-Theme
+#21424033 11 begin.na department-:-3-:-Agent distance-:-12-:-Theme
+#22006007 12 buy.na #PersPron-:-10-:-Agent 112_000-:-14-:-Theme
+#20334006 17 climb.na profit-:-16-:-Patient #Percnt-:-19-:-Extent
+#20924004 9 buy.na holder-:-7-:-Agent share-:-11-:-Theme #Percnt-:-14-:-Asset
+#21086001 22 choose.na #PersPron-:-20-:-Agent site-:-25-:-Theme
+#21319035 14 begin.na fournier-:-8-:-Agent buy-:-15-:-Theme
+#20464005 26 drop.na index-:-25-:-Patient 3.27-:-27-:-Extent
+#20994017 3 swell.na figure-:-5-:-Patient
+#21932025 4 decline.na contract-:-3-:-Patient cent-:-6-:-Extent
+#21012004 17 consider.na newspaper-:-15-:-Agent idea-:-19-:-Theme
+#20003026 23 mix.na worker-:-1-:-Agent fiber-:-26-:-Patient
+#21249034 9 drop.na spending-:-2-:-Patient
+#21320002 17 fall.na crude-:-16-:-Patient cent-:-19-:-Extent
+#20153013 24 jump.na earnings-:-20-:-Patient #Percnt-:-26-:-Extent
+#21930017 4 fall.na stock-:-3-:-Patient $-:-5-:-Extent
+#21317022 29 send.na sorrell-:-11-:-Agent note-:-31-:-Theme
+#21723004 15 climb.na index-:-4-:-Patient 266.66-:-16-:-Extent #Percnt-:-20-:-Extent
+#20950013 9 fall.na net-:-8-:-Patient #Percnt-:-11-:-Extent
+#20302004 7 criticize.na community-:-13-:-Agent tax-:-3-:-Theme tend-:-16-:-Attribute
+#21133001 4 consider.na bush-:-2-:-Agent cast-:-5-:-Theme
+#22109024 11 begin.na #PersPron_#Cor-:-8-:-Theme
+#20781004 5 begin.na intel-:-4-:-Agent notify-:-6-:-Theme
+#21703004 6 believe.na #PersPron-:-3-:-Agent have-:-9-:-Theme
+#20563004 19 increase.na quantity-:-21-:-Patient
+#21036008 7 fall.na index-:-6-:-Patient 1.16-:-8-:-Extent
+#20413017 22 believe.na
+#21856075 27 buy.na who-:-26-:-Agent brand-:-29-:-Theme
+#20788036 18 ban.na number-:-8-:-Theme
+#20162028 22 drop.na nekoosa-:-3-:-Patient 1-:-23-:-Extent 3/8-:-24-:-Extent
+#20776033 18 begin.na uncertainty-:-16-:-Theme
+#20097019 6 join.na stanley-:-3-:-Agent list-:-9-:-Patient
+#21693009 8 fall.na net-:-7-:-Patient #Percnt-:-10-:-Extent
+#20469029 13 prohibit.na that-:-12-:-Agent #PersPron_#Cor-:-14-:-Theme use-:-16-:-Theme
+#20679007 8 buy.na Hewlett-Packard-:-6-:-Agent share-:-11-:-Theme
+#20984053 2 run.na #PersPron-:-3-:-Theme
+#20584046 18 consider.na
+#20719005 7 cover.na london-:-6-:-Agent #PersPron-:-8-:-Destination glory-:-10-:-Theme
+#21992004 7 decline.na employment-:-3-:-Patient
+#21037051 14 build.na Daikin-:-12-:-Agent plant-:-16-:-Product
+#21273022 12 buy.na #PersPron-:-10-:-Agent what-:-9-:-Theme
+#21901007 24 give.na Roh-:-2-:-Agent hint-:-26-:-Theme
+#21371019 11 jump.na share-:-10-:-Patient
+#21144009 18 purchase.na offer-:-16-:-Agent million-:-21-:-Theme #Percnt-:-30-:-Theme
+#20530001 19 eschew.na brother-:-8-:-Agent standard-bearer-:-11-:-Agent promotion-:-22-:-Theme trend-:-25-:-Theme rule-:-28-:-Theme
+#20401004 6 decline.na value-:-5-:-Patient
+#20901004 13 give.na extension-:-18-:-Theme inc.-:-3-:-Recipient division-:-6-:-Recipient
+#20114007 33 give.na Hearst-:-29-:-Agent paper-:-35-:-Theme
+#20527013 4 drop.na origination-:-3-:-Patient
+#20257015 7 lay.na egg-:-5-:-Theme
+#20288011 9 criticize.na bush-:-6-:-Theme move-:-14-:-Attribute
+#21687002 21 buy.na Soviet-:-19-:-Agent ton-:-25-:-Theme
+#21345005 4 drop.na income-:-3-:-Patient #Percnt-:-6-:-Extent
+#21455022 13 coat.na wall-:-10-:-Destination finish-:-16-:-Theme
+#21026022 4 fall.na price-:-3-:-Patient
+#20261016 10 consider.na #PersPron-:-9-:-Agent make-:-15-:-Theme
+#21802032 8 knock.na
+#21206025 4 understand.na disappoint-:-9-:-Theme
+#21733002 11 post.na company-:-10-:-Agent net-:-12-:-Theme
+#21962007 5 give.na option-:-4-:-Agent right-:-9-:-Theme obligation-:-14-:-Theme owner-:-7-:-Recipient
+#20137021 3 gain.na Shell-:-2-:-Patient 20-:-4-:-Extent
+#21804016 17 consider.na #PersPron-:-14-:-Agent #PersPron-:-18-:-Theme
+#21733001 19 post.na inc.-:-3-:-Agent rise-:-23-:-Theme
+#21843023 4 post.na fund-:-2-:-Agent yield-:-5-:-Theme
+#21728016 5 fall.na profit-:-4-:-Patient #Percnt-:-7-:-Extent
+#20975046 18 follow.na that-:-12-:-Agent guideline-:-21-:-Theme
+#21829013 20 believe.na
+#21509004 20 fall.na stake-:-18-:-Patient
+#21857006 6 hire.na aetna-:-1-:-Agent insurer-:-4-:-Agent engineer-:-7-:-Theme architect-:-9-:-Theme
+#22170049 10 buy.na #PersPron-:-8-:-Agent share-:-12-:-Theme
+#20127005 31 rise.na share-:-30-:-Patient penny-:-33-:-Extent
+#21784028 9 fall.na share-:-8-:-Patient cent-:-11-:-Extent
+#20531001 6 buy.na #PersPron-:-4-:-Agent share-:-14-:-Theme
+#20141014 23 increase.na income-:-21-:-Patient
+#21774001 5 post.na Corp.-:-4-:-Agent rise-:-9-:-Theme
+#21569079 5 pick.na sponsor-:-2-:-Agent stock-:-7-:-Theme
+#21711001 9 jump.na profit-:-8-:-Patient #Percnt-:-11-:-Extent
+#20296018 8 believe.na
+#20204007 9 shun.na fund-:-7-:-Agent security-:-10-:-Theme
+#21057038 6 begin.na talk-:-4-:-Theme
+#21269045 13 build.na Industry-:-3-:-Agent plant-:-15-:-Product
+#20254001 7 rise.na gauge-:-6-:-Patient #Percnt-:-11-:-Extent
+#20585058 3 fall.na medical-:-2-:-Patient 4-:-4-:-Extent
+#21862002 11 conduct.na survey-:-3-:-Theme
+#21154071 16 begin.na Vaezi-:-6-:-Agent minister-:-11-:-Agent visit-:-19-:-Theme
+#21947006 5 lead.na arabia-:-8-:-Agent exporter-:-14-:-Agent #Cor_#PersPron-:-16-:-Theme
+#21986051 16 endow.na stuff-:-4-:-Agent wedding-:-20-:-Destination nobleman-:-23-:-Destination
+#21411048 27 lead.na #PersPron-:-26-:-Agent Hurricane-:-29-:-Theme
+#22161018 45 begin.na massage-:-44-:-Theme
+#21646001 7 begin.na slide-:-3-:-Theme
+#20771026 16 understand.na #PersPron-:-14-:-Agent think-:-20-:-Theme
+#21154061 3 consider.na
+#20527001 6 plummet.na stock-:-5-:-Patient
+#21783013 7 fall.na net-:-6-:-Patient #Percnt-:-9-:-Extent
+#21569057 4 buy.na #PersPron-:-2-:-Agent $-:-6-:-Theme
+#22100012 6 begin.na carrier-:-3-:-Agent marketing-:-7-:-Theme
+#22109007 15 join.na who-:-14-:-Agent
+#21208007 8 drive.na speculation-:-3-:-Agent trading-:-7-:-Agent average-:-11-:-Theme
+#21569025 9 investigate.na division-:-3-:-Agent charge-:-14-:-Location increase-:-16-:-Location
+#21463016 19 tumble.na #Percnt-:-21-:-Extent #Percnt-:-28-:-Extent
+#21297004 12 evaluate.na #PersPron-:-9-:-Theme
+#20350007 5 soar.na stock-:-4-:-Patient $-:-6-:-Extent
+#21160008 7 prevent.na limit-:-5-:-Agent state-:-9-:-Theme spend-:-11-:-Theme
+#21572009 20 build.na #PersPron-:-18-:-Product
+#21937017 7 follow.na who-:-6-:-Agent stock-:-9-:-Theme
+#22111043 15 start.na #PersPron_#Cor-:-14-:-Agent pull-:-16-:-Theme
+#21120006 34 buy.na #PersPron_#Cor-:-24-:-Agent food-:-35-:-Theme
+#20113022 21 decline.na payment-:-18-:-Patient
+#21646027 10 begin.na china-:-9-:-Agent reform-:-11-:-Theme
+#22013029 27 send.na boss-:-4-:-Agent coffin-:-32-:-Theme #PersPron-:-28-:-Destination
+#21470037 22 cover.na wall-:-14-:-Destination
+#21057063 43 give.na pilson-:-25-:-Agent #PersPron-:-44-:-Theme negotiator-:-47-:-Recipient
+#20687009 12 begin.na that-:-11-:-Theme
+#20571003 24 denounce.na leader-:-5-:-Agent kinnock-:-8-:-Agent thatcher-:-26-:-Theme have-:-28-:-Attribute refuse-:-33-:-Attribute
+#21037010 17 build.na Corp.-:-3-:-Agent shipbuilder-:-6-:-Agent plant-:-20-:-Product expansion-:-24-:-Product
+#20360024 14 pursue.na entity-:-7-:-Agent measurement-:-16-:-Theme
+#20569051 18 rise.na product-:-17-:-Patient rate-:-24-:-Extent
+#21058054 6 follow.na industry-:-3-:-Agent bill-:-9-:-Theme
+#21655028 8 give.na Elvira-:-7-:-Agent smile-:-11-:-Theme #PersPron-:-9-:-Recipient
+#21540009 4 fall.na price-:-3-:-Patient
+#21932046 4 buy.na country-:-2-:-Agent ton-:-6-:-Theme
+#21105033 23 fall.na income-:-2-:-Patient #Percnt-:-25-:-Extent
+#21329006 15 begin.na emerson-:-1-:-Agent bosch-:-3-:-Agent offer-:-19-:-Theme
+#20786009 4 consider.na
+#20759003 11 increase.na stake-:-15-:-Patient
+#20950007 14 fall.na Class-:-2-:-Patient cent-:-16-:-Extent
+#22169010 5 lead.na bond-:-12-:-Agent rally-:-3-:-Theme
+#20497001 23 fall.na income-:-15-:-Patient
+#21480068 18 tumble.na 1-:-19-:-Extent 1_2-:-20-:-Extent
+#20686015 8 increase.na budget-:-15-:-Patient
+#22064027 8 believe.na bank-:-3-:-Agent government-:-7-:-Agent get-:-11-:-Theme
+#21617027 10 hire.na parent-:-6-:-Agent sitter-:-12-:-Theme
+#21854021 6 fall.na stock-:-4-:-Patient
+#22063017 9 fall.na yield-:-2-:-Patient less-:-10-:-Extent
+#20760001 10 fall.na income-:-5-:-Patient #Percnt-:-12-:-Extent
+#21971002 34 choose.na buyer-:-33-:-Agent drive-:-37-:-Theme
+#20687003 14 move.na
+#20453034 6 give.na #PersPron-:-3-:-Agent something-:-7-:-Theme
+#20400052 18 start.na #PersPron_#Cor-:-17-:-Theme
+#20112023 22 prohibit.na act-:-21-:-Agent service-:-24-:-Theme
+#20155033 9 lead.na oil-:-8-:-Agent way-:-11-:-Theme
+#21781044 11 gain.na Ajinomoto-:-10-:-Patient 70-:-12-:-Extent
+#21817018 4 start.na project-:-3-:-Theme
+#21146021 5 search.na #PersPron-:-3-:-Agent price-:-9-:-Location
+#21929006 4 follow.na krenz-:-2-:-Agent path-:-9-:-Theme
+#21273014 25 plummet.na value-:-22-:-Patient $-:-27-:-Extent
+#21936040 20 begin.na Harris-:-5-:-Agent woman-:-11-:-Agent overpower-:-24-:-Theme
+#21331034 14 criticize.na Pretl-:-13-:-Agent appeal-:-16-:-Theme raise-:-18-:-Attribute
+#21905002 13 post.na concern-:-12-:-Agent loss-:-15-:-Theme
+#21255010 28 investigate.na government-:-12-:-Agent cause-:-31-:-Location
+#21971033 15 believe.na
+#21946009 13 believe.na
+#21856035 12 buy.na #Percnt-:-3-:-Agent brand-:-15-:-Theme
+#22046003 6 assess.na #PersPron-:-4-:-Agent strategy-:-8-:-Theme
+#22039004 8 post.na company-:-7-:-Agent rise-:-12-:-Theme
+#20359054 9 post.na bunch-:-4-:-Agent increase-:-11-:-Theme
+#21780025 25 consider.na department-:-23-:-Agent impact-:-27-:-Theme
+#20706003 12 give.na that-:-11-:-Agent value-:-16-:-Theme transaction-:-14-:-Recipient
+#20049028 9 send.na IRS-:-7-:-Agent letter-:-11-:-Theme
+#20570011 3 begin.na group-:-2-:-Agent raise-:-4-:-Theme
+#21450007 12 chase.na #PersPron-:-11-:-Agent robber-:-14-:-Theme
+#21646032 8 decline.na output-:-3-:-Patient #Percnt-:-10-:-Extent
+#20633046 3 send.na News-:-2-:-Agent script-:-4-:-Theme agent-:-6-:-Destination
+#21860016 19 drive.na frenzy-:-17-:-Agent #PersPron-:-20-:-Theme
+#22153058 8 lead.na which-:-6-:-Agent development-:-12-:-Theme
+#20977009 4 lead.na merksamer-:-2-:-Agent buy-out-:-6-:-Theme
+#20532021 13 rise.na share-:-12-:-Patient penny-:-15-:-Extent
+#20036026 18 fall.na order-:-4-:-Patient #Percnt-:-20-:-Extent
+#21988002 5 jump.na export-:-2-:-Patient #Percnt-:-7-:-Extent
+#22170050 21 pick.na #PersPron_#Cor-:-19-:-Agent time-:-24-:-Theme
+#21844033 20 buy.na WCRS-:-18-:-Agent that-:-17-:-Theme
+#20464005 14 fall.na index-:-13-:-Patient 3.56-:-15-:-Extent
+#20259004 15 consider.na RTC-:-13-:-Agent use-:-16-:-Theme
+#21913004 8 decline.na exclusive-:-1-:-Patient profit-:-7-:-Patient #Percnt-:-10-:-Extent
+#21493027 2 believe.na
+#20560024 15 believe.na
+#20615005 18 rise.na export-:-17-:-Patient #Percnt-:-20-:-Extent
+#21291012 18 begin.na problem-:-17-:-Theme
+#20765061 7 prevent.na procrastination-:-6-:-Agent #PersPron_#Cor-:-8-:-Theme have-:-10-:-Theme
+#20743003 14 begin.na #PersPron-:-12-:-Agent negotiation-:-15-:-Theme
+#20043002 24 pursue.na politician-:-22-:-Agent that-:-19-:-Theme
+#20755013 15 follow.na #PersPron-:-12-:-Theme
+#20414053 3 hire.na
+#21188004 15 consider.na agreement-:-13-:-Theme
+#21254008 3 praise.na leader-:-2-:-Agent restructuring-:-6-:-Theme
+#21652015 5 drop.na income-:-4-:-Patient
+#21830030 13 follow.na people-:-9-:-Agent instruction-:-14-:-Theme
+#21930010 4 follow.na decline-:-8-:-Co-Theme
+#20664005 7 start.na #PersPron_#Cor-:-5-:-Agent trade-:-8-:-Theme
+#20994093 7 pursue.na concern-:-4-:-Agent niche-:-9-:-Theme tourist-:-12-:-Theme trade-:-20-:-Theme
+#20641008 6 move.na
+#20980004 18 start.na trip-:-17-:-Theme
+#21860031 4 prevent.na investor-:-7-:-Theme
+#20451012 5 follow.na who-:-3-:-Agent schedule-:-10-:-Theme
+#21905004 12 gain.na Morrison-:-11-:-Patient $-:-13-:-Extent
+#21043010 3 post.na s&l-:-2-:-Agent loss-:-6-:-Theme
+#21364015 4 post.na Phillips-:-1-:-Agent Arco-:-3-:-Agent decline-:-5-:-Theme
+#21809050 10 begin.na mainframe-:-8-:-Theme
+#21552001 21 fall.na income-:-20-:-Patient #Percnt-:-23-:-Extent
+#21435009 11 accompany.na inspector-:-14-:-Agent #PersPron-:-9-:-Theme
+#20985002 17 give.na reserve-:-15-:-Agent power-:-21-:-Theme #PersPron_#Cor-:-18-:-Recipient
+#20148003 19 rise.na future-:-18-:-Patient point-:-23-:-Extent
+#20452019 10 consider.na agency-:-7-:-Agent ability-:-15-:-Theme status-:-26-:-Theme
+#22125021 7 drive.na money-:-6-:-Agent money-:-10-:-Theme
+#21642003 8 tumble.na #Percnt-:-10-:-Extent
+#21768005 13 jump.na share-:-12-:-Patient
+#20664023 7 investigate.na authority-:-2-:-Agent exchange-:-8-:-Location
+#20231026 23 rise.na balance-:-19-:-Patient yen-:-26-:-Extent $-:-28-:-Extent
+#21600046 10 pass.na
+#20769023 3 rise.na gnp-:-2-:-Patient rate-:-7-:-Extent
+#20085033 13 begin.na #PersPron_#Cor-:-12-:-Agent offer-:-14-:-Theme
+#20286014 28 lead.na management-:-16-:-Agent charge-:-30-:-Theme
+#21624031 17 buy.na investor-:-11-:-Agent bond-:-19-:-Theme
+#22019047 3 drop.na associate-:-2-:-Patient 1-:-4-:-Extent
+#21937032 16 jump.na Shares-:-1-:-Patient 2-:-17-:-Extent 1_8-:-18-:-Extent
+#21591010 30 begin.na restructuring-:-20-:-Theme introduction-:-25-:-Theme
+#21151020 8 rise.na price-:-7-:-Patient
+#21314016 5 buy.na investor-:-4-:-Agent share-:-7-:-Theme
+#20475024 24 begin.na side-:-21-:-Agent negotiate-:-25-:-Theme
+#21828006 18 trail.na net-:-6-:-Agent $-:-23-:-Theme $-:-28-:-Theme
+#21672002 11 fall.na net-:-10-:-Patient #Percnt-:-14-:-Extent
+#21815010 24 decline.na estimate-:-13-:-Patient 500_000-:-27-:-Extent
+#21547015 6 stow.na who-:-5-:-Agent gear-:-7-:-Theme
+#21617038 15 believe.na
+#21619020 20 drop.na fee-:-13-:-Patient #Percnt-:-22-:-Extent
+#21120012 10 start.na crumble-:-12-:-Theme
+#20955015 2 believe.na
+#20571038 11 give.na Germany-:-3-:-Agent position-:-16-:-Theme Germany-:-12-:-Recipient
+#21760048 11 start.na Worker-:-9-:-Agent nation-:-14-:-Theme
+#21286071 8 believe.na
+#20415034 15 accompany.na measure-:-17-:-Agent subsidize-:-30-:-Agent program-:-10-:-Theme
+#21550027 21 begin.na #PersPron_#Cor-:-19-:-Theme
+#20415035 9 believe.na
+#22048009 9 begin.na Chamber-:-6-:-Agent use-:-10-:-Theme
+#22048014 20 give.na that-:-18-:-Agent deduction-:-27-:-Theme up-:-34-:-Theme #Percnt-:-37-:-Theme people-:-22-:-Recipient
+#22053019 8 give.na deal-:-5-:-Agent right-:-13-:-Theme committee-:-11-:-Recipient
+#21213004 10 buy.na investor-:-6-:-Agent Treasury-:-11-:-Theme
+#21586013 11 start.na furrier-:-10-:-Agent market-:-13-:-Theme
+#22104038 29 consider.na
+#20442004 5 purchase.na citicorp-:-4-:-Agent which-:-3-:-Theme
+#21549051 25 hang.na neighbor-:-24-:-Agent wallpaper-:-27-:-Theme
+#21453041 2 believe.na
+#20666029 33 fall.na price-:-28-:-Patient #Percnt-:-38-:-Extent #Percnt-:-41-:-Extent
+#21614002 34 plummet.na price-:-31-:-Patient
+#21328010 11 chase.na #PersPron-:-8-:-Agent tail-:-14-:-Theme
+#20254008 5 follow.na weakness-:-4-:-Theme month-:-8-:-Co-Theme
+#20725049 16 give.na that-:-15-:-Agent share-:-19-:-Theme country-:-23-:-Recipient
+#20472008 8 believe.na community-:-3-:-Agent settle-:-14-:-Theme
+#20080023 8 follow.na Simmons-:-6-:-Theme offer-:-15-:-Co-Theme
+#21861017 13 jump.na revenue-:-12-:-Patient #Percnt-:-15-:-Extent
+#21928010 15 forgo.na
+#21314040 15 drop.na group-:-14-:-Patient 3_4-:-16-:-Extent
+#20648013 18 buy.na insurer-:-1-:-Agent Corp.-:-6-:-Agent Corp-:-9-:-Agent Co.-:-16-:-Agent reinsurance-:-19-:-Theme company-:-23-:-Source Lloyd-:-25-:-Source
+#22163003 15 fall.na income-:-13-:-Patient
+#20089006 9 pull.na man-:-6-:-Agent woman-:-8-:-Agent rope-:-12-:-Theme
+#21830026 19 follow.na instruction-:-17-:-Theme
+#22142008 9 begin.na investors-:-3-:-Agent buy-:-10-:-Theme
+#20978003 8 begin.na Renaissance-:-1-:-Agent manager-:-6-:-Agent buy-:-9-:-Theme
+#21616029 11 gain.na cost-:-10-:-Patient #Percnt-:-14-:-Extent
+#20192028 36 begin.na harvest-:-35-:-Theme
+#21944026 15 buy.na #PersPron-:-14-:-Agent share-:-17-:-Theme
+#20277010 8 choose.na #PersPron-:-3-:-Agent moment-:-11-:-Theme
+#21895001 5 give.na official-:-4-:-Agent mark-:-9-:-Theme media-:-7-:-Recipient
+#21578068 7 buy.na officer-:-5-:-Agent total-:-9-:-Theme
+#20996007 12 join.na #PersPron-:-10-:-Agent search-:-14-:-Patient
+#20976023 40 give.na gray-:-48-:-Agent twist-:-43-:-Theme role-:-33-:-Recipient
+#20914003 16 decrease.na number-:-11-:-Patient
+#22019002 10 begin.na trading-:-9-:-Theme
+#20214023 18 pack.na retiree-:-6-:-Agent tourist-:-8-:-Agent stand-:-20-:-Destination
+#20607001 16 begin.na trade-:-17-:-Theme
+#21099088 18 buy.na equity-:-16-:-Theme
+#21055008 5 rise.na index-:-4-:-Patient 2.09-:-6-:-Extent
+#21081001 10 select.na unit-:-8-:-Theme
+#20681054 6 fall.na average-:-5-:-Patient point-:-8-:-Extent
+#20467017 8 start.na executive-:-7-:-Agent company-:-12-:-Theme
+#21601006 18 decline.na price-:-16-:-Patient
+#21789006 22 give.na a_free_hand-:-25-:-Theme open-:-27-:-Theme technocrat-:-19-:-Recipient
+#20080015 4 rise.na stock-:-3-:-Patient $-:-5-:-Extent
+#21578051 3 gain.na Equipment-:-2-:-Patient 1-:-4-:-Extent 3_8-:-5-:-Extent
+#20648009 13 believe.na
+#22136027 5 join.na u.s.-:-2-:-Agent canada-:-4-:-Agent country-:-8-:-Patient
+#21337015 5 pick.na investor-:-3-:-Agent stock-:-7-:-Theme
+#21784001 5 post.na company-:-4-:-Agent earnings-:-8-:-Theme
+#21687035 11 purchase.na copper-:-13-:-Theme
+#21140014 5 jump.na interest-:-4-:-Patient #Percnt-:-7-:-Extent
+#21695025 4 place.na freshman-:-3-:-Agent emphasis-:-7-:-Theme role-:-11-:-Destination spread-:-13-:-Destination
+#20938024 31 begin.na stock-:-30-:-Theme
+#20088018 16 ban.na which-:-15-:-Agent trade-:-18-:-Theme
+#22162005 28 give.na crackdown-:-15-:-Agent out-:-32-:-Theme bank-:-30-:-Recipient
+#20040004 11 rise.na contribution-:-9-:-Patient
+#21314022 26 begin.na investor-:-23-:-Agent retreat-:-28-:-Theme
+#20148013 9 follow.na investor-:-4-:-Agent institution-:-7-:-Agent strategy-:-12-:-Theme
+#21677043 11 send.na each-:-4-:-Agent newsletter-:-15-:-Theme
+#20584045 15 give.na company-:-5-:-Agent customer-:-22-:-Theme entity-:-18-:-Recipient
+#22061064 13 fall.na receipt-:-9-:-Patient 1_4-:-14-:-Extent
+#20440009 18 build.na home-:-17-:-Product
+#21689004 16 join.na firm-:-4-:-Agent Coopers-:-17-:-Patient Lybrand-:-19-:-Patient
+#20094004 9 believe.na
+#20465061 11 begin.na vogelstein-:-2-:-Agent student-:-6-:-Agent fearon-:-9-:-Agent month-:-12-:-Theme
+#20162036 2 tumble.na 2-:-3-:-Extent
+#21881023 10 buy.na usair-:-7-:-Agent share-:-13-:-Theme
+#20439030 14 unite.na that-:-12-:-Agent worker-:-15-:-Patient employer-:-17-:-Patient government-:-19-:-Co-Patient
+#21569005 22 buy.na that-:-20-:-Agent ticket-:-26-:-Theme toddler-:-24-:-Beneficiary
+#21205007 3 fall.na stock-:-2-:-Patient cent-:-5-:-Extent
+#21030004 19 select.na Upchurch-:-7-:-Theme president-:-13-:-Theme counsel-:-16-:-Theme
+#21971014 14 give.na #PersPron-:-13-:-Agent system-:-18-:-Theme #PersPron-:-15-:-Recipient
+#21480057 6 fall.na average-:-5-:-Patient 32.71-:-7-:-Extent
+#20350005 17 prevent.na swing-:-20-:-Theme
+#21549008 7 start.na Krenz-:-6-:-Agent overhaul-:-8-:-Theme
+#21567087 19 give.na that-:-16-:-Agent pause-:-20-:-Theme client-:-22-:-Recipient
+#21999034 3 fall.na share-:-2-:-Patient cent-:-5-:-Extent
+#21931019 8 give.na recovery-:-3-:-Agent confidence-:-11-:-Theme trader-:-10-:-Recipient
+#20033001 15 fall.na reserve-:-3-:-Patient $-:-19-:-Extent
+#20586021 11 fall.na index-:-10-:-Patient point-:-13-:-Extent
+#21554063 12 drop.na contract-:-11-:-Patient
+#22100001 5 move.na
+#20998017 4 hire.na
+#20148003 21 fall.na future-:-18-:-Patient point-:-23-:-Extent
+#20627010 6 believe.na
+#21057052 8 begin.na #PersPron-:-7-:-Agent career-:-10-:-Theme
+#21377010 23 begin.na decade-:-22-:-Theme
+#21469012 6 drop.na sale-:-4-:-Patient #Percnt-:-9-:-Extent #Percnt-:-12-:-Extent
+#20632005 18 rise.na share-:-7-:-Patient penny-:-20-:-Extent
+#21603027 4 give.na hour-:-6-:-Theme family-:-2-:-Recipient
+#22075003 13 search.na aide-:-10-:-Agent legislator-:-12-:-Agent compromise-:-16-:-Location
+#20349016 9 consider.na Board-:-7-:-Agent variety-:-11-:-Theme
+#20943005 15 buy.na Atlantic-:-12-:-Agent base-:-20-:-Theme facility-:-27-:-Theme
+#21502005 19 start.na rate-:-17-:-Theme
+#20414035 6 know.na
+#20542005 9 criticize.na telerate-:-7-:-Agent Jones-:-11-:-Theme disclose-:-14-:-Attribute
+#20304023 8 examine.na bank-:-6-:-Agent methodology-:-10-:-Location control-:-13-:-Location
+#20359006 7 soar.na price-:-5-:-Patient
+#21817011 7 send.na spacecraft-:-6-:-Agent photo-:-10-:-Theme
+#20610020 23 increase.na share-:-22-:-Patient
+#21208077 5 tumble.na 2-:-6-:-Extent 7_8-:-7-:-Extent
+#20280013 4 give.na Dewar-:-2-:-Agent discount-:-5-:-Theme people-:-10-:-Recipient
+#20185003 2 increase.na board-:-4-:-Patient
+#21192023 11 tumble.na $-:-12-:-Extent
+#21011015 8 post.na west-:-7-:-Agent earnings-:-9-:-Theme
+#20657009 11 rise.na sale-:-3-:-Patient #Percnt-:-13-:-Extent
+#21367029 11 give.na #PersPron-:-10-:-Agent party-:-12-:-Theme
+#20628001 4 buy.na owner-:-2-:-Agent machinery-:-6-:-Theme rate-:-10-:-Asset
+#21587006 12 suspect.na staff-:-11-:-Agent spread-:-23-:-Theme
+#20648016 29 purchase.na who-:-21-:-Agent reinsurance-:-31-:-Theme
+#21480074 4 fall.na investor-:-3-:-Patient 3-:-5-:-Extent
+#20701001 17 post.na co.-:-11-:-Agent co.-:-15-:-Agent gain-:-21-:-Theme
+#21253008 5 follow.na bank-:-4-:-Agent policy-:-9-:-Theme
+#21782012 9 start.na creep_up-:-10-:-Theme
+#21464009 26 tumble.na price-:-25-:-Patient
+#20162006 3 lead.na stock-:-2-:-Agent decliner-:-4-:-Theme
+#20328024 31 build.na agreement-:-29-:-Product gimmickry-:-33-:-Material
+#20818005 15 fall.na profit-:-5-:-Patient #Percnt-:-17-:-Extent
+#21617007 6 fall.na sale-:-5-:-Patient
+#20067010 20 decline.na income-:-19-:-Patient #Percnt-:-22-:-Extent
+#21037048 13 follow.na industry-:-12-:-Theme
+#21188003 22 send.na application-:-5-:-Theme ministry-:-27-:-Destination
+#21935022 3 give.na Laband-:-2-:-Agent idea-:-6-:-Theme #PersPron-:-4-:-Recipient
+#21099088 14 buy.na equity-:-11-:-Theme
+#20465026 38 explode.na which-:-33-:-Patient
+#21810004 12 gain.na average-:-11-:-Patient point-:-14-:-Extent
+#21154058 14 buy.na #PersPron-:-13-:-Agent share-:-15-:-Theme bond-:-18-:-Theme
+#21550013 18 begin.na water-:-16-:-Theme
+#21201009 7 buy.na Bear-:-4-:-Agent Stearns-:-6-:-Agent more-:-8-:-Theme
+#21273020 10 understand.na
+#20649002 19 rise.na revenue-:-11-:-Patient #Percnt-:-21-:-Extent
+#20090046 12 trail.na number-:-9-:-Agent pace-:-15-:-Theme
+#21011009 22 begin.na subsidiary-:-19-:-Theme
+#21549005 22 select.na member-:-20-:-Theme
+#21746002 5 post.na company-:-4-:-Agent income-:-7-:-Theme
+#20465001 4 start.na scientist-:-2-:-Theme
+#20327024 12 rise.na sector-:-3-:-Patient #Percnt-:-16-:-Extent
+#21825039 7 give.na plan-:-6-:-Agent bonus-:-11-:-Theme employee-:-8-:-Recipient
+#21692005 14 drop.na worth-:-13-:-Patient
+#21809047 18 begin.na ship-:-19-:-Theme
+#20359007 25 fall.na price-:-23-:-Patient
+#20049035 18 increase.na pay-:-20-:-Patient #Percnt-:-23-:-Extent
+#20756014 13 start.na which-:-12-:-Theme
+#20049012 11 hire.na #PersPron-:-10-:-Agent lawyer-:-12-:-Theme
+#21225020 31 believe.na analyst-:-30-:-Agent mean-:-5-:-Theme
+#20950015 5 drop.na net-:-4-:-Patient #Percnt-:-7-:-Extent
+#20758067 10 send.na thomson-:-8-:-Agent photo-:-13-:-Theme
+#20144006 15 post.na group-:-5-:-Agent earnings-:-16-:-Theme
+#21006004 3 join.na lortie-:-2-:-Agent provigo-:-4-:-Patient
+#21208015 5 begin.na #PersPron_#Cor-:-4-:-Theme
+#21206026 18 rise.na station-:-17-:-Patient
+#21306001 7 join.na #PersPron-:-4-:-Agent Memories-:-9-:-Patient group-:-12-:-Patient
+#20155016 21 begin.na issue-:-24-:-Theme
+#20681081 14 drop.na care-:-2-:-Patient 7/8-:-15-:-Extent
+#21915055 5 assess.na official-:-2-:-Agent damage-:-6-:-Theme
+#20162017 3 jump.na soup-:-2-:-Patient 3-:-4-:-Extent 3/8-:-5-:-Extent
+#21208001 19 lead.na UAL-:-10-:-Agent parent-:-12-:-Agent share-:-20-:-Theme
+#20374032 7 fall.na which-:-6-:-Patient point-:-9-:-Extent
+#22123010 6 drop.na price-:-4-:-Patient #Percnt-:-8-:-Extent
+#21208043 20 buy.na firm-:-16-:-Agent future-:-21-:-Theme
+#20023004 17 increase.na interest-:-19-:-Patient
+#20094013 7 consider.na company-:-4-:-Agent survival-:-9-:-Theme
+#21741004 9 fall.na net-:-8-:-Patient #Percnt-:-11-:-Extent
+#20464032 15 fall.na casualty-:-2-:-Patient 2-:-16-:-Extent 1_/_4-:-17-:-Extent
+#20725092 9 increase.na staff-:-12-:-Patient #Percnt-:-14-:-Extent
+#22080003 8 fall.na rate-:-7-:-Patient
+#22064024 5 give.na choice-:-7-:-Theme Republican-:-2-:-Recipient
+#20274035 7 buy.na investor-:-5-:-Agent #Percnt-:-10-:-Theme money-:-24-:-Theme
+#20184004 15 increase.na benefit-:-20-:-Patient #Percnt-:-22-:-Extent #Percnt-:-25-:-Extent
+#20192039 7 increase.na price-:-6-:-Patient
+#21213006 10 fall.na average-:-9-:-Patient point-:-13-:-Extent
+#21857005 7 post.na stock-:-6-:-Agent gain-:-9-:-Theme
+#20574004 11 buy.na #PersPron-:-10-:-Agent interest-:-18-:-Theme $-:-20-:-Asset
+#21380002 27 begin.na exchange-:-26-:-Theme
+#21051001 16 jump.na income-:-15-:-Patient #Percnt-:-18-:-Extent
+#21903039 5 believe.na
+#21440055 13 drop.na result-:-4-:-Patient #Percnt-:-18-:-Extent
+#21278003 8 begin.na plant-:-6-:-Theme
+#20610009 11 gain.na Mills-:-9-:-Patient share-:-16-:-Extent
+#20719010 17 erupt.na problem-:-16-:-Theme
+#21442045 21 fall.na price-:-9-:-Patient #Percnt-:-24-:-Extent
+#20507001 7 purchase.na #PersPron-:-5-:-Agent million-:-12-:-Theme
+#20113009 11 rise.na income-:-10-:-Patient
+#20777008 6 begin.na problem-:-5-:-Theme
+#21470017 6 start.na graduate-:-4-:-Agent job-:-7-:-Theme
+#20663004 8 post.na and-:-2-:-Agent increase-:-13-:-Theme
+#22061045 3 fall.na Paper-:-2-:-Patient 1-:-4-:-Extent 3_8-:-5-:-Extent
+#21781045 9 gain.na Pharmaceutical-:-8-:-Patient 140-:-10-:-Extent
+#20351013 3 fall.na price-:-2-:-Patient
+#21601028 4 lead.na fund-:-3-:-Agent increase-:-7-:-Theme
+#21554035 16 drop.na number-:-6-:-Patient #Percnt-:-18-:-Extent
+#20918013 5 rise.na stock-:-4-:-Patient $-:-6-:-Extent
+#20979002 18 join.na lloyd-:-11-:-Agent board-:-21-:-Patient
+#20781015 10 start.na #PersPron_#Cor-:-3-:-Theme
+#20447008 3 believe.na
+#20944039 15 understand.na
+#21825007 7 jump.na price-:-5-:-Patient #Percnt-:-9-:-Extent
+#20290045 9 choose.na who-:-8-:-Agent disobey-:-11-:-Theme
+#20036031 7 rise.na backlog-:-3-:-Patient #Percnt-:-9-:-Extent
+#20118151 6 decline.na liquidity-:-4-:-Patient
+#21157019 7 begin.na price-:-6-:-Agent spiral-:-10-:-Theme
+#21861018 11 drop.na revenue-:-10-:-Patient #Percnt-:-13-:-Extent
+#20089021 9 begin.na ringer-:-8-:-Agent vary-:-10-:-Theme
+#20590021 27 give.na committee-:-25-:-Agent clean_slate-:-33-:-Theme Bush-:-29-:-Recipient
+#20246001 12 increase.na #Percnt-:-16-:-Patient
+#20305008 5 start.na who-:-4-:-Agent career-:-7-:-Theme
+#21875118 5 criticize.na official-:-3-:-Agent plan-:-6-:-Theme
+#20938001 18 consider.na
+#20361021 5 criticize.na investigation-:-3-:-Agent auditor-:-8-:-Theme Coopers-:-10-:-Theme Lybrand-:-12-:-Theme ignore-:-16-:-Attribute
+#21857009 5 dispatch.na adjuster-:-3-:-Theme
+#20578061 24 start.na producer-:-21-:-Agent frenzy-:-28-:-Theme
+#21145008 18 give.na shrift-:-20-:-Theme who-:-15-:-Recipient
+#20353005 11 follow.na #PersPron-:-6-:-Agent rule-:-13-:-Theme
+#22054015 3 criticize.na speech-:-2-:-Agent idiocy-:-6-:-Theme
+#20578060 28 choose.na warner-:-22-:-Agent produce-:-31-:-Theme
+#21464039 16 begin.na activity-:-15-:-Theme
+#21375039 16 decline.na rating-:-14-:-Patient
+#21440031 14 believe.na hallingby-:-2-:-Agent director-:-5-:-Agent begin-:-18-:-Theme
+#21340004 12 climb.na asset-:-8-:-Patient
+#21203010 21 start.na trader-:-20-:-Agent sell_out-:-22-:-Theme
+#21934011 4 believe.na
+#21855010 19 join.na cboe-:-2-:-Agent exchange-:-6-:-Agent corp.-:-10-:-Agent fossett-:-13-:-Agent owner-:-15-:-Agent
+#20377001 16 begin.na company-:-7-:-Agent manufacture-:-17-:-Theme
+#21923010 13 trail.na coke-:-1-:-Agent pepsi-:-14-:-Theme
+#20214009 21 begin.na season-:-19-:-Theme
+#21967002 22 merge.na corp.-:-12-:-Patient company-:-19-:-Patient corp.-:-26-:-Co-Patient corp.-:-30-:-Co-Patient inc-:-34-:-Co-Patient
+#20327036 5 rise.na Index-:-4-:-Patient 0.17-:-6-:-Extent
+#20942012 6 criticize.na country-:-10-:-Agent proposal-:-3-:-Theme
+#20909098 15 erupt.na trouble-:-14-:-Theme
+#21208045 8 climb.na industrial-:-7-:-Patient point-:-11-:-Extent
+#20319007 15 rise.na wages-:-9-:-Patient salary-:-11-:-Patient #Percnt-:-17-:-Extent
+#20666035 12 buy.na which-:-11-:-Agent pulp-:-13-:-Theme producer-:-17-:-Source
+#21915026 28 conduct.na international-:-2-:-Agent designer-:-11-:-Agent business-:-29-:-Theme
+#22032027 27 fill.na Eastern-:-19-:-Agent seat-:-29-:-Destination
+#21438005 12 join.na corp.-:-2-:-Agent company-:-9-:-Agent board-:-15-:-Patient
+#20681028 10 begin.na that-:-8-:-Theme
+#20455012 6 ban.na fda-:-5-:-Agent use-:-8-:-Theme
+#21057031 39 buy.na Tisch-:-38-:-Agent stake-:-43-:-Theme
+#21123022 25 believe.na
+#20178024 6 rise.na income-:-5-:-Patient
+#22153001 4 begin.na corp.-:-3-:-Agent ship-:-5-:-Theme
+#20041028 28 consider.na #PersPron-:-25-:-Theme job-:-32-:-Attribute
+#20939008 27 investigate.na that-:-17-:-Agent possibility-:-29-:-Location
+#21766022 21 merge.na part-:-16-:-Patient
+#20955028 12 avoid.na breeden-:-11-:-Agent make-:-13-:-Theme
+#21831023 5 disparage.na #PersPron_#Cor-:-2-:-Agent audience-:-7-:-Theme
+#21146181 6 build.na center-:-3-:-Product shop-:-8-:-Product
+#20528018 16 send.na mailing-:-14-:-Theme
+#20127005 3 fall.na profit-:-2-:-Patient #Percnt-:-5-:-Extent
+#22061053 3 drop.na Goodrich-:-2-:-Patient 1-:-4-:-Extent 3_8-:-5-:-Extent
+#20053001 19 rise.na sale-:-18-:-Patient #Percnt-:-21-:-Extent
+#21314008 8 buy.na #PersPron-:-7-:-Agent mcdonald-:-9-:-Theme co.-:-13-:-Theme Procter-:-15-:-Theme Gamble-:-17-:-Theme
+#21453043 25 fall.na dollar-:-24-:-Patient #Percnt-:-27-:-Extent #Percnt-:-35-:-Extent #Percnt-:-42-:-Extent
+#21652023 11 fall.na income-:-10-:-Patient
+#21955002 24 buy.na holder-:-22-:-Agent share-:-25-:-Theme price-:-31-:-Asset
+#22125022 5 buy.na that-:-3-:-Agent paper-:-7-:-Theme
+#21139019 23 fall.na sale-:-18-:-Patient #Percnt-:-25-:-Extent
+#20155043 26 buy.na which-:-24-:-Agent grain-:-28-:-Theme
+#20118081 8 fall.na business-:-3-:-Patient pay-:-5-:-Patient
+#21687008 9 buy.na company-:-7-:-Agent contract-:-10-:-Theme
+#21304002 21 buy.na #PersPron-:-19-:-Agent #Percnt-:-27-:-Theme
+#21285044 8 fall.na novell-:-1-:-Patient concern-:-6-:-Patient 1-:-9-:-Extent 1_2-:-10-:-Extent
+#21975001 8 fall.na income-:-7-:-Patient #Percnt-:-10-:-Extent
+#21463013 12 fall.na sale-:-6-:-Patient #Percnt-:-15-:-Extent
+#20254002 13 climb.na which-:-11-:-Patient #Percnt-:-15-:-Extent
+#22124009 20 buy.na #PersPron-:-19-:-Agent list-:-24-:-Theme
+#21957058 10 decline.na electric-:-2-:-Patient 12-:-11-:-Extent
+#21603083 9 buy.na #PersPron-:-8-:-Agent ton-:-13-:-Theme more-:-18-:-Theme
+#21368032 11 buy.na who-:-10-:-Agent porcelain-:-13-:-Theme doll-:-19-:-Theme
+#21856055 15 buy.na consumer-:-11-:-Agent product-:-16-:-Theme
+#20779037 13 buy.na government-:-7-:-Agent bank-:-11-:-Agent share-:-20-:-Theme
+#20374036 12 buy.na company-:-10-:-Agent stock-:-16-:-Theme
+#21623016 15 decline.na rate-:-12-:-Patient
+#20137022 4 fall.na mining-:-3-:-Patient yen-:-6-:-Extent
+#21622024 3 buy.na maker-:-2-:-Agent wish-:-6-:-Theme
+#21586036 12 buy.na who-:-10-:-Agent fur-:-13-:-Theme
+#20340002 18 buy.na unit-:-13-:-Agent share-:-21-:-Theme
+#21613009 15 fall.na yield-:-14-:-Patient
+#21723042 3 fall.na alliance-:-2-:-Patient 1-:-4-:-Extent
+#22045015 13 buy.na #PersPron_#Cor-:-12-:-Agent gold-:-14-:-Theme
+#21469016 9 fall.na sale-:-7-:-Patient #Percnt-:-14-:-Extent
+#20488002 6 climb.na average-:-5-:-Patient point-:-8-:-Extent
+#21863011 5 buy.na trader-:-4-:-Agent stock-:-8-:-Theme
+#22045015 29 fall.na price-:-27-:-Patient
+#20345003 6 climb.na Average-:-5-:-Patient 41.60-:-7-:-Extent
+#20141022 10 buy.na #PersPron-:-8-:-Agent house-:-12-:-Theme
+#21586054 6 move.na
+#20314025 6 buy.na #PersPron-:-4-:-Agent discipline-:-10-:-Theme
+#22043014 12 decline.na rate-:-10-:-Patient point-:-15-:-Extent
+#21869011 5 decline.na rate-:-2-:-Patient
+#20681039 13 value.na stock-:-10-:-Theme
+#20532002 26 buy.na that-:-23-:-Agent MTM-:-27-:-Theme producer-:-29-:-Theme
+#21344002 7 climb.na profit-:-2-:-Patient
+#20953023 4 value.na electric-:-3-:-Agent offer-:-6-:-Theme $-:-8-:-Value
+#20319001 6 rise.na cost-:-5-:-Patient #Percnt-:-8-:-Extent
+#21201046 7 buy.na investor-:-4-:-Agent stock-:-9-:-Theme
+#21084001 4 rise.na price-:-3-:-Patient #Percnt-:-6-:-Extent
+#20409075 20 decline.na membership-:-18-:-Patient
+#20334004 21 rise.na earnings-:-20-:-Patient
+#20334004 11 rise.na profit-:-1-:-Patient interest-:-6-:-Patient #Percnt-:-13-:-Extent
+#20428003 9 rise.na export-:-8-:-Patient #Percnt-:-11-:-Extent
+#20177005 3 rise.na net-:-2-:-Patient
+#22045038 18 buy.na that-:-9-:-Agent sugar-:-20-:-Theme
+#20162042 4 rise.na warehouse-:-3-:-Patient 1-:-5-:-Extent
+#21166018 7 rise.na yield-:-3-:-Patient
+#22055029 7 move.na
+#21432018 4 move.na
+#20224017 4 value.na proposal-:-3-:-Agent Jaguar-:-5-:-Theme more-:-7-:-Value
+#20359049 11 buy.na #PersPron-:-8-:-Agent stock-:-14-:-Theme
+#22111010 12 build.na Peterson-:-10-:-Agent dealership-:-15-:-Product
+#21273015 34 buy.na #PersPron-:-33-:-Agent CD-:-36-:-Theme
+#21172020 5 rise.na export-:-4-:-Patient
+#20477018 9 buy.na Allianz-:-7-:-Agent
+#20444020 18 rise.na pound-:-3-:-Patient
+#20428003 15 decline.na export-:-13-:-Patient
+#21881034 18 buy.na #PersPron-:-17-:-Agent stock-:-24-:-Theme
+#21162030 35 rise.na spending-:-10-:-Patient #Percnt-:-38-:-Extent
+#20467042 9 rise.na share-:-8-:-Patient penny-:-11-:-Extent
+#20649007 7 rise.na net-:-5-:-Patient #Percnt-:-9-:-Extent
+#20170008 8 build.na ship-:-4-:-Product
+#21046003 15 decline.na failure-:-14-:-Patient
+#20464004 6 decline.na market-:-3-:-Patient
+#20663001 16 rise.na income-:-11-:-Patient #Percnt-:-18-:-Extent
+#20098006 11 rise.na wage-:-9-:-Patient
+#21429002 20 make.na sa-:-26-:-Agent which-:-18-:-Product
+#21190028 18 buy.na #PersPron-:-16-:-Agent movie-:-19-:-Theme inc.-:-24-:-Source
+#21744017 8 build.na which-:-7-:-Agent car-:-15-:-Product
+#20231022 5 rise.na Realty-:-2-:-Patient Development-:-4-:-Patient 40-:-6-:-Extent
+#21052012 6 buy.na people-:-3-:-Agent anything-:-7-:-Theme
+#21603045 12 value.na #PersPron-:-11-:-Agent which-:-10-:-Theme $-:-15-:-Value
+#20760006 20 rise.na profit-:-14-:-Patient #Percnt-:-22-:-Extent
+#21026039 28 buy.na who-:-25-:-Agent cotton-:-29-:-Theme bottom-:-32-:-Asset cent-:-41-:-Asset
+#20060002 8 buy.na that-:-7-:-Agent rerun-:-12-:-Theme price-:-15-:-Asset
+#20162043 8 rise.na income-:-3-:-Patient #Percnt-:-11-:-Extent
+#21026039 49 climb.na price-:-48-:-Patient cent-:-53-:-Extent
+#21844006 8 give.na move-:-7-:-Agent foothold-:-13-:-Theme #PersPron-:-9-:-Recipient
+#21036038 28 rise.na line-:-27-:-Patient 1_2-:-29-:-Extent
+#21567001 10 give.na father-:-9-:-Agent piece-:-13-:-Theme #PersPron-:-11-:-Recipient
+#21784016 19 decline.na sale-:-14-:-Patient #Percnt-:-21-:-Extent
+#21869017 6 give.na exclusion-:-3-:-Theme stock-:-9-:-Recipient
+#20610029 21 build.na plant-:-17-:-Product
+#20473024 16 build.na #PersPron-:-14-:-Agent pipeline-:-19-:-Product
+#20335018 11 give.na opportunity-:-13-:-Theme #PersPron_#Cor-:-7-:-Recipient
+#21986051 5 build.na stuff-:-4-:-Agent palazzo-:-14-:-Product
+#21272054 8 build.na three-:-3-:-Agent machine-:-11-:-Product
+#21519001 34 build.na which-:-31-:-Product
+#20126021 12 build.na #PersPron-:-8-:-Product
+#21540002 27 value.na proposal-:-3-:-Theme $-:-29-:-Value $-:-32-:-Value $-:-41-:-Value
+#20340006 18 value.na purchase-:-4-:-Theme franc-:-27-:-Value
+#21013014 18 value.na thrift-:-16-:-Agent bond-:-20-:-Theme low-:-23-:-Value
+#20177009 13 climb.na sale-:-11-:-Patient
+#21870011 26 move.na
+#21442034 13 climb.na foreclosure-:-11-:-Patient
+#21455018 19 make.na much-:-10-:-Product possible-:-16-:-Product aluminum-:-21-:-Material steel-:-23-:-Material glass-:-25-:-Material
+#20994090 7 build.na hotel-:-5-:-Agent complex-:-10-:-Product
+#20573005 20 climb.na income-:-5-:-Patient #Percnt-:-22-:-Extent
+#21781022 5 climb.na grenfell-:-4-:-Patient 14-:-6-:-Extent
+#20587022 4 move.na
+#20304015 11 value.na each-:-8-:-Theme
+#20440001 4 climb.na contracting-:-3-:-Patient #Percnt-:-6-:-Extent
+#21026035 27 purchase.na china-:-26-:-Agent cotton-:-28-:-Theme
+#21291007 13 purchase.na affiliate-:-6-:-Agent Inc.-:-10-:-Agent interest-:-17-:-Theme
+#20550011 19 wonder.na
+#20409005 15 move.na
+#21728005 3 climb.na price-:-2-:-Patient #Percnt-:-7-:-Extent
+#20315001 13 move.na
+#21884028 7 climb.na georgia-pacific-:-6-:-Patient 1-:-8-:-Extent 1/4-:-9-:-Extent
+#20277034 36 purchase.na which-:-34-:-Agent building-:-39-:-Theme
+#20584015 6 value.na pact-:-4-:-Theme $-:-9-:-Value $-:-12-:-Value
+#21257014 3 value.na lee-:-2-:-Agent package-:-5-:-Theme $-:-8-:-Value $-:-11-:-Value

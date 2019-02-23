@@ -1,0 +1,594 @@
+#21562037 8 buy.Commerce_buy investment-:-4-:-Goods
+#21957004 13 post.Statement bourse-:-12-:-Speaker gain-:-14-:-Topic
+#20660001 6 buy.Commerce_buy share-:-12-:-Goods Montedison_S.p.A.-:-1_2-:-Buyer
+#21728005 3 climb.Change_position_on_a_scale consumer_price-:-1_2-:-Attribute 0.2_%-:-6_7-:-Difference
+#21875035 2 join.Becoming_a_member Politburo-:-4-:-Group Mr._Krenz-:-12_13-:-New_member
+#21190005 18_19 join_in.Participation investment-:-21-:-Event partner-:-16-:-Participants
+#20473024 16 build.Building it-:-14-:-Agent pipeline-:-19-:-Created_entity
+#20295003 10 join.Becoming_a_member Mr._Achenbaum-:-7_8-:-New_member they-:-11-:-Group
+#20098006 11 rise.Change_position_on_a_scale minimum_wage-:-8_9-:-Attribute $_3.80-:-13_14-:-Final_value
+#21574020 35 buy.Commerce_buy you-:-29-:-Buyer it-:-36-:-Goods
+#20277034 36 purchase.Commerce_buy which-:-34-:-Buyer Building-:-39-:-Goods
+#20994090 7 build.Building hotel-:-5-:-Agent retail_complex-:-9_10-:-Created_entity
+#21316001 14 value.Assessing transaction-:-13-:-Phenomenon
+#21208043 20 buy.Commerce_buy firm-:-16-:-Buyer future-:-21-:-Goods
+#21634096 16 buy.Commerce_buy Warner-:-14-:-Buyer Guber_Peters-:-17_18-:-Goods
+#21856048 4 buy.Commerce_buy whatever-:-5-:-Goods they-:-2-:-Buyer
+#21002009 20 begin.Activity_start buyer-:-18-:-Agent write-:-21-:-Activity
+#21100001 7 buy.Commerce_buy it-:-5-:-Buyer Shaw-Walker_Co-:-8_9-:-Goods
+#21446046 2 join.Becoming_a_member Illinois-:-1-:-New_member state-:-5-:-Group
+#20786004 19 join.Becoming_a_member Harry_J._Gray_and_Melvyn_N._Klein_along_with_IMA_designee-:-1_2_3_4_5_6_7_9_10_13_14-:-New_member board-:-24-:-Group
+#21304002 21_22 buy_back.Commerce_buy common_outstanding-:-30_31-:-Goods it-:-19-:-Buyer
+#21315017 12 buy.Commerce_buy he-:-7-:-Buyer crack-:-13-:-Goods
+#21263001 20 join.Becoming_a_member who-:-19-:-New_member Reebok-:-21-:-Group
+#21569088 3 start.Activity_start save-:-4-:-Activity you-:-2-:-Agent
+#21717001 25 value.Assessing transaction-:-24-:-Phenomenon
+#20063015 25_26 buy_back.Commerce_buy stock-:-29-:-Goods Sea_Containers-:-22_23-:-Buyer
+#20141024 9 buy.Commerce_buy they-:-7-:-Buyer appliance-:-10-:-Goods
+#21569079 5 pick.Choosing sponsor-:-2-:-Cognizer stock-:-7-:-Chosen
+#21057031 39 buy.Commerce_buy Tisch-:-38-:-Buyer stake-:-43-:-Goods
+#20568024 15 buy.Commerce_buy customer-:-10-:-Buyer
+#21540002 27 value.Assessing proposal-:-3-:-Phenomenon
+#21999002 7 post.Statement Southwestern_Bell_Corp._and_Cincinnati_Bell-:-1_2_3_4_5_6-:-Speaker decline-:-9-:-Topic
+#20569031 26 believe.Opinion who-:-25-:-Cognizer nosedive-:-32-:-Opinion
+#20036016 3 fall.Change_position_on_a_scale payroll-:-2-:-Attribute factory-:-1-:-Item
+#22092003 2 join.Collaboration Control_Data-:-5_6-:-Partner_1 MIPS-:-3-:-Partner_2
+#21145015 10 value.Assessing it-:-9-:-Phenomenon
+#21140022 15 buy.Commerce_buy investor-:-5-:-Buyer stock-:-16-:-Goods
+#20296018 8 believe.Certainty he-:-6-:-Cognizer manage-:-27-:-Content
+#20475024 24 begin.Activity_start negotiate-:-25-:-Activity two_side-:-20_21-:-Agent
+#20277001 1 buy.Commerce_buy Mitsubishi_Estate_Co.-:-11_12_13-:-Buyer Rockefeller_Group_Inc.-:-5_6_7-:-Goods
+#21856055 15 buy.Commerce_buy product-:-16-:-Goods consumer-:-11-:-Buyer
+#20564050 6 buy.Commerce_buy Omni-:-4-:-Buyer stake-:-11-:-Goods
+#20029013 14 buy.Commerce_buy they-:-1-:-Buyer bond-:-21-:-Goods
+#20155043 26 buy.Commerce_buy grain-:-28-:-Goods which-:-24-:-Buyer
+#22106027 10 accompany.Simultaneity music-:-7-:-Profiled_event reading-:-11-:-Landmark_event
+#20721003 11 purchase.Commerce_buy it-:-4-:-Buyer share-:-16-:-Goods
+#20742013 26 buy.Commerce_buy thing-:-23-:-Goods you-:-24-:-Buyer
+#20934011 5 buy.Commerce_buy they-:-1-:-Buyer item-:-7-:-Goods
+#20444020 18 rise.Change_position_on_a_scale british_pound-:-2_3-:-Item $_1.5820-:-21_22-:-Final_value $_1.5795-:-26_27-:-Initial_value
+#21753010 8 build.Building pipeline-:-10-:-Created_entity
+#20239029 11 follow.Cotheme I-:-10-:-Theme its_progress-:-12_13-:-Cotheme
+#21161055 23 buy.Commerce_buy share-:-24-:-Goods
+#21692045 16 join.Becoming_a_member who-:-6-:-New_member McCutchen_Doyle_Brown_&_Enersen-:-17_19_21_22_23-:-Group
+#21949011 25 join.Becoming_a_member Christopher_Whittington-:-14_15-:-New_member firm-:-29-:-Group
+#21245002 14 buy.Commerce_buy joint_venture-:-11_12-:-Buyer plant-:-16-:-Goods
+#20376005 11 value.Assessing company-:-14-:-Phenomenon
+#22170050 21 pick.Choosing you-:-19-:-Cognizer time-:-24-:-Chosen
+#21069008 2 climb.Change_position_on_a_scale revenue-:-1-:-Attribute 18_%-:-3_4-:-Difference $_289_million-:-6_7_8-:-Final_value $_245.3_million-:-10_11_12-:-Initial_value
+#20409075 20 decline.Change_position_on_a_scale membership-:-18-:-Item
+#20036029 3 fall.Change_position_on_a_scale 1.6_%-:-4_5-:-Difference $_234.4_billion-:-7_8_9-:-Final_value shipment-:-2-:-Item
+#20314025 6 buy.Commerce_buy they-:-4-:-Buyer cost_discipline-:-9_10-:-Goods
+#20622006 3 believe.Opinion we-:-2-:-Cognizer indication-:-10-:-Opinion
+#21328029 11_12 buy_out.Commerce_buy Manville-:-9-:-Buyer trust_'s_share-:-14_15_16-:-Goods
+#22054009 3 begin.Activity_start Mr._Allen-:-1_2-:-Agent it-:-4-:-Activity
+#20254008 5 follow.Relative_time sale-:-11-:-Landmark_occasion weakness-:-4-:-Focal_occasion
+#20714004 3 fall.Change_position_on_a_scale 4.97_yen-:-5_6-:-Final_value 5.40_yen-:-8_9-:-Initial_value pershare_net-:-1_2-:-Attribute
+#20074001 19 begin.Activity_start worker-:-10-:-Agent strike-:-21-:-Activity
+#21884028 7 climb.Change_position_on_a_scale Georgia-Pacific-:-6-:-Item 1_1/4-:-8_9-:-Difference 58-:-11-:-Final_value
+#20021002 9 believe.Awareness call_for-:-20_21-:-Content
+#21819049 22 join.Becoming_a_member Gibson_Dunn_&_Crutcher-:-23_25_26_27-:-Group Randy_Mastro-:-4_5-:-New_member
+#22045038 18 buy.Commerce_buy that-:-9-:-Buyer sugar-:-20-:-Goods
+#21438005 12 join.Becoming_a_member Hibernia_Corp.-:-1_2-:-New_member Big_Board-:-14_15-:-Group
+#20194024 19 buy.Commerce_buy it-:-5-:-Buyer share_of_common_stock-:-24_25_26_27-:-Goods
+#20584015 6 value.Assessing pact-:-4-:-Phenomenon
+#21944031 5 buy.Commerce_buy director-:-4-:-Buyer share-:-9-:-Goods
+#21283013 11 buy.Commerce_buy operator-:-5-:-Buyer truck-:-13-:-Goods
+#20983021 28 buy.Commerce_buy it-:-27-:-Buyer bond-:-26-:-Goods
+#21006004 3 join.Becoming_a_member Mr._Lortie-:-1_2-:-New_member Provigo-:-4-:-Group
+#20409005 15 move.Cause_motion it-:-16-:-Theme he-:-13-:-Agent country-:-19-:-Path
+#20648012 2 buy.Commerce_buy Insurers-:-1-:-Buyer insurance-:-4-:-Goods
+#20900009 19 believe.Certainty they-:-18-:-Cognizer dominate-:-26-:-Content
+#20467017 8 start.Activity_start executive-:-7-:-Agent company-:-12-:-Activity
+#20456004 3 follow.Compliance he-:-2-:-Protagonist correct_path-:-5_6-:-Norm
+#20100030 7 begin.Activity_start build_up-:-8_9-:-Activity he-:-6-:-Agent
+#20760006 20 rise.Change_position_on_a_scale 2_%-:-21_22-:-Difference operating_profit-:-13_14-:-Attribute segment-:-19-:-Item
+#20998040 5 buy.Commerce_buy I-:-3-:-Buyer building-:-7-:-Goods
+#21578041 3 climb.Change_position_on_a_scale Paramount_Communications-:-1_2-:-Item 1_1/4-:-4_5-:-Difference 58_1/2-:-7_8-:-Final_value
+#21208064 3 climb.Change_position_on_a_scale 5_3/4-:-4_5-:-Difference 41-:-7-:-Final_value Dow_Jones-:-1_2-:-Attribute
+#21273043 4 buy.Commerce_buy who-:-3-:-Buyer zero-coupon_CDs-:-5_6-:-Goods
+#21047001 21 buy.Commerce_buy department_store_concern-:-9_10_11-:-Buyer Bloomingdale_'s-:-22_23-:-Goods
+#21099036 3 join.Becoming_a_member he-:-15-:-New_member subsidiary-:-10-:-Group
+#20765092 7 believe.Certainty place-:-12-:-Content business_leader_and_other-:-2_3_4_5-:-Cognizer
+#21560009 17 buy.Commerce_buy check-:-6-:-Goods
+#20742023 17 buy.Commerce_buy portfolio-:-19-:-Goods you-:-15-:-Buyer
+#20155017 11 believe.Certainty that-:-12-:-Content
+#20414040 12 buy.Commerce_buy worker-:-11-:-Buyer vacation_day-:-15_16-:-Goods
+#21916032 23 wrap.Filling freeway_column-:-24_25-:-Goal steel_blanket-:-28_29-:-Theme Caltrans-:-3-:-Agent
+#22061025 2 fall.Change_position_on_a_scale Citicorp-:-1-:-Item 1/2-:-3-:-Difference 32-:-5-:-Final_value
+#20978003 9 buy.Commerce_buy stock-:-10-:-Goods Renaissance-:-1-:-Buyer
+#21146142 3 buy.Commerce_buy he-:-1-:-Buyer clothes_and_Mercedes-:-7_9_12-:-Goods
+#20275003 19 buy.Commerce_buy stock-:-21-:-Goods shareholder-:-15-:-Buyer
+#21863011 5 buy.Commerce_buy stock-:-8-:-Goods trader-:-4-:-Buyer
+#21659008 29 value.Assessing deal-:-28-:-Phenomenon
+#21519001 34 build.Building power_plant-:-28_29-:-Created_entity
+#20938016 28 buy.Commerce_buy MCA_and_Bronfman_associate-:-19_20_22_23-:-Buyer theater_complex-:-41_42-:-Goods
+#21652023 11 fall.Change_position_on_a_scale $_1.69_billion-:-17_18_19-:-Initial_value net_income-:-9_10-:-Attribute $_1.29_billion-:-13_14_15-:-Final_value
+#21603045 12 value.Assessing he-:-11-:-Assessor which-:-10-:-Phenomenon
+#20376014 21 value.Assessing market-:-24-:-Assessor part-:-11-:-Phenomenon
+#20978007 6 believe.Certainty they-:-5-:-Cognizer buy_program-:-13_14-:-Content
+#20415017 13 pick.Change_of_leadership man-:-12-:-New_leader electoral_college-:-16_17-:-Selector
+#21869011 5 decline.Change_position_on_a_scale 29_%-:-10_11-:-Final_value rate-:-2-:-Attribute
+#20141019 11 buy.Commerce_buy they-:-9-:-Buyer car-:-13-:-Goods
+#20093006 23 believe.Opinion China-:-22-:-Cognizer what-:-21-:-Opinion
+#20761040 15 buy.Commerce_buy that-:-14-:-Buyer land-:-19-:-Goods
+#20601007 12 believe.Opinion who-:-11-:-Cognizer botch-:-17-:-Opinion
+#21248015 4 buy.Commerce_buy stake-:-7-:-Goods carrier-:-11-:-Buyer
+#21855010 19_20 join_in.Participation CBOE_American_Stock_Exchange_Options_Clearing_Corp._and_Stephen_Fossett-:-2_4_5_6_8_9_10_11_12_13-:-Participants put_up-:-21_22-:-Event
+#20477012 5 buy.Commerce_buy Commerzbank-:-1-:-Buyer stake-:-7-:-Goods
+#21146039 5 buy.Commerce_buy feed-:-6-:-Goods they-:-2-:-Buyer
+#20254002 13 climb.Change_position_on_a_scale which-:-11-:-Attribute 0.5_%-:-14_15-:-Difference
+#21036038 8 rise.Change_position_on_a_scale AMR-:-1-:-Item 3_3/8-:-9_10-:-Difference 72_1/4-:-12_13-:-Final_value
+#20550011 19 wonder.Cogitation everyone-:-18-:-Cognizer shoot-:-26-:-Topic
+#21991003 10 purchase.Commerce_buy holder-:-8-:-Buyer share-:-12-:-Goods
+#21479003 10 post.Statement company-:-7-:-Speaker net_loss-:-12_13-:-Message
+#21859004 22 purchase.Commerce_buy interest-:-24-:-Goods it-:-6-:-Buyer
+#20037054 10 join.Becoming_a_member PLO-:-2-:-New_member organization-:-12-:-Group
+#21019003 7 buy.Commerce_buy stock-:-12-:-Goods institutional_investor-:-4_5-:-Buyer
+#21272054 8 build.Building they-:-5-:-Agent machine-:-11-:-Created_entity
+#21621001 14 post.Statement Inland_Steel_Industries_Inc.-:-1_2_3_4-:-Speaker drop-:-18-:-Message
+#21594011 7 climb.Change_position_on_a_scale 20_%-:-8_9-:-Difference net-:-6-:-Attribute $_102_million-:-15_16_17-:-Final_value $_85_million-:-26_27_28-:-Initial_value
+#20155003 5 buy.Commerce_buy trader-:-2-:-Buyer future_contract-:-6_7-:-Goods
+#21172024 11 buy.Commerce_buy we-:-8-:-Buyer import-:-13-:-Goods
+#20118081 8 fall.Change_position_on_a_scale stockbroker-:-1-:-Item business_and_pay-:-3_4_5-:-Attribute
+#20060002 8 buy.Commerce_buy that-:-7-:-Buyer Cosby_rerun-:-10_12-:-Goods
+#20912001 8 buy.Commerce_buy it-:-5-:-Buyer Viroqua_Telephone_Co.-:-9_10_11-:-Goods
+#20584014 2 value.Assessing they-:-1-:-Assessor bid-:-5-:-Phenomenon a_share-:-12_13-:-Feature
+#20639004 9 buy.Commerce_buy investor-:-5-:-Buyer stock-:-11-:-Goods
+#20319011 4 climb.Change_position_on_a_scale cost-:-2-:-Attribute labor-:-1-:-Item
+#21455018 19 make.Building polish_center-:-13_14-:-Created_entity aluminum_,_steel_and_glass-:-21_22_23_24_25-:-Components
+#20345003 6 climb.Change_position_on_a_scale 41.60-:-7-:-Difference 2645.08-:-9-:-Final_value Dow_Jones_Industrial_Average-:-2_3_4_5-:-Attribute
+#21390048 2 join.Becoming_a_member Mr._Brawer-:-7_8-:-New_member Maidenform-:-3-:-Group
+#21026035 27 purchase.Commerce_buy China-:-26-:-Buyer cotton-:-28-:-Goods
+#20453005 25 follow.Relative_time come-:-14-:-Landmark_occasion tell-:-30-:-Focal_occasion
+#21262001 14 buy.Commerce_buy firm-:-17-:-Goods
+#21623016 15 decline.Change_position_on_a_scale interest-:-11-:-Item rate-:-12-:-Attribute
+#20033004 3 follow.Relative_time decline-:-9-:-Landmark_occasion announcement-:-2-:-Focal_occasion
+#21201040 19 buy.Commerce_buy they-:-16-:-Buyer
+#20469033 40 join.Becoming_a_member Morrison_Cohen_Singer_&_Weinstein-:-41_42_43_44_45-:-Group who-:-34-:-New_member
+#21192021 2 rise.Change_position_on_a_scale revenue-:-1-:-Attribute 12_%-:-3_4-:-Difference $_4.75_billion-:-6_7_8-:-Final_value $_4.22_billion-:-10_11_12-:-Initial_value
+#21955002 24 buy.Commerce_buy holder-:-22-:-Buyer share-:-25-:-Goods
+#22145023 5 begin.Activity_start we-:-2-:-Agent look-:-7-:-Activity
+#20064019 27 begin.Activity_start company-:-10-:-Agent phase_in-:-28_30-:-Activity
+#20340006 18 value.Assessing purchase-:-4-:-Phenomenon
+#20345005 11 place.Request order-:-9-:-Message
+#21457056 3 value.Assessing he-:-1-:-Assessor share-:-5-:-Phenomenon
+#20354002 2 value.Assessing it-:-1-:-Assessor transaction-:-4-:-Phenomenon
+#20367005 21 begin.Activity_start Specialized-:-9-:-Agent mass-produce-:-22-:-Activity
+#21480030 27 buy.Commerce_buy we-:-16-:-Buyer share-:-30-:-Goods
+#20415034 15 accompany.Rest economic_program-:-9_10-:-Rest measure-:-17-:-Part
+#20359049 11 buy.Commerce_buy you-:-8-:-Buyer stock-:-14-:-Goods
+#20118094 6 begin.Activity_start trade-:-7-:-Activity stock-index_future-:-4_5-:-Agent
+#21273015 34 buy.Commerce_buy CD-:-36-:-Goods he-:-33-:-Buyer
+#21065018 7 buy.Commerce_buy company-:-3-:-Buyer one-:-9-:-Goods
+#21093003 2 climb.Change_position_on_a_scale revenue-:-1-:-Attribute 13_%-:-3_4-:-Difference 45.4_billion_franc-:-6_7_8-:-Final_value 40.1_billion-:-10_11-:-Initial_value
+#21586054 6 move.Cause_motion who-:-3-:-Agent production-:-8-:-Theme overseas-:-9-:-Goal
+#20996016 18 pick.Choosing one-:-21-:-Chosen
+#20683006 11 analyze.Scrutiny researcher-:-10-:-Cognizer change-:-13-:-Ground
+#21646022 7 begin.Activity_start China-:-4-:-Agent relax-:-8-:-Activity
+#20439003 42 accompany.Simultaneity political_reform-:-40_41-:-Landmark_event civil_unrest-:-44_45-:-Profiled_event
+#20210001 8 erupt.Process_start conflict-:-3-:-Event
+#20943005 15 buy.Commerce_buy Bell_Atlantic-:-11_12-:-Buyer customer_base_and_maintenance_facility-:-19_20_21_26_27-:-Goods
+#20934014 31 buy.Commerce_buy they-:-30-:-Buyer they-:-32-:-Goods
+#21761051 3 purchase.Commerce_buy you-:-2-:-Buyer stock-:-5-:-Goods
+#21122023 9 buy.Commerce_buy they-:-1-:-Buyer acre-:-12-:-Goods
+#21784016 19 decline.Change_position_on_a_scale 5_%-:-20_21-:-Difference sale-:-14-:-Item
+#20342004 8 climb.Change_position_on_a_scale sale-:-1-:-Item 29_%-:-9_10-:-Difference 787.02_billion_yen-:-12_13_14-:-Initial_value
+#20142006 17 buy.Commerce_buy you-:-12-:-Buyer name-:-19-:-Goods
+#20435014 15 buy.Commerce_buy American_Motors_Corp.-:-16_17_18-:-Goods it-:-14-:-Buyer
+#20654004 5 begin.Activity_start it-:-3-:-Agent discussion-:-6-:-Activity
+#21368032 11 buy.Commerce_buy who-:-10-:-Buyer porcelain_and_matryoshka_nesting_doll-:-13_14_16_18_19-:-Goods
+#21572008 5 buy.Commerce_buy person-:-4-:-Buyer oil_well-:-7_8-:-Goods
+#20162043 8 rise.Change_position_on_a_scale net_income-:-2_3-:-Attribute its-:-1-:-Item 41_%-:-10_11-:-Difference
+#21273024 10 buy.Commerce_buy he-:-8-:-Buyer CD-:-12-:-Goods
+#22113108 4 buy.Commerce_buy everybody-:-1-:-Buyer Monets-:-5-:-Goods
+#20553014 29 join.Becoming_a_member he-:-1-:-New_member European_Monetary_System-:-31_32_33-:-Group
+#20464004 6 decline.Change_position_on_a_scale OTC_market-:-2_3-:-Item
+#21622024 3 buy.Commerce_buy what-:-4-:-Goods market_maker-:-1_2-:-Buyer
+#21767002 18 build.Manufacturing sedan-:-17-:-Product Ford-:-20-:-Producer
+#20400036 13 purchase.Commerce_buy Federal_Reserve-:-8_9-:-Buyer bill-:-14-:-Goods
+#21586021 14 buy.Commerce_buy woman-:-2-:-Buyer mink-:-17-:-Goods
+#20968012 24 begin.Activity_start company-:-22-:-Agent follow_suit-:-26_27-:-Activity
+#20979003 20 buy.Commerce_buy MGM/UA_Communications_Co.-:-21_22_23-:-Goods
+#21411062 12 buy.Commerce_buy team-:-14-:-Goods he-:-11-:-Buyer
+#20083023 16 buy.Commerce_buy Mitsubishi_International_Corp.-:-4_5_6-:-Buyer control_interest-:-17_18-:-Goods
+#22124009 20 buy.Commerce_buy he-:-19-:-Buyer stock-:-26-:-Goods
+#20742003 8 buy.Commerce_buy basket_of_stock-:-16_17_18-:-Goods
+#20103013 12 begin.Activity_start agency-:-11-:-Agent investigate-:-13-:-Activity
+#21723042 3 fall.Change_position_on_a_scale Sun_Alliance-:-1_2-:-Item 1-:-4-:-Difference
+#20151001 12 buy.Commerce_buy it-:-11-:-Buyer share-:-15-:-Goods
+#20450008 22 buy.Commerce_buy present-:-23-:-Goods he-:-1-:-Buyer
+#20194026 16 increase.Cause_change_of_position_on_a_scale Carl_Icahn-:-13_14-:-Agent stake-:-18-:-Item
+#20915001 8 buy.Commerce_buy Automax_Inc.-:-9_10-:-Goods it-:-4-:-Buyer
+#21957058 10 decline.Change_position_on_a_scale Racal_Electric-:-1_2-:-Item 12-:-11-:-Difference 218-:-13-:-Final_value
+#20137022 4 fall.Change_position_on_a_scale Sumitomo_Metal_Mining-:-1_2_3-:-Item five_yen-:-5_6-:-Difference 692-:-8-:-Final_value
+#20943007 19 post.Statement which-:-16-:-Speaker sale-:-20-:-Message
+#21586014 26 buy.Commerce_buy she-:-24-:-Buyer mink-:-28-:-Goods
+#20217001 27 value.Assessing transaction-:-26-:-Phenomenon
+#21354003 6 post.Statement CMS-:-5-:-Speaker profit-:-7-:-Message
+#20978012 12 buy.Commerce_buy stock-:-13-:-Goods it-:-8-:-Buyer
+#20089020 5_6 start_off.Cause_to_start english_bell-:-2_3-:-Effect
+#21161058 23 buy.Commerce_buy share-:-24-:-Goods
+#21266009 16 buy.Commerce_buy who-:-11-:-Buyer stock-:-24-:-Goods
+#20029003 11_12 place_with.Transfer fund-:-9-:-Theme institutional_investor-:-14_15-:-Recipient
+#20725002 9 begin.Activity_start they-:-1-:-Agent twist-:-10-:-Activity
+#20137027 8 post.Statement intraday_low-:-10_11-:-Message
+#21362002 19 post.Statement loss-:-21-:-Topic it-:-17-:-Speaker
+#21174037 25 buy.Commerce_buy who-:-24-:-Buyer Spendthrift-:-26-:-Goods
+#21481001 7 begin.Activity_start it-:-5-:-Agent offering-:-9-:-Activity
+#21515022 17 buy.Commerce_buy company-:-23-:-Goods he-:-15-:-Buyer
+#20334004 21 rise.Change_position_on_a_scale five_penny-:-23_24-:-Final_value 4.5_penny-:-26_27-:-Initial_value per-share_earnings-:-19_20-:-Attribute
+#20319001 6 rise.Change_position_on_a_scale 1.2_%-:-7_8-:-Difference labor-:-4-:-Item cost-:-5-:-Attribute
+#21320041 14 buy.Commerce_buy Soviets-:-6-:-Buyer grain_and_commodity_and_goods-:-15_16_19_20_21-:-Goods
+#20274027 21_22 buy_back.Commerce_buy issuer-:-13-:-Buyer bond-:-24-:-Goods
+#20308001 32 buy.Commerce_buy it-:-17-:-Buyer common_share-:-38_39-:-Goods
+#20532002 26 buy.Commerce_buy that-:-23-:-Buyer MTM-:-27-:-Goods
+#21014018 16_17 join_in.Participation he-:-12-:-Participants barroom_brawl-:-19_20-:-Event
+#22125022 5 buy.Commerce_buy institution-:-2-:-Buyer retail_paper-:-6_7-:-Goods
+#20551002 14 buy.Commerce_buy Society_Corp.-:-1_2-:-Buyer Trustcorp-:-15-:-Goods
+#20315001 13 move.Cause_motion it-:-4-:-Agent fastener_operation-:-15_16-:-Theme facility-:-20-:-Goal
+#20071046 4 buy.Commerce_buy who-:-3-:-Buyer
+#20779025 27 buy.Commerce_buy Fed-:-19-:-Buyer market_average-:-28_29-:-Goods
+#20721001 7 buy.Commerce_buy it-:-4-:-Buyer common_share-:-16_17-:-Goods
+#20350013 3 climb.Change_position_on_a_scale cost-:-2-:-Attribute labor-:-1-:-Item 1.2_%-:-4_5-:-Difference
+#21111017 12 buy.Commerce_buy Norfolk-:-6-:-Buyer share-:-17-:-Goods
+#20994075 2 buy.Commerce_buy MGM_Grand_hotel-casino-:-5_6_7-:-Goods Bally-:-1-:-Buyer
+#20586027 20 buy.Commerce_buy share-:-29-:-Goods
+#20417001 9 buy.Commerce_buy investor-:-5-:-Buyer Detroit_Free_Press-:-14_15_16-:-Goods
+#20996028 9 join.Becoming_a_member congressman-:-7-:-New_member team-:-11-:-Group
+#21046003 15 decline.Change_position_on_a_scale failure-:-14-:-Item
+#21574077 29 buy.Commerce_buy policy-:-32-:-Goods people-:-13-:-Buyer
+#22140027 7 begin.Activity_start it-:-3-:-Agent produce-:-8-:-Activity
+#21809049 16 begin.Process_start ship-:-17-:-Event
+#20779037 13 buy.Commerce_buy government_or_central_bank-:-7_8_10_11-:-Buyer share-:-20-:-Goods
+#21344002 7 climb.Change_position_on_a_scale pretax_profit-:-1_2-:-Attribute #_187.1_million-:-9_10_11-:-Final_value #_146.3_million-:-18_19_20-:-Initial_value
+#20317066 12 buy.Commerce_buy plant-:-14-:-Goods
+#20192036 6 buy.Commerce_buy Soviet_Union-:-2_3-:-Buyer crop-:-8-:-Goods
+#21600049 11 buy.Commerce_buy S&P_500_option-:-12_13_14-:-Goods
+#20560002 19 join.Becoming_a_member Westinghouse-:-3-:-New_member legion-:-22-:-Group
+#22055007 6 join.Becoming_a_member Mr._Dannemiller-:-1_2-:-New_member Bearings-:-7-:-Group
+#20758038 11 buy.Commerce_buy wife-:-10-:-Buyer book-:-13-:-Goods
+#21881034 18 buy.Commerce_buy he-:-17-:-Buyer stock-:-24-:-Goods
+#21316004 23 buy.Commerce_buy that-:-21-:-Goods Goodson-:-22-:-Buyer
+#21263018 16 join.Becoming_a_member Reebok-:-17-:-Group who-:-4-:-New_member
+#21146105 9 buy.Commerce_buy land-:-12-:-Goods farmer-:-3-:-Buyer
+#20349020 6 buy.Commerce_buy trader-:-5-:-Buyer stock-:-12-:-Goods
+#21303033 3 join.Becoming_a_member Mr._Dozen-:-1_2-:-New_member Daiwa-:-4-:-Group
+#20141022 10 buy.Commerce_buy they-:-8-:-Buyer house-:-12-:-Goods
+#20681039 13 value.Assessing stock-:-10-:-Phenomenon
+#21311030 5 climb.Change_position_on_a_scale earnings-:-4-:-Attribute refining_and_marketing-:-1_2_3-:-Item $_33.3_million-:-7_8_9-:-Final_value $_12.9_million-:-11_12_13-:-Initial_value
+#21172020 5 rise.Change_position_on_a_scale export-:-4-:-Item #_8.43_billion-:-7_8_9-:-Final_value
+#20054003 7 buy.Commerce_buy company-:-5-:-Buyer manufacturing_plant-:-10_11-:-Goods
+#20931031 7 begin.Activity_start House_and_Senate-:-2_3_4-:-Agent hash_out-:-9_10-:-Activity
+#21154058 14 buy.Commerce_buy they-:-13-:-Buyer fee-:-40-:-Goods
+#21463013 12 fall.Change_position_on_a_scale 5_%-:-14_15-:-Difference sale-:-6-:-Item
+#21852004 15 buy.Commerce_buy investor-:-13-:-Buyer option-:-18-:-Goods
+#22142008 9 begin.Activity_start buy-:-10-:-Activity investor-:-3-:-Agent
+#20059001 3 post.Statement gain-:-4-:-Topic
+#20174008 19 follow.Compliance East_Germany-:-16_17-:-Protagonist plan-:-23-:-Norm
+#20688009 6 begin.Activity_start Mobil-:-4-:-Agent offer-:-7-:-Activity
+#21319036 13 buy.Commerce_buy Paribas-:-20-:-Goods Mr._Fournier-:-8_9-:-Buyer
+#21306001 7 join.Becoming_a_member U.S._Memories-:-8_9-:-Group it-:-4-:-New_member
+#20371002 43 buy.Commerce_buy which-:-39-:-Buyer subsidiary-:-49-:-Goods
+#20350017 18 buy.Commerce_buy Sea_Containers-:-1_2-:-Buyer common_share-:-24_25-:-Goods
+#21446036 4 join.Becoming_a_member Larry_Gainen-:-6_7-:-New_member they-:-1-:-Group
+#20563004 19 increase.Cause_change_of_position_on_a_scale quantity-:-21-:-Attribute home_copying-:-23_24-:-Item availability-:-5-:-Cause
+#20584035 33 buy.Commerce_buy share-:-36-:-Goods company-:-23-:-Buyer
+#20063002 29 buy.Commerce_buy it-:-14-:-Buyer common_share-:-35_36-:-Goods
+#20477018 9 buy.Commerce_buy Allianz-:-7-:-Buyer
+#21830029 4 buy.Be_in_agreement_on_assessment opponent-:-1-:-Cognizers argument-:-6-:-Topic
+#20465059 2 believe.Certainty he-:-1-:-Cognizer arise-:-7-:-Content
+#20328012 14 increase.Cause_change_of_position_on_a_scale ceiling-:-3-:-Attribute loan-:-6-:-Item
+#21450006 10 buy.Commerce_buy he-:-9-:-Buyer store-:-8-:-Goods
+#21057066 2 start.Cause_to_start bidding_war-:-5_6-:-Effect that-:-1-:-Cause
+#21572075 7 buy.Commerce_buy we-:-2-:-Buyer house-:-9-:-Goods
+#20034038 6 buy.Commerce_buy investor-:-3-:-Buyer fund-:-8-:-Goods
+#21730022 11 erupt.Process_start protest-:-10-:-Event
+#21161052 23 buy.Commerce_buy share-:-24-:-Goods
+#21201046 7 buy.Commerce_buy investor-:-4-:-Buyer stock-:-9-:-Goods
+#21572028 16 join.Becoming_a_member investor-:-10-:-New_member group-:-19-:-Group
+#20562008 18 analyze.Scrutiny work_process-:-23_24-:-Ground
+#21146041 6 buy.Commerce_buy middleman-:-3-:-Buyer
+#20661006 24 buy.Commerce_buy it-:-16-:-Buyer share-:-26-:-Goods
+#21250030 5 begin.Activity_start strike-:-6-:-Activity who-:-4-:-Agent
+#20224010 5 believe.Certainty let-:-11-:-Content I-:-2-:-Cognizer
+#21567001 10 give.Telling father-:-9-:-Speaker he-:-11-:-Addressee career_advice-:-15_16-:-Topic
+#21819055 2 join.Becoming_a_member Apple-:-3-:-Group Mr._Karalis-:-7_8-:-New_member
+#21578063 14 climb.Change_position_on_a_scale 4.74-:-15-:-Difference 382.81-:-17-:-Final_value Amex-:-2-:-Item Market_Value_Index-:-3_4_5-:-Attribute
+#20719010 17 erupt.Process_start trading_problem-:-15_16-:-Event
+#21274001 17 buy.Commerce_buy professional-:-8-:-Buyer vodka_brandy_and_spirit-:-20_22_23_25-:-Goods
+#20700018 9 buy.Commerce_buy commodity_or_financial_instrument-:-13_14_15_16-:-Goods
+#20049073 12 join.Becoming_a_member member-:-3-:-New_member firm-:-15-:-Group
+#20779016 4 buy.Commerce_buy Fed-:-2-:-Buyer foreign_exchange-:-7_8-:-Goods
+#20748001 19 accompany.Rest fanfare-:-17-:-Part travels-:-24-:-Whole
+#21538005 24 buy.Commerce_buy he-:-1-:-Buyer share-:-25-:-Goods
+#21469016 9 fall.Change_position_on_a_scale 90_%-:-13_14-:-Difference sale-:-7-:-Item
+#20340002 18 buy.Commerce_buy unit-:-13-:-Buyer share-:-21-:-Goods
+#20985007 25 value.Assessing gold-:-23-:-Method currency-:-27-:-Phenomenon
+#22043014 12 decline.Change_position_on_a_scale rate-:-10-:-Attribute federal_fund-:-8_9-:-Item 1/4_percentage_point-:-13_14_15-:-Difference 8_3/4_%-:-18_19_20-:-Final_state 9_%-:-28_29-:-Initial_state
+#21582013 5 begin.Activity_start court-:-3-:-Agent recognize-:-7-:-Activity
+#21295004 23 post.Statement Carbide-:-1-:-Speaker earnings-:-24-:-Message
+#20001001 9 join.Becoming_a_member Pierre_Vinken-:-1_2-:-New_member board-:-11-:-Group
+#21569057 4 buy.Commerce_buy they-:-2-:-Buyer prepaid-tuition_plan-:-10_11-:-Goods
+#20675009 4 buy.Commerce_buy owner-:-2-:-Buyer machinery-:-6-:-Goods
+#20043026 7 begin.Activity_start country-:-1-:-Agent consider-:-9-:-Activity
+#21002035 4 buy.Commerce_buy fabric-:-5-:-Goods manufacturer-:-2-:-Buyer
+#20192029 17 begin.Activity_start investor-:-15-:-Agent buy-:-18-:-Activity
+#21642028 14 climb.Change_position_on_a_scale operator-:-2-:-Item 3_1/8-:-15_16-:-Difference 23-:-18-:-Final_value
+#20725056 15 buy.Commerce_buy rights-:-19-:-Goods Santa_Fe_Energy_Co.-:-1_2_3_4-:-Buyer
+#20761030 31 buy.Commerce_buy people-:-29-:-Buyer home-:-33-:-Goods
+#21035005 6 post.Statement Consolidated-:-4-:-Speaker profit-:-9-:-Topic
+#21796001 28 post.Statement Republic_New_York_Corp.-:-1_2_3_4-:-Speaker net_loss-:-34_35-:-Message
+#20578003 9 buy.Commerce_buy Sony-:-5-:-Buyer Guber-Peters_Entertainment_Co.-:-10_11_12-:-Goods
+#21692041 12 join.Becoming_a_member partner-:-3-:-New_member Cowan_&_Owen-:-13_14_15-:-Group
+#21586036 12 buy.Commerce_buy who-:-10-:-Buyer fur-:-13-:-Goods
+#20979010 21 believe.Certainty he-:-20-:-Cognizer forthcoming-:-27-:-Content
+#20146011 6 believe.Awareness offer-:-8-:-Content
+#21285027 5 buy.Commerce_buy SIBV-MS_Holdings-:-7_8-:-Buyer share-:-2-:-Goods
+#20437011 6 buy.Commerce_buy trader-:-4-:-Buyer contract-:-7-:-Goods
+#21084001 4 rise.Change_position_on_a_scale 0.2_%-:-5_6-:-Difference french-:-1-:-Item consumer_price-:-2_3-:-Attribute
+#20214023 10 join.Becoming_a_member retiree_and_tourist-:-6_7_8-:-New_member fan-:-12-:-Group
+#21337015 5 pick.Choosing investor-:-3-:-Cognizer stock-:-7-:-Chosen
+#20713003 9 buy.Commerce_buy Dresdner_Bank-:-6_7-:-Buyer BIP-:-13-:-Goods
+#22153038 18 build.Building steel_service_center-:-14_15_16-:-Agent processing_plant-:-20_21-:-Created_entity
+#20998015 9 buy.Commerce_buy Japanese-:-4-:-Buyer real_estate-:-11_12-:-Goods
+#20155043 37 buy.Commerce_buy wheat-:-42-:-Goods government-:-22-:-Buyer
+#21709002 12_13 buy_back.Commerce_buy Schlumberger-:-7-:-Buyer stock-:-15-:-Goods
+#20440001 4 climb.Change_position_on_a_scale construction_contracting-:-2_3-:-Item 8_%-:-5_6-:-Difference $_274.2_billion-:-12_13_14-:-Final_value
+#21975001 8 fall.Change_position_on_a_scale 12_%-:-9_10-:-Difference net_income-:-6_7-:-Attribute
+#22048009 9 begin.Activity_start Chamber-:-6-:-Agent use-:-10-:-Activity
+#20464025 31 join.Becoming_a_member Daimler-Benz-:-30-:-New_member list-:-33-:-Group
+#20900011 29 join.Becoming_a_member who-:-26-:-New_member board-:-34-:-Group
+#20666035 12 buy.Commerce_buy which-:-11-:-Buyer pulp-:-13-:-Goods
+#22153001 19 begin.Activity_start it-:-17-:-Agent test-:-20-:-Activity
+#20564010 3 buy.Commerce_buy Mr._Rey-:-1_2-:-Buyer control_stake-:-5_6-:-Goods
+#20663001 16 rise.Change_position_on_a_scale net_income-:-10_11-:-Attribute 8.9_%-:-17_18-:-Difference 8.2_billion_yen-:-20_21_22-:-Final_value 7.54_billion_yen-:-29_30_31-:-Initial_value
+#21617038 19 pick.Choosing client-:-17-:-Cognizer trip-:-21-:-Chosen
+#20484004 16 analyze.Scrutiny situation-:-18-:-Ground committee-:-8-:-Cognizer
+#21438001 16 join.Becoming_a_member another-:-14-:-New_member Big_Board-:-18_19-:-Group
+#21335016 12 climb.Change_position_on_a_scale 4.6_%-:-13_14-:-Difference deflator-:-9-:-Attribute
+#21424033 11 begin.Activity_start State_Department-:-2_3-:-Agent distance-:-12-:-Activity
+#22109024 11 begin.Activity_start it-:-8-:-Agent run_ad-:-12_13-:-Activity
+#21353008 10 climb.Change_position_on_a_scale death_toll-:-3_4-:-Attribute temblor-:-9-:-Item 61-:-12-:-Final_value
+#20573005 20 climb.Change_position_on_a_scale personal_income-:-4_5-:-Attribute 0.6_%-:-21_22-:-Difference
+#20627021 21 buy.Commerce_buy clothes-:-18-:-Goods people-:-23-:-Buyer
+#22045015 29 fall.Change_position_on_a_scale price-:-27-:-Attribute gold-:-26-:-Item
+#20900004 22 buy.Commerce_buy company-:-17-:-Buyer insurance-:-23-:-Goods
+#21121044 3 wrap.Placing man-:-2-:-Agent diamond-:-5-:-Theme knot_of_tie-:-8_9_11-:-Goal
+#20429001 25 value.Assessing intercompany_receivable-:-23_24-:-Phenomenon
+#20761013 10 buy.Commerce_buy those-:-2-:-Buyer home-:-12-:-Goods
+#21642017 23 begin.Activity_start buyer-:-21-:-Agent shop-:-25-:-Activity
+#20693033 23 purchase.Commerce_buy investor-:-13-:-Buyer bond_issue-:-25_26-:-Goods
+#20997001 17_18 buy_time.Change_event_time troubled_SCI_Television_Inc.-:-1_2_3_4-:-Agent sell_and_pay-:-20_22_23-:-Event
+#21603083 9 buy.Commerce_buy it-:-8-:-Buyer rice-:-16-:-Goods
+#21036046 5 purchase.Commerce_buy convertible_preferred_stock-:-10_11_12-:-Goods company-:-2-:-Buyer
+#21153001 12 value.Assessing jetliner-:-11-:-Phenomenon
+#20155029 7 buy.Commerce_buy sugar-:-8-:-Goods it-:-4-:-Buyer
+#21086009 10 join.Participation company-:-8-:-Participants
+#21844006 8 give.Prevent_or_allow_possession move-:-7-:-Potential_hindrance it-:-9-:-Protagonist foothold-:-13-:-State_of_affairs
+#22045019 6 buy.Commerce_buy gold-:-7-:-Goods
+#21782007 14 climb.Change_position_on_a_scale which-:-11-:-Item
+#22153040 6 begin.Activity_start Detroit-:-5-:-Agent talk-:-7-:-Activity
+#21470017 6 start.Activity_start graduate-:-4-:-Agent job-:-7-:-Activity
+#20583010 8 buy.Commerce_buy company-:-6-:-Buyer company-:-15-:-Goods
+#21320027 14 buy.Commerce_buy copper-:-15-:-Goods who-:-7-:-Buyer
+#20994045 11 believe.Opinion people-:-2-:-Cognizer that-:-12-:-Opinion
+#21255004 7 begin.Activity_start FDA-:-6-:-Agent detain-:-8-:-Activity
+#21314016 5 buy.Commerce_buy share-:-7-:-Goods investor-:-4-:-Buyer
+#21086007 4 begin.Activity_start it-:-1-:-Agent construction-:-5-:-Activity
+#20983029 17_18 buy_back.Commerce_buy New_America_High_Income_Fund-:-1_2_3_4_5-:-Buyer prefer_stock_and_note-:-23_24_25_26-:-Goods
+#20686015 8 increase.Cause_change_of_position_on_a_scale House-Senate_conference-:-5_6-:-Agent National_Aeronautics_and_Space_Administration-:-10_11_12_13_14-:-Item budget-:-15-:-Attribute
+#22003001 12 post.Statement Great_American_Bank-:-1_2_3-:-Speaker loss-:-15-:-Message
+#21026034 11_13 buy_back.Commerce_buy trader-:-1-:-Buyer they-:-12-:-Goods
+#20719050 6 buy.Commerce_buy machine-:-9-:-Goods they-:-2-:-Buyer
+#20584024 34 buy.Commerce_buy company-:-41-:-Goods regional_Bell_company-:-28_29_30-:-Buyer
+#20779038 6 buy.Commerce_buy Fed-:-4-:-Buyer broad_market_composite-:-8_9_10-:-Goods
+#20953023 4 value.Assessing New_England_Electric-:-1_2_3-:-Assessor offer-:-6-:-Phenomenon
+#21936052 13 begin.Activity_start massage-:-15-:-Activity he-:-10-:-Agent
+#21201030 27 buy.Commerce_buy they-:-24-:-Buyer any_more-:-28_29-:-Goods
+#21587011 3 begin.Activity_start official-:-2-:-Agent post-:-4-:-Activity
+#21438008 13 start.Activity_start franchisor-:-11-:-Agent trade-:-14-:-Activity
+#21048008 4 buy.Commerce_buy share-:-7-:-Goods McCaw-:-1-:-Buyer
+#20231022 5 rise.Change_position_on_a_scale 40-:-6-:-Difference Sumitomo_Realty_&_Development-:-1_2_3_4-:-Item 2170-:-8-:-Final_value
+#21570021 12 accompany.Simultaneity appraisal-:-14-:-Profiled_event deduction-:-1-:-Landmark_event
+#21291007 13 purchase.Commerce_buy York_Capital_Inc.-:-8_9_10-:-Buyer interest-:-17-:-Goods
+#20488002 6 climb.Change_position_on_a_scale Dow_Jones_Industrial_Average-:-2_3_4_5-:-Attribute 6.76_point-:-7_8-:-Difference
+#20246002 3 follow.Relative_time increase-:-2-:-Focal_occasion report-:-7-:-Landmark_occasion
+#20679007 8 buy.Commerce_buy Hewlett-Packard-:-6-:-Buyer share-:-11-:-Goods
+#21223016 11 buy.Commerce_buy investor-:-9-:-Buyer this-:-12-:-Goods
+#22144007 4 wrap.Filling plastic_lens-:-2_3-:-Agent itself-:-5-:-Theme cornea-:-8-:-Goal
+#21081001 14 build.Building Jacobs_Engineering_Group_Inc._'s_Jacobs_International_unit-:-1_2_3_4_5_6_7_8-:-Agent manufacturing_plant-:-17_18-:-Created_entity
+#21812001 3 post.Statement AMR_Corp.-:-1_2-:-Speaker drop-:-7-:-Topic
+#21480003 5 buy.Commerce_buy they-:-1-:-Buyer growth_stock-:-6_7-:-Goods
+#21187030 26 buy.Commerce_buy issue-:-21-:-Goods investment_trust_fund-:-28_29_30-:-Buyer
+#20764028 8 increase.Cause_change_of_position_on_a_scale launder_drug_money-:-1_2_3-:-Cause price-:-13-:-Attribute real_estate-:-15_16-:-Item
+#20557010 3 buy.Commerce_buy RJR-:-4-:-Goods KKR-:-2-:-Buyer
+#21162030 35 rise.Change_position_on_a_scale 30_%-:-37_38-:-Difference $_100,000-:-42_43-:-Final_value spending-:-10-:-Attribute regulatory_paper_work_and_people-:-12_13_14_15_17-:-Item
+#20359034 6 buy.Commerce_buy stock-:-7-:-Goods you-:-4-:-Buyer
+#21449003 12 post.Statement Bond_Corp.-:-9_10-:-Speaker operating_loss-:-14_15-:-Message
+#20959006 6 join.Becoming_a_member Mr._Pimlott_and_Mr._McCarthy-:-1_2_3_4_5-:-New_member Barclay_'s-:-7_8-:-Group
+#20764029 7 buy.Commerce_buy car_airplane_launch_and_nightclub-:-9_11_13_14_15-:-Goods
+#22155007 2 climb.Change_position_on_a_scale revenue-:-1-:-Attribute 4.3_%-:-3_4-:-Difference $_14.31_billion-:-6_7_8-:-Final_value $_13.71_billion-:-10_11_12-:-Initial_value
+#20671008 17 buy.Commerce_buy municipal_bond-:-18_19-:-Goods who-:-7-:-Buyer
+#20456013 11 join.Becoming_a_member European_Community-:-13_14-:-Group Spain-:-10-:-New_member
+#21319035 14 begin.Activity_start Marc_Fournier-:-7_8-:-Agent buy-:-15-:-Activity
+#20773004 11 join.Becoming_a_member Waertsilae_Marine-:-9_10-:-New_member rank-:-13-:-Group
+#22140020 2 begin.Activity_start SsangYong-:-1-:-Agent make-:-3-:-Activity
+#20148013 14 buy.Commerce_buy investor-:-4-:-Buyer stock-:-20-:-Goods
+#21172016 16_17 join_in.Participation nation-:-15-:-Participants plan-:-22-:-Event
+#20064023 2 begin.Activity_start Ford-:-1-:-Agent install-:-3-:-Activity
+#21422010 25 buy.Commerce_buy electronic_card-:-26_27-:-Goods driver-:-20-:-Buyer
+#21422023 30 buy.Commerce_buy smoker-:-21-:-Buyer french-:-31-:-Goods
+#20049032 19 join.Becoming_a_member judge-:-5-:-New_member law_firm-:-23_24-:-Group
+#20587022 4 move.Cause_motion measure-:-2-:-Cause budget-:-13-:-Theme home-state_project-:-15_16-:-Goal foreign_basis-:-18_19-:-Source
+#21613009 15 fall.Change_position_on_a_scale 7.61_%-:-17_18-:-Final_value 7.82_%-:-20_21-:-Initial_value average_yield-:-13_14-:-Attribute
+#21822023 20 give.Giving Wall_Street-:-5_6-:-Donor lender-:-21-:-Recipient stake-:-24-:-Theme
+#20472006 2 climb.Change_position_on_a_scale sale-:-1-:-Item 71_%-:-3_4-:-Difference $_6.36_billion-:-6_7_8-:-Final_value $_3.72_billion-:-10_11_12-:-Initial_value
+#20787009 14 buy.Commerce_buy investor-:-8-:-Buyer future_contract-:-18_19-:-Goods
+#20116005 3 begin.Activity_start send-:-4-:-Activity they-:-1-:-Agent
+#21052012 6 buy.Commerce_buy people-:-3-:-Buyer anything-:-7-:-Goods
+#21512018 36 believe.Opinion he-:-35-:-Cognizer what-:-34-:-Opinion
+#21013014 18 value.Assessing thrift-:-16-:-Assessor bond-:-20-:-Phenomenon
+#20349018 9 join.Becoming_a_member firm-:-8-:-New_member other-:-10-:-Group
+#20570011 3 begin.Activity_start Gabelli_Group-:-1_2-:-Agent raise-:-4-:-Activity
+#21316016 8 begin.Activity_start Mr._Ingersoll-:-6_7-:-Agent focus-:-9-:-Activity
+#21429002 20 make.Manufacturing which-:-18-:-Product Avions_Marcel_Dassault-Breguet_Aviation_SA-:-22_23_24_25_26-:-Producer
+#20766079 9 buy.Commerce_buy I-:-7-:-Buyer insurance-:-11-:-Goods
+#21142024 7 buy.Commerce_buy share-:-10-:-Goods
+#20741006 28 begin.Activity_start son-:-18-:-Agent expansion-:-32-:-Activity
+#20675025 14 buy.Commerce_buy firm-:-10-:-Buyer company-:-24-:-Goods
+#21273030 6 buy.Commerce_buy I-:-4-:-Buyer CD-:-8-:-Goods
+#20553025 8 join.Becoming_a_member Mr._Lawson-:-1_2-:-New_member EMS-:-10-:-Group
+#21276001 13 buy.Commerce_buy share-:-16-:-Goods Federal_Mogul_Corp.-:-9_10_11-:-Buyer
+#21043002 13 buy.Commerce_buy investor-:-11-:-Buyer stock-:-20-:-Goods
+#21273008 8 buy.Commerce_buy CD-:-6-:-Goods he-:-7-:-Buyer
+#20937011 24 believe.Certainty George_Bush-:-9_10-:-Cognizer turn_the_clock_back-:-31_32_33_34-:-Content
+#21919002 13 buy.Commerce_buy Mr._Ruskin-:-4_5-:-Buyer share-:-16-:-Goods
+#20610029 21 build.Building plant-:-17-:-Created_entity
+#20469048 9 join.Becoming_a_member lawyer-:-3-:-New_member Whitman_&_Ransom-:-10_11_12-:-Group
+#20687012 15 build.Cause_to_make_progress they-:-9-:-Agent life-:-16-:-Project
+#20477020 25 buy.Commerce_buy which-:-23-:-Goods it-:-24-:-Buyer
+#21957013 9_10 join_in.Participation investor-:-2-:-Participants buying-:-12-:-Event
+#21120016 6 buy.Commerce_buy people-:-4-:-Buyer goods-:-12-:-Goods
+#21079005 2_3 buy_back.Commerce_buy ITT-:-1-:-Buyer share-:-6-:-Goods
+#20373016 21 value.Assessing package-:-20-:-Phenomenon
+#21320024 30 buy.Commerce_buy contract-:-31-:-Goods short_seller-:-20_21-:-Buyer
+#20101002 36 increase.Cause_change_of_position_on_a_scale loan_guarantee-:-27_28-:-Attribute Overseas_Private_Investment_Corp.-:-31_32_33_34-:-Item
+#20428003 15 decline.Change_position_on_a_scale export-:-13-:-Item
+#20016002 4 follow.Relative_time growth-:-3-:-Focal_occasion year-to-year_increase-:-5_6-:-Landmark_occasion
+#21065054 26 join.Becoming_a_member John_Ake-:-1_2-:-New_member Ballard_Spahr-:-27_28-:-Group
+#21781022 5 climb.Change_position_on_a_scale Morgan_Grenfell-:-3_4-:-Item 14-:-6-:-Difference 406-:-8-:-Final_value
+#21120003 6 join.Becoming_a_member Japan-:-5-:-New_member club-:-13-:-Group
+#21245001 14 buy.Commerce_buy power-:-15-:-Goods Consumers_Power_Co.-:-1_2_3-:-Buyer
+#20520005 5 fluctuate.Change_position_on_a_scale stock-:-3-:-Item
+#21698003 18 join.Participation revel-:-25-:-Event he-:-16-:-Participants
+#20170008 8 build.Building ship-:-4-:-Created_entity
+#20632016 6 believe.Certainty individual-:-1-:-Cognizer seek-:-10-:-Content
+#20524030 18 believe.Certainty Maureen_Fraser-:-1_2-:-Cognizer able-:-25-:-Content
+#20467042 9 rise.Change_position_on_a_scale nine_penny-:-10_11-:-Difference 216_penny-:-14_15-:-Final_value share-:-8-:-Item
+#20681076 17 buy.Commerce_buy Montedison-:-1-:-Buyer rest-:-19-:-Goods
+#21569037 2 build.Intentionally_create nest_egg-:-4_5-:-Created_entity parent-:-19-:-Creator
+#20922017 5 begin.Activity_start analyst-:-3-:-Agent link-:-7-:-Activity
+#20428003 9 rise.Change_position_on_a_scale export-:-8-:-Item 2.1_%-:-10_11-:-Difference
+#21139019 23 fall.Change_position_on_a_scale 14.1_%-:-24_25-:-Difference 8,355-:-27-:-Final_value sale-:-18-:-Item
+#21026036 14 buy.Commerce_buy China-:-13-:-Buyer bale-:-18-:-Goods
+#21257014 3 value.Assessing Mr._Lee-:-1_2-:-Assessor package-:-5-:-Phenomenon
+#20286023 15 join.Becoming_a_member who-:-14-:-New_member Nissan-:-16-:-Group
+#20481002 15 begin.Activity_start service-:-21-:-Activity Times-:-14-:-Agent
+#21223017 17 buy.Commerce_buy stock-:-19-:-Goods bank_and_account-:-6_11_14-:-Buyer
+#20374036 12 buy.Commerce_buy company-:-10-:-Buyer stock-:-16-:-Goods
+#20609040 28 accompany.Rest report-:-27-:-Part spending_bill-:-29_30-:-Rest
+#21201009 7 buy.Commerce_buy Bear_,_Stearns-:-4_5_6-:-Buyer share-:-12-:-Goods
+#20967007 16 begin.Activity_start collect-:-17-:-Activity state-:-15-:-Agent
+#21377018 4 believe.Opinion executive-:-3-:-Cognizer outweigh-:-10-:-Opinion
+#20414035 3 believe.Opinion executive-:-1-:-Cognizer know-:-6-:-Opinion
+#20050001 15 buy.Commerce_buy it-:-7-:-Buyer building_and_property-:-16_17_19-:-Goods
+#20578002 18 value.Assessing transaction-:-17-:-Phenomenon
+#21891004 10 buy.Commerce_buy subsidiary-:-2-:-Buyer electricity_and_steam-:-11_12_13-:-Goods
+#21442034 13 climb.Change_position_on_a_scale foreclosure-:-11-:-Item 1,482-:-16-:-Final_value
+#21567066 20 join.Becoming_a_member Mr._Peterson-:-15_16-:-New_member club-:-25-:-Group
+#20732011 5 begin.Activity_start you-:-4-:-Agent talk-:-6-:-Activity
+#21819053 11 join.Becoming_a_member John_P._Karalis-:-7_8_9-:-New_member law_firm-:-17_18-:-Group
+#20761042 31 buy.Commerce_buy business_group-:-29_30-:-Buyer real_estate-:-32_33-:-Goods
+#20437015 6 buy.Commerce_buy Japan-:-3-:-Buyer copper-:-7-:-Goods
+#20174031 8 begin.Activity_start U.S.-:-7-:-Agent plan-:-9-:-Activity
+#20280017 5 buy.Commerce_buy bottle-:-10-:-Goods customer-:-3-:-Buyer
+#20331015 5 value.Assessing railroad-:-3-:-Phenomenon private_market_basis-:-8_9_10-:-Method
+#20036026 28 climb.Change_position_on_a_scale 0.9_%-:-29_30-:-Difference order-:-4-:-Item
+#21002017 4 buy.Commerce_buy I-:-2-:-Buyer fabric-:-5-:-Goods
+#20521002 5 join.Becoming_a_member Mr._Nicastro-:-3_4-:-New_member Grand_Union-:-6_7-:-Group
+#20584037 8_9 buy_up.Commerce_buy BellSouth-:-6-:-Buyer share-:-10-:-Goods
+#21441010 23 buy.Commerce_buy share-:-25-:-Goods
+#20983012 20 buy.Commerce_buy bond-:-22-:-Goods
+#22135002 17 join.Becoming_a_member who-:-14-:-New_member Securities_and_Futures_Commission-:-21_22_23_24-:-Group
+#21744017 8 build.Manufacturing car-:-15-:-Product which-:-7-:-Factory
+#20151004 3 follow.Relative_time action-:-2-:-Focal_occasion announcement-:-9-:-Landmark_occasion
+#20224035 7 buy.Commerce_buy GM-:-2-:-Buyer stock-:-15-:-Goods
+#20477002 9 buy.Commerce_buy Navigation_Mixte-:-15_16-:-Goods Allianz-:-1-:-Buyer
+#21319035 15 buy.Commerce_buy share-:-17-:-Goods Marc_Fournier-:-7_8-:-Buyer
+#20936036 14 buy.Commerce_buy dollar-:-15-:-Goods
+#20089021 9 begin.Activity_start ringer-:-8-:-Agent vary-:-10-:-Activity
+#21401002 13 accompany.Rest chart-:-12-:-Part column-:-20-:-Whole
+#20767022 3 believe.Certainty we-:-2-:-Cognizer find-:-8-:-Content
+#22055029 7 move.Cause_motion Yaohan_Departmentstore_Co.-:-1_2_3-:-Agent headquarters_and_hold_company-:-10_11_12_13-:-Theme Hong_Kong-:-15_16-:-Goal
+#21026039 28 buy.Commerce_buy who-:-25-:-Buyer cotton-:-29-:-Goods
+#21321001 4_5 buy_out.Commerce_buy interest-:-9-:-Goods Rockwell_International_Corp.-:-1_2_3-:-Buyer
+#20126021 12 build.Building they-:-8-:-Created_entity
+#21094047 16 begin.Activity_start president-:-15-:-Agent lower-:-18-:-Activity
+#21554039 15 buy.Commerce_buy feedlot_operator-:-12_13-:-Buyer they-:-8-:-Goods
+#21219003 9 purchase.Commerce_buy Meredith_Relocation_Corp.-:-5_6_7-:-Buyer home-:-12-:-Goods
+#21467005 5 buy.Commerce_buy share-:-8-:-Goods McCaw-:-1-:-Buyer
+#21167001 6 buy.Commerce_buy Lion_Nathan_Ltd.-:-1_2_3-:-Buyer franchise-:-8-:-Goods
+#21190028 18 buy.Commerce_buy it-:-16-:-Buyer movie-:-19-:-Goods
+#20373008 26 buy.Commerce_buy studio-:-24-:-Buyer stake-:-29-:-Goods
+#20693033 17 buy.Commerce_buy investor-:-13-:-Buyer dollar-:-18-:-Goods
+#21875115 8 purchase.Commerce_buy natural_gas-:-9_10-:-Goods Poland-:-1-:-Buyer
+#20224017 4 value.Assessing proposal-:-3-:-Medium Jaguar-:-5-:-Phenomenon
+#21302029 10 join.Becoming_a_member I-:-2-:-New_member Lloyd_'s-:-11_12-:-Group
+#20989051 19 buy.Commerce_buy Vizeversa-:-20-:-Goods it-:-16-:-Buyer
+#20334004 11 rise.Change_position_on_a_scale 12_%-:-12_13-:-Difference #_135.2_million-:-15_16_17-:-Final_value profit_after_tax_and_minority_interest-:-1_2_3_4_5_6-:-Attribute
+#20979002 18 join.Becoming_a_member Jonathan_Lloyd-:-10_11-:-New_member board-:-21-:-Group
+#20192029 18 buy.Commerce_buy investor-:-15-:-Buyer future_contract-:-20_21-:-Goods
+#21065053 17 join.Becoming_a_member partner-:-15-:-New_member department-:-22-:-Group
+#21635049 6 buy.Commerce_buy institution-:-5-:-Buyer asset-backed_issue-:-7_8-:-Goods
+#21120012 10 start.Activity_start crumble-:-12-:-Activity LDP-:-9-:-Agent
+#20177005 3 rise.Change_position_on_a_scale 7.84_yen-:-5_6-:-Final_value per-share_net-:-1_2-:-Attribute 6.53_yen-:-8_9-:-Initial_value
+#20578042 28 buy.Commerce_buy he_and_Mr._Peters-:-19_20_21_22-:-Buyer MGM/UA_Entertainment_Co.-:-31_32_33-:-Goods
+#20777008 17 buy.Commerce_buy MGM/UA_Communications_Co-:-18_19_20-:-Goods group-:-3-:-Buyer
+#21314008 8 buy.Commerce_buy they-:-7-:-Buyer McDonald_'s_,_Coca-Cola_Co._and_Procter_&_Gamble-:-9_10_11_12_13_14_15_16_17-:-Goods
+#20332006 5 follow.Relative_time takeover-:-2-:-Landmark_occasion restructuring-:-8-:-Focal_occasion
+#21464013 22 buy.Commerce_buy bond-:-23-:-Goods client-:-20-:-Buyer
+#20177009 13 climb.Change_position_on_a_scale 600_billion_yen-:-15_16_17-:-Final_value 566.54_billion_yen-:-19_20_21-:-Initial_value sale-:-11-:-Item
+#20628001 4 buy.Commerce_buy owner-:-2-:-Buyer machinery-:-6-:-Goods
+#20531001 6 buy.Commerce_buy common_share-:-13_14-:-Goods it-:-4-:-Buyer
+#20039034 14 buy.Commerce_buy she-:-12-:-Buyer jam_cocoa_and_goody-:-15_17_18_21-:-Goods
+#21687008 9 buy.Commerce_buy company-:-7-:-Buyer contract-:-10-:-Goods
+#20082016 10 value.Assessing stake-:-9-:-Phenomenon
+#20141020 10 buy.Commerce_buy they-:-8-:-Buyer car-:-12-:-Goods
+#21432018 4 move.Cause_motion Cathay-:-1-:-Agent operation-:-10-:-Theme outside_Hong_Kong-:-11_12_13-:-Goal
+#20510003 13 purchase.Commerce_buy it-:-7-:-Buyer Wilson-:-14-:-Goods
+#21166018 7 rise.Change_position_on_a_scale average_yield-:-2_3-:-Attribute jumbo-:-6-:-Item 8.00_%-:-9_10-:-Final_value 7.96_%-:-12_13-:-Initial_value
+#21110001 6_7 fall_back.Change_position_on_a_scale order-:-2-:-Item
+#21875089 5 begin.Activity_start economist-:-4-:-Agent blame-:-7-:-Activity
+#21328042 12 buy.Commerce_buy Manville-:-9-:-Buyer much-:-13-:-Goods
+#21136017 17 post.Statement P&G-:-15-:-Speaker net-:-18-:-Message
+#21562036 6 buy.Commerce_buy broker-:-4-:-Buyer investment-:-10-:-Goods
+#20100019 10 join.Becoming_a_member Mr._Hahn-:-7_8-:-New_member company-:-12-:-Group
+#21270028 15 build.Building stadium-:-23-:-Created_entity
+#21422016 4 buy.Commerce_buy RJR_Nabisco_Inc.-:-5_6_7-:-Goods it-:-1-:-Buyer
+#20162042 4 rise.Change_position_on_a_scale Old_Spaghetti_Warehouse-:-1_2_3-:-Item 1-:-5-:-Difference 16_1/8-:-7_8-:-Final_value
+#20409066 6 join.Becoming_a_member who-:-5-:-New_member club-:-8-:-Group
+#22102019 15 begin.Process_start decline-:-17-:-Event
+#21026039 49 climb.Change_position_on_a_scale price-:-48-:-Attribute 74_cent-:-52_53-:-Difference
+#20371002 26 join.Becoming_a_member who-:-24-:-New_member HMS_Acquisition_Corp.-:-28_29_30-:-Group
+#22111010 12 build.Building David_Peterson-:-9_10-:-Agent Lexus_dealership-:-14_15-:-Created_entity
+#21796001 5 join.Becoming_a_member Republic_New_York_Corp.-:-1_2_3_4-:-New_member list-:-7-:-Group
+#21691028 10 begin.Activity_start we-:-4-:-Agent get_back-:-11_12-:-Activity
+#21208056 11 buy.Commerce_buy share-:-12-:-Goods she-:-1-:-Buyer
+#21036038 28 rise.Change_position_on_a_scale 1/2-:-29-:-Difference Delta_Air_Lines-:-25_26_27-:-Item 66_1/2-:-31_32-:-Final_value
+#21319004 4 buy.Commerce_buy stake-:-9-:-Goods
+#22045015 13 buy.Commerce_buy they-:-12-:-Buyer gold-:-14-:-Goods
+#20194005 2 rise.Change_position_on_a_scale sale-:-1-:-Item 5_%-:-3_4-:-Difference $_4.4_billion-:-6_7_8-:-Final_value $_4.2_billion-:-10_11_12-:-Initial_value
+#21678005 22 begin.Activity_start work-:-23-:-Activity Mr._Kelly-:-20_21-:-Agent
+#21548005 3 post.Statement information_system-:-1_2-:-Speaker loss-:-5-:-Message
+#22032014 4 value.Assessing professional-:-9-:-Assessor route-:-2-:-Phenomenon
+#22100018 21 pass.Transfer local_phone_company_and_long-distance_carrier-:-6_7_8_9_11_12-:-Donor money-:-26-:-Theme originator-:-29-:-Recipient
+#20649007 7 rise.Change_position_on_a_scale 45_%-:-8_9-:-Difference 380_billion_yen-:-11_12_13-:-Final_value net-:-5-:-Attribute
+#21689004 16 join.Becoming_a_member Deloitte_firm-:-3_4-:-New_member Coopers_&_Lybrand-:-17_18_19-:-Group
+#20530014 5 buy.Commerce_buy they-:-3-:-Buyer wardrobe-:-9-:-Goods
+#20359001 16 buy.Commerce_buy investor-:-2-:-Buyer share-:-17-:-Goods
+#20327058 14 buy.Commerce_buy it-:-11-:-Buyer Ansco_&_Associates_and_affiliate-:-15_16_17_18_20-:-Goods
+#20578002 10 buy.Commerce_buy Sony_Corp.-:-5_6-:-Buyer Columbia_Pictures_Entertainment_Inc.-:-11_12_13_14-:-Goods
+#21845001 18 begin.Activity_start it-:-16-:-Agent ship-:-19-:-Activity
+#21285044 8 fall.Change_position_on_a_scale 1_1/2-:-9_10-:-Difference 30-:-12-:-Final_value Novell-:-1-:-Item
+#20560016 10 purchase.Commerce_buy Westinghouse-:-5-:-Buyer combustion_turbine-:-12_13-:-Goods
+#20409002 17 buy.Commerce_buy he-:-16-:-Buyer rowing_machine-:-14_15-:-Goods
+#21924036 11 join.Participation employee-:-10-:-Participants work_stoppage-:-13_14-:-Event
+#22102029 13 join.Participation effort-:-14-:-Event Moscow-:-10-:-Participant_1
+#20585023 13 buy.Commerce_buy they-:-8-:-Buyer share-:-14-:-Goods
+#21435009 11 accompany.Cotheme inspector-:-14-:-Theme she-:-9-:-Cotheme
+#20405023 4 buy.Commerce_buy Kawasaki_Steel_Corp.-:-1_2_3-:-Buyer patent-:-8-:-Goods
+#20162039 10 begin.Activity_start company-:-8-:-Agent market-:-11-:-Activity
+#21453043 25 fall.Change_position_on_a_scale dollar-:-24-:-Item
+#21453034 7 buy.Commerce_buy he-:-4-:-Buyer company-:-11-:-Goods
+#20274017 13 join.Becoming_a_member they-:-8-:-New_member group-:-17-:-Group

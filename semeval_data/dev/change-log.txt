@@ -1,0 +1,71 @@
+# Important Changes
+
+The updated devset published alongside the test data is different from the original version for the following records:
+
+## Phrasal verbs 
+
+The position of phrasal verbs are given completetly using `_` separated indexs, e.g., previously the record for the verb `join_in` was:
+
+`#21190005 18 join_in.Participation`
+
+Now this is changed to 
+
+`#21190005 18_19 join_in.Participation`
+
+in which the position of `join` and `in` are given by `18_19`. 
+
+
+## Changes in annotations for the dev set
+
+ 
+The following instances are removed from the dev set:
+
+* #20335018 11
+* #21986051 5
+* #21128058 8
+* #20436016 3
+* #21561001 19
+* #20610006 11
+
+The dev set now contains 594 records.
+
+The annotation for the following instances are changed (Sub-Task 1 and Sub-Task 2): 
+
+* #22092003 2	changed from	`Compliance`	to	`Collaboration`
+* #20409005 15	changed from	`Bringing`	to	`Cause_motion`
+* #21855010 19	changed from	`Collaboration`	to	`Participation`
+* #20345005 11	changed from	`Request_entity`	to	`Request`
+* #20415034 15	changed from	`Inclusion`	to	`Rest`
+* #21767002 18	changed from	`Building`	to	`Manufacturing`
+* #20089020 5	changed from	`Activity_start`	to	`Cause_to_start`
+* #20748001 19	changed from	`Inclusion`	to	`Rest`
+* #21844006 8	changed from	`Causation`	to	`Prevent_or_allow_possession`
+* #21822023 20	changed from	`Prevent_or_allow_possession`	to	`Giving`
+* #21429002 20	changed from	`Building`	to	`Manufacturing`
+* #21569037 2	changed from	`Creating`	to	`Intentionally_create`
+* #20609040 28	changed from	`Inclusion`	to	`Rest`
+* #21744017 8	changed from	`Building`	to	`Manufacturing`
+* #21401002 13	changed from	`Inclusion`	to	`Rest`
+* #22100018 21	changed from	`Giving`	to	`Transfer`
+
+The devset for Subtask-2 is now compatible with VerbNet. The set of Semantic Role Labels for the dev set is updated to the following vocabulary (not much of change wrt the structure of the data but only the employed labels):
+
+```
+
+Agent, Destination, Attribute, Extent, Product, Patient, Material, Recipient, Causer, Result, Co-Agent, Co-Theme, Instrument, Theme, Initial_State, Pivot, Trajectory, Initial_location, Topic, Beneficiary
+
+```
+
+
+
+## Other changes
+
+* 15/01/2019: Removed problematic/duplicate record #21640009 22 [thanks to ezhick179 at gmail.com for reporting the problem]
+
+ 
+
+
+
+
+
+

@@ -1,0 +1,1000 @@
+#21331032 20 give.Giving proceedings-:-19-:-Donor protection-:-22-:-Theme #PersPron-:-21-:-Recipient
+#21150010 32 rise.Change_position_on_a_scale number-:-21-:-Item
+#21783001 6 post.Sending inc.-:-5-:-Sender turnaround-:-10-:-Theme
+#20118106 21 consider.Cogitation
+#21480071 26 fall.Change_position_on_a_scale Lamson-:-1-:-Item Sessions-:-3-:-Item 1_2-:-27-:-Difference
+#21209004 5 rise.Change_position_on_a_scale earnings-:-4-:-Item #Percnt-:-7-:-Difference
+#21624021 9 buy.Commerce_buy bondholder-:-7-:-Buyer total-:-11-:-Goods
+#21574069 5 start.Activity_start insurer-:-2-:-Agent offer-:-6-:-Activity
+#21578050 3 soar.Change_position_on_a_scale computer-:-2-:-Item 4-:-4-:-Difference 5_8-:-5-:-Difference
+#21003022 30 drop.Change_position_on_a_scale cost-:-23-:-Item
+#21124013 8 post.Sending salomon-:-7-:-Sender net-:-14-:-Theme
+#22053024 15 prevent.Preventing damage-:-16-:-Event
+#21789038 16 give.Giving #PersPron-:-13-:-Donor notice-:-17-:-Theme customer-:-20-:-Recipient
+#21612004 16 avoid.Avoiding sell-:-11-:-Agent problem-:-18-:-Undesirable_situation
+#21101011 29 conduct.Cotheme PLO-:-26-:-Theme terrorism-:-30-:-Cotheme
+#21622019 34 accompany.Cotheme that-:-31-:-Theme access-:-36-:-Cotheme
+#20029009 22 decline.Change_position_on_a_scale rate-:-21-:-Item
+#20717002 25 rise.Change_position_on_a_scale sale-:-22-:-Item #Percnt-:-27-:-Difference
+#21512016 6 believe.Awareness
+#20907001 12 jump.Change_position_on_a_scale income-:-11-:-Item #Percnt-:-14-:-Difference
+#20220006 11 drop.Change_position_on_a_scale index-:-10-:-Item #Percnt-:-13-:-Difference
+#21994004 15 fall.Change_position_on_a_scale import-:-8-:-Item
+#21136001 19 post.Sending co.-:-4-:-Sender rise-:-23-:-Theme
+#20290019 9 begin.Process_start compromise-:-7-:-Event
+#20416023 21 jump.Change_position_on_a_scale debt-:-9-:-Item #Percnt-:-23-:-Difference
+#20435014 15 buy.Commerce_buy #PersPron-:-14-:-Buyer Corp.-:-18-:-Goods
+#20692053 7 choose.Choosing #PersPron_#Cor-:-6-:-Cognizer keep-:-9-:-Chosen
+#21123016 25 criticize.Judgment_communication Lauder-:-2-:-Communicator practice-:-27-:-Evaluee
+#21003016 6 decline.Change_position_on_a_scale shipment-:-5-:-Item
+#21035005 6 post.Sending consolidated-:-4-:-Sender profit-:-9-:-Theme
+#20562027 18 build.Building plant-:-15-:-Created_entity
+#21861001 29 post.Sending other-:-28-:-Sender drop-:-32-:-Theme
+#21677046 32 start.Activity_start who-:-30-:-Agent company-:-35-:-Activity
+#21094052 6 avoid.Avoiding house-:-3-:-Agent involvement-:-8-:-Undesirable_situation
+#21036007 7 drop.Change_position_on_a_scale index-:-6-:-Item 1.20-:-8-:-Difference
+#20584043 14 fall.Change_position_on_a_scale share-:-13-:-Item cent-:-16-:-Difference
+#20576026 21 post.Sending member-:-18-:-Sender performance-:-25-:-Theme
+#22030007 9 conduct.Cotheme program-:-7-:-Theme testing-:-13-:-Cotheme
+#22061058 4 begin.Activity_start Hutton-:-3-:-Agent coverage-:-6-:-Activity
+#21903046 7 scout.Scrutiny #PersPron-:-4-:-Cognizer acquisition-:-9-:-Phenomenon
+#20675009 4 buy.Commerce_buy owner-:-2-:-Buyer machinery-:-6-:-Goods
+#21058057 14 suspect.Awareness salesperson-:-13-:-Cognizer use-:-18-:-Content
+#21460003 15 buy.Commerce_buy Ferranti-:-17-:-Buyer Signal-:-2-:-Goods Control-:-4-:-Goods manufacturer-:-12-:-Goods
+#20164001 28 rise.Change_position_on_a_scale earnings-:-19-:-Item #Percnt-:-30-:-Difference
+#21046002 12 drop.Change_position_on_a_scale failure-:-11-:-Item #Percnt-:-14-:-Difference
+#21036048 5 pursue.Cotheme goldberg-:-3-:-Theme offer-:-10-:-Cotheme
+#21059019 8 gain.Change_position_on_a_scale share-:-7-:-Item $-:-9-:-Difference
+#20742044 10 fall.Change_position_on_a_scale market-:-8-:-Item
+#21957030 7 fall.Change_position_on_a_scale index-:-6-:-Item 29.6-:-8-:-Difference
+#21971009 7 buy.Commerce_buy that-:-5-:-Buyer machine-:-9-:-Goods
+#20437011 12 begin.Activity_start #PersPron_#Cor-:-10-:-Agent focus-:-13-:-Activity
+#21273043 4 buy.Commerce_buy who-:-3-:-Buyer CD-:-6-:-Goods
+#20975014 7 conduct.Cotheme kaddurah-daouk-:-3-:-Theme schimmel-:-6-:-Theme research-:-10-:-Cotheme
+#21682015 5 ridicule.Judgment_communication dole-:-4-:-Communicator chief-:-8-:-Evaluee
+#20112012 5 believe.Awareness
+#22059005 18 begin.Process_start line-:-7-:-Event
+#21621016 14 drop.Change_position_on_a_scale profit-:-13-:-Item
+#21784021 4 gain.Change_position_on_a_scale sale-:-3-:-Item #Percnt-:-6-:-Difference
+#21121017 3 dot.Adorning dune-:-6-:-Location
+#20439051 31 lay.Placing foundation-:-18-:-Theme
+#21567041 15 assess.Assessing
+#20655023 32 start.Activity_start who-:-31-:-Agent what-:-33-:-Activity
+#20414013 7 hire.Hiring
+#21069005 4 fall.Change_position_on_a_scale sale-:-3-:-Item level-:-6-:-Difference
+#21986039 28 buy.Commerce_buy #PersPron-:-10-:-Buyer picture-:-30-:-Goods
+#22153001 19 begin.Activity_start #PersPron_#Cor-:-17-:-Agent test-:-20-:-Activity
+#21295004 23 post.Sending company-:-5-:-Sender earnings-:-24-:-Theme
+#20181009 8 give.Giving association-:-7-:-Donor rating-:-14-:-Theme those-:-16-:-Recipient
+#21623028 5 drop.Change_position_on_a_scale rate-:-3-:-Item
+#20114024 5 hire.Hiring Hearst-:-4-:-Employer Bellows-:-8-:-Employee
+#21449005 6 jump.Change_position_on_a_scale bill-:-5-:-Item #Percnt-:-8-:-Difference
+#21582013 5 begin.Activity_start court-:-3-:-Agent recognize-:-7-:-Activity
+#20818030 5 fall.Change_position_on_a_scale profit-:-4-:-Item
+#21201014 24 consider.Cogitation
+#21160011 6 believe.Awareness
+#20767022 3 believe.Awareness
+#21096001 7 consolidate.Cause_to_amalgamate #PersPron-:-5-:-Agent control-:-8-:-Part_1
+#21464041 3 believe.Awareness
+#20051009 18 understand.Awareness #PersPron-:-17-:-Cognizer concern-:-21-:-Content/Topic
+#21601016 4 post.Sending management-:-3-:-Sender increase-:-7-:-Theme
+#22123001 8 drop.Change_position_on_a_scale income-:-7-:-Item #Percnt-:-11-:-Difference
+#21770004 17 consider.Cogitation #PersPron-:-14-:-Cognizer number-:-21-:-Topic
+#20118033 14 hire.Hiring contel-:-9-:-Employer manager-:-17-:-Employee
+#21203058 40 buy.Commerce_buy who-:-39-:-Buyer
+#20194026 16 increase.Cause_change_of_position_on_a_scale stake-:-18-:-Item
+#21829036 12 conduct.Cotheme department-:-9-:-Theme research-:-13-:-Cotheme
+#22169032 10 avoid.Avoiding #PersPron-:-8-:-Agent grenade-:-13-:-Undesirable_situation
+#20439054 37 fill.Filling corporatism-:-27-:-Agent shop-:-39-:-Goal goods-:-41-:-Theme
+#21600033 7 buy.Commerce_buy #PersPron-:-6-:-Buyer future-:-9-:-Goods stock-:-12-:-Goods
+#20090016 18 rise.Change_position_on_a_scale dividend-:-16-:-Item
+#21829019 14 build.Building circuit-:-12-:-Created_entity
+#20155045 19 purchase.Commerce_buy soviet-:-17-:-Buyer grain-:-20-:-Goods
+#21642018 4 follow.Cotheme report-:-6-:-Cotheme
+#22100022 5 lead.Cotheme caller-:-3-:-Cotheme
+#21338003 5 buy.Commerce_buy GSX-:-3-:-Buyer $-:-6-:-Goods option-:-22-:-Goods
+#20640004 17 jump.Change_position_on_a_scale sale-:-13-:-Item #Percnt-:-19-:-Difference
+#20682002 18 suspect.Awareness official-:-5-:-Cognizer lead-:-26-:-Content
+#21863005 5 castigate.Judgment_communication trader-:-2-:-Evaluee
+#20281001 28 pursue.Cotheme claim-:-20-:-Cotheme
+#20950001 19 fall.Change_position_on_a_scale income-:-18-:-Item #Percnt-:-21-:-Difference
+#20569052 3 understand.Awareness shilling-:-2-:-Cognizer problem-:-7-:-Content/Topic
+#21981003 28 fall.Change_position_on_a_scale sale-:-15-:-Item #Percnt-:-32-:-Difference
+#21939027 27 ridicule.Judgment_communication #PersPron-:-21-:-Evaluee
+#20537011 11 drive.Cause_motion
+#21128026 12 drop.Change_position_on_a_scale price-:-10-:-Item
+#21916002 18 begin.Activity_start worker-:-17-:-Agent task-:-21-:-Activity
+#20048030 20 gain.Change_position_on_a_scale receipt-:-15-:-Item adr-:-18-:-Item 5/8-:-21-:-Difference
+#20987001 15 consider.Cogitation #PersPron-:-13-:-Cognizer impose-:-16-:-Topic
+#21314032 18 fall.Change_position_on_a_scale capital-:-3-:-Item 1-:-19-:-Difference 5_8-:-20-:-Difference
+#20962007 16 start.Activity_start vila-:-15-:-Agent do-:-17-:-Activity
+#21678005 22 begin.Activity_start kelly-:-21-:-Agent work-:-23-:-Activity
+#21274004 10 jump.Change_position_on_a_scale export-:-9-:-Item time-:-15-:-Difference
+#20473016 37 consider.Cogitation #PersPron_#Cor-:-35-:-Cognizer venture-:-39-:-Topic
+#21337020 11 gain.Change_position_on_a_scale Hakko-:-10-:-Item 30-:-12-:-Difference
+#20321003 15 purchase.Commerce_buy #PersPron-:-13-:-Buyer stock-:-18-:-Goods
+#22017013 25 believe.Awareness
+#21208098 6 fall.Change_position_on_a_scale index-:-5-:-Item 3.10-:-7-:-Difference
+#21624032 11 post.Sending note-:-10-:-Sender decline-:-13-:-Theme
+#21240001 8 decrease.Change_position_on_a_scale production-:-2-:-Item #Percnt-:-10-:-Difference
+#22061070 22 gain.Change_position_on_a_scale E-:-20-:-Item #Percnt-:-24-:-Difference 5_8-:-27-:-Difference
+#20118036 17 begin.Activity_start leadership-:-6-:-Activity
+#21537005 27 buy.Commerce_buy Central-:-26-:-Buyer interest-:-31-:-Goods
+#21688020 32 investigate.Scrutiny engineer-:-21-:-Cognizer collapse-:-35-:-Ground
+#20436025 34 begin.Process_start negotiation-:-33-:-Event
+#21999010 5 fall.Change_position_on_a_scale sale-:-4-:-Item
+#20363005 10 give.Giving Fed-:-8-:-Donor permission-:-18-:-Theme handful-:-12-:-Recipient
+#20701004 3 increase.Change_position_on_a_scale income-:-2-:-Item #Percnt-:-5-:-Difference
+#20011007 11 increase.Change_position_on_a_scale export-:-10-:-Item #Percnt-:-13-:-Difference
+#20142039 17 post.Sending bond-:-16-:-Sender return-:-20-:-Theme
+#22167012 5 pass.Giving
+#21108001 5 rise.Change_position_on_a_scale rate-:-4-:-Item
+#21937041 9 gain.Change_position_on_a_scale Cetus-:-8-:-Item 1_2-:-10-:-Difference
+#21208034 21 start.Activity_start speculator-:-2-:-Agent sell-:-22-:-Activity
+#22124050 25 decline.Change_position_on_a_scale share-:-24-:-Item more-:-27-:-Difference
+#20306004 17 rise.Change_position_on_a_scale price-:-16-:-Item cent-:-19-:-Difference
+#20583033 6 post.Sending peck-:-5-:-Sender jump-:-10-:-Theme
+#20077005 4 rise.Change_position_on_a_scale price-:-3-:-Item
+#20970012 17 investigate.Scrutiny company-:-15-:-Cognizer channel-:-21-:-Ground
+#20449029 29 understand.Awareness #PersPron-:-28-:-Cognizer receive-:-33-:-Content/Topic
+#20151004 3 follow.Cotheme announcement-:-9-:-Cotheme
+#21320011 7 begin.Process_start explosion-:-6-:-Event
+#20467020 5 soar.Change_position_on_a_scale circulation-:-4-:-Item
+#21601001 9 decline.Change_position_on_a_scale interest-:-2-:-Item #Percnt-:-19-:-Difference
+#20409024 9 rise.Change_position_on_a_scale price-:-5-:-Item
+#21554055 8 believe.Awareness
+#20416007 21 move.Cause_motion
+#21278001 6 build.Building #PersPron-:-4-:-Agent plant-:-12-:-Created_entity
+#20275003 13 give.Giving #PersPron-:-11-:-Donor right-:-17-:-Theme shareholder-:-15-:-Recipient
+#21586011 6 believe.Awareness
+#21971011 37 buy.Commerce_buy who-:-34-:-Buyer machine-:-39-:-Goods
+#20286028 13 buy.Commerce_buy consumer-:-9-:-Buyer that-:-8-:-Goods
+#21094008 26 consider.Cogitation #PersPron-:-24-:-Cognizer compromise-:-28-:-Topic
+#21856008 20 start.Activity_start #PersPron_#Cor-:-15-:-Agent buy-:-21-:-Activity
+#20327042 4 give.Giving Hutton-:-3-:-Donor news-:-9-:-Theme investor-:-6-:-Recipient
+#22113049 24 buy.Commerce_buy #PersPron-:-22-:-Buyer anything-:-25-:-Goods
+#20765077 14 believe.Awareness
+#20712001 9 rise.Change_position_on_a_scale measure-:-5-:-Item #Percnt-:-11-:-Difference
+#20277008 5 criticize.Judgment_communication #PersPron-:-4-:-Communicator timing-:-7-:-Evaluee
+#22125009 8 believe.Awareness
+#20057014 34 position.Placing #PersPron-:-30-:-Theme
+#21654015 7 drop.Change_position_on_a_scale sale-:-6-:-Item #Percnt-:-12-:-Difference
+#20975040 6 investigate.Scrutiny subcommitee-:-3-:-Cognizer abuse-:-9-:-Ground
+#21825029 6 begin.Activity_start exhibit-:-9-:-Activity
+#20374002 3 post.Sending stock-:-2-:-Sender loss-:-6-:-Theme
+#20975037 4 believe.Awareness
+#20090029 15 begin.Process_start drop-:-11-:-Event
+#20126009 6 scoff.Judgment_communication Baim-:-5-:-Communicator that-:-8-:-Addressee
+#21480018 17 join.Cause_to_amalgamate investor-:-5-:-Agent pursuit-:-19-:-Part_1
+#21212002 15 buy.Commerce_buy #PersPron-:-11-:-Buyer
+#21121004 13 search.Seeking man-:-1-:-Cognizer_agent glint-:-17-:-Ground
+#20732018 5 believe.Awareness
+#21970010 4 draw.Cause_motion
+#21151021 7 gain.Change_position_on_a_scale bond-:-6-:-Item point-:-11-:-Difference $-:-15-:-Difference
+#20442011 22 choose.Choosing Kidder-:-8-:-Cognizer Peabody-:-10-:-Cognizer Co.-:-12-:-Cognizer subsidiary-:-16-:-Cognizer subsidiary-:-25-:-Chosen provide-:-27-:-Chosen
+#21743033 19 consider.Cogitation question-:-4-:-Topic
+#20444013 8 rise.Change_position_on_a_scale price-:-7-:-Item
+#21447017 15 believe.Awareness
+#21290003 7 move.Cause_motion
+#20192061 10 rise.Change_position_on_a_scale index-:-9-:-Item
+#21899006 7 place.Placing county-:-3-:-Agent/Cause firefighter-:-9-:-Theme sheriff-:-11-:-Theme alert-:-13-:-Goal
+#21566034 16 give.Giving share-:-7-:-Donor demonstration-:-21-:-Theme
+#20336016 3 believe.Awareness Marcus-:-2-:-Cognizer continue-:-8-:-Content reverse-:-16-:-Content
+#20295020 5 follow.Cotheme announcement-:-7-:-Cotheme
+#21311009 9 assess.Assessing impact-:-4-:-Phenomenon
+#21692015 7 prohibit.Prohibiting law-:-6-:-Principle discrimination-:-8-:-State_of_affairs
+#21455007 3 believe.Awareness
+#21469002 28 tug.Cause_motion
+#20153018 7 post.Sending company-:-6-:-Sender net-:-8-:-Theme down-:-20-:-Theme $-:-22-:-Theme $-:-27-:-Theme
+#21322052 11 consider.Cogitation inc.-:-9-:-Cognizer restructure-:-12-:-Topic
+#21651041 10 post.Sending company-:-7-:-Sender earnings-:-11-:-Theme
+#21377018 4 believe.Awareness
+#21208086 3 swell.Cause_change_of_position_on_a_scale trading-:-2-:-Attribute
+#22092003 7 follow.Cotheme Data-:-6-:-Theme competitor-:-9-:-Cotheme
+#21470005 16 balloon.Change_position_on_a_scale that-:-14-:-Item
+#20627021 21 buy.Commerce_buy clothes-:-18-:-Goods
+#20192029 17 begin.Activity_start investor-:-15-:-Agent buy-:-18-:-Activity
+#20682005 5 begin.Activity_start board-:-3-:-Agent day-:-7-:-Activity
+#21951014 4 select.Choosing #PersPron-:-3-:-Cognizer #PersPron-:-5-:-Chosen
+#21774002 3 decline.Change_position_on_a_scale revenue-:-2-:-Item #Percnt-:-7-:-Difference
+#20554021 7 hire.Hiring
+#21694018 6 drive.Cause_motion
+#21761050 16 consider.Cogitation investor-:-14-:-Cognizer sell-:-17-:-Topic
+#20112028 18 prevent.Thwarting that-:-17-:-Preventing_cause office-:-22-:-Protagonist/Action subject-:-28-:-Protagonist/Action
+#20257028 16 drag.Cause_motion
+#20524071 3 soar.Change_position_on_a_scale application-:-2-:-Item
+#20553025 12 choose.Choosing Lawson-:-2-:-Cognizer shadow-:-15-:-Chosen
+#21314020 12 gain.Change_position_on_a_scale baker-:-11-:-Item 3_8-:-13-:-Difference
+#21931019 20 drop.Change_position_on_a_scale unit-:-19-:-Item
+#21011007 3 jump.Change_position_on_a_scale traffic-:-2-:-Item #Percnt-:-5-:-Difference
+#20450030 9 begin.Activity_start #PersPron_#Cor-:-2-:-Agent trade-:-11-:-Activity
+#21666006 22 start.Process_start search-:-24-:-Event
+#22032028 7 begin.Activity_start Eastern-:-5-:-Agent fly-:-8-:-Activity
+#20077008 4 jump.Change_position_on_a_scale average-:-3-:-Item more-:-5-:-Difference
+#20214023 10 join.Cause_to_amalgamate retiree-:-6-:-Agent tourist-:-8-:-Agent fan-:-12-:-Part_1 de-:-15-:-Part_1 Castro-:-16-:-Part_1
+#20560002 19 join.Cause_to_amalgamate Westinghouse-:-3-:-Agent legion-:-22-:-Part_1
+#20449017 6 buy.Commerce_buy trader-:-5-:-Buyer amount-:-10-:-Goods
+#21015002 7 fall.Change_position_on_a_scale stock-:-1-:-Item
+#20405029 19 consider.Cogitation moscow-:-16-:-Cognizer declassify-:-20-:-Topic
+#21927006 5 believe.Awareness
+#20254016 12 rise.Change_position_on_a_scale other-:-11-:-Item supply-:-18-:-Item length-:-21-:-Item price-:-29-:-Item
+#21116006 14 choose.Choosing people-:-5-:-Cognizer ignore-:-16-:-Chosen
+#21267102 3 scoff.Judgment_communication litigator-:-2-:-Communicator notion-:-6-:-Addressee
+#20036049 16 fall.Change_position_on_a_scale price-:-10-:-Item
+#20946005 34 deride.Judgment_communication mencken-:-33-:-Communicator who-:-32-:-Evaluee primitive-:-37-:-Reason
+#21047009 17 value.Assessing #PersPron-:-16-:-Assessor bloomingdale-:-18-:-Feature $-:-21-:-Value
+#20231016 21 follow.Cotheme price-:-24-:-Cotheme
+#20464007 16 gain.Change_position_on_a_scale index-:-4-:-Item Nasdaq-:-13-:-Item 0.47-:-17-:-Difference
+#20690015 4 start.Process_start drop-:-8-:-Event
+#20576054 21 ban.Prohibiting #PersPron-:-19-:-Principle sex-:-22-:-State_of_affairs violence-:-24-:-State_of_affairs
+#22052006 3 buy.Commerce_buy who-:-2-:-Buyer illusion-:-5-:-Goods
+#20048023 19 rise.Change_position_on_a_scale share-:-8-:-Item 5/8-:-20-:-Difference
+#22040009 6 post.Sending bank-:-5-:-Sender increase-:-8-:-Theme
+#20051011 10 consider.Cogitation #PersPron_#Cor-:-8-:-Cognizer investigate-:-11-:-Topic
+#21601006 23 buy.Commerce_buy #PersPron-:-21-:-Buyer share-:-25-:-Goods
+#21999039 13 fall.Change_position_on_a_scale bell-:-12-:-Item cent-:-15-:-Difference
+#21002057 11 give.Giving #PersPron-:-8-:-Donor #PersPron-:-12-:-Theme underperformer-:-14-:-Recipient
+#21200001 12 fall.Change_position_on_a_scale production-:-3-:-Item #Percnt-:-14-:-Difference
+#21548004 19 decline.Change_position_on_a_scale earnings-:-18-:-Item #Percnt-:-21-:-Difference
+#20097010 7 scrutinize.Scrutiny ministry-:-4-:-Cognizer activity-:-11-:-Ground
+#20975048 8 shun.Avoiding scientist-:-6-:-Agent contact-:-9-:-Undesirable_situation
+#21570037 6 believe.Awareness
+#20300038 6 give.Giving device-:-3-:-Donor certainty-:-8-:-Theme boss-:-11-:-Recipient
+#21642010 10 gain.Change_position_on_a_scale index-:-9-:-Item 18.11-:-11-:-Difference
+#21203010 4 fall.Change_position_on_a_scale market-:-3-:-Item
+#20946024 24 believe.Awareness
+#21203046 3 rise.Change_position_on_a_scale platinum-:-2-:-Item $-:-4-:-Difference
+#21421004 13 send.Sending #PersPron-:-12-:-Sender signal-:-17-:-Theme
+#21387032 14 donate.Giving soren-:-12-:-Donor member-:-18-:-Recipient
+#21432029 2 believe.Awareness
+#20441011 22 plummet.Change_position_on_a_scale market-:-21-:-Item
+#21692041 12 join.Cause_to_amalgamate partner-:-3-:-Agent Jr.-:-9-:-Agent Cowan-:-13-:-Part_1 Owen-:-15-:-Part_1 firm-:-19-:-Part_1
+#20113001 18 rise.Change_position_on_a_scale income-:-13-:-Item
+#21625002 54 give.Giving #PersPron-:-53-:-Donor difference-:-57-:-Theme #PersPron-:-55-:-Recipient
+#22148010 19 decline.Change_position_on_a_scale profit-:-14-:-Item #Percnt-:-21-:-Difference
+#20350023 4 drop.Change_position_on_a_scale profit-:-3-:-Item #Percnt-:-6-:-Difference
+#22041010 25 begin.Process_start ride-:-29-:-Event
+#21284028 11 purchase.Commerce_buy that-:-8-:-Buyer industry-:-13-:-Goods
+#20406015 18 soar.Change_position_on_a_scale fee-:-16-:-Item
+#20085053 11 start.Process_start bank-:-9-:-Event
+#21928019 11 pick.Choosing firm-:-8-:-Chosen
+#21145013 22 believe.Awareness
+#21295013 15 fall.Change_position_on_a_scale profit-:-7-:-Item
+#20016001 13 rise.Change_position_on_a_scale sale-:-4-:-Item #Percnt-:-15-:-Difference
+#21097010 14 jump.Change_position_on_a_scale income-:-9-:-Item #Percnt-:-17-:-Difference
+#21190011 23 prevent.Thwarting that-:-21-:-Preventing_cause Tele-Communications-:-24-:-Protagonist/Action drop-:-26-:-Protagonist/Action
+#20983034 15 give.Giving #PersPron-:-13-:-Donor picture-:-18-:-Theme
+#20477025 22 fall.Change_position_on_a_scale share-:-20-:-Item
+#20222001 9 buy.Commerce_buy #PersPron-:-7-:-Buyer #Percnt-:-15-:-Goods
+#20436008 27 give.Giving offer-:-25-:-Donor money-:-30-:-Theme #PersPron-:-28-:-Recipient
+#20472005 7 rise.Change_position_on_a_scale net-:-6-:-Item
+#20090026 8 drop.Change_position_on_a_scale yield-:-7-:-Item
+#20208001 13 give.Giving #PersPron-:-11-:-Donor blessing-:-15-:-Theme claptrap-:-18-:-Recipient
+#21176001 22 evaluate.Assessing director-:-20-:-Assessor offer-:-24-:-Phenomenon
+#21110010 27 begin.Process_start year-:-26-:-Event
+#20692046 25 increase.Cause_change_of_position_on_a_scale budget-:-27-:-Item #Percnt-:-30-:-Difference
+#20681071 4 drop.Change_position_on_a_scale Machines-:-3-:-Item 7/8-:-5-:-Difference
+#20783013 2 believe.Awareness
+#21611013 27 consider.Cogitation who-:-25-:-Cognizer proposal-:-29-:-Topic
+#22124023 14 decline.Change_position_on_a_scale market-:-12-:-Item #Percnt-:-17-:-Difference
+#21047012 10 pass.Giving figure-:-6-:-Theme buyer-:-15-:-Recipient
+#20689009 12 consider.Cogitation investor-:-10-:-Cognizer that-:-8-:-Topic
+#20204003 6 begin.Process_start operation-:-7-:-Event
+#21017033 23 give.Giving bill-:-22-:-Donor authority-:-32-:-Theme department-:-25-:-Recipient
+#21935010 4 give.Giving effect-:-3-:-Donor right-:-8-:-Theme state-:-6-:-Recipient
+#20742023 17 buy.Commerce_buy #PersPron-:-15-:-Buyer portfolio-:-19-:-Goods
+#20519001 6 rise.Change_position_on_a_scale index-:-5-:-Item #Percnt-:-10-:-Difference
+#21010031 5 believe.Awareness #PersPron-:-4-:-Cognizer succeed-:-12-:-Content
+#20121046 17 hunt.Seeking Gorman-:-2-:-Cognizer_agent bargain-:-20-:-Sought_entity
+#21091007 10 believe.Awareness
+#21267108 7 believe.Awareness
+#21926002 12 post.Sending Dow-:-11-:-Sender increase-:-14-:-Theme
+#21611006 5 consider.Cogitation hunt-:-3-:-Cognizer #PersPron-:-6-:-Topic
+#21586032 9 line.Adorning that-:-7-:-Location skin-:-12-:-Theme
+#22013086 20 buy.Commerce_buy #PersPron-:-17-:-Buyer recording-:-21-:-Goods
+#21952032 8 believe.Awareness
+#20970012 8 begin.Activity_start usa-:-6-:-Agent distribute-:-9-:-Activity
+#20727003 5 increase.Cause_change_of_position_on_a_scale amount-:-7-:-Item
+#21500028 5 decline.Change_position_on_a_scale #PersPron-:-4-:-Item
+#20607001 4 begin.Process_start issue-:-3-:-Event
+#21932032 17 buy.Commerce_buy which-:-14-:-Buyer copper-:-18-:-Goods
+#20900009 19 believe.Awareness
+#20118182 19 prevent.Thwarting #PersPron_#Cor-:-20-:-Protagonist/Action
+#21635055 30 check.Scrutiny investor-:-5-:-Cognizer listing-:-32-:-Ground
+#20659008 6 rise.Change_position_on_a_scale income-:-4-:-Item #Percnt-:-8-:-Difference
+#20524030 18 believe.Awareness
+#21187044 14 tumble.Change_position_on_a_scale Siemens-:-13-:-Item 7.5-:-15-:-Difference
+#20666005 3 fall.Change_position_on_a_scale profit-:-2-:-Item
+#20359056 10 rise.Change_position_on_a_scale #PersPron-:-8-:-Item
+#20505008 14 increase.Cause_change_of_position_on_a_scale number-:-16-:-Item
+#21272006 22 give.Giving #PersPron-:-21-:-Donor drubbing-:-28-:-Theme machine-:-24-:-Recipient
+#20048008 13 jump.Change_position_on_a_scale index-:-6-:-Item 3.23-:-14-:-Difference
+#21267033 9 buy.Commerce_buy people-:-4-:-Buyer corporation-:-7-:-Buyer #PersPron-:-10-:-Goods
+#21924024 15 fall.Change_position_on_a_scale income-:-14-:-Item #Percnt-:-17-:-Difference
+#21201039 17 give.Giving machinist-:-13-:-Donor much-:-10-:-Theme
+#20293004 4 start.Process_start project-:-3-:-Event
+#21500023 35 decline.Change_position_on_a_scale sterling-:-32-:-Item
+#21208070 4 fall.Change_position_on_a_scale stock-:-3-:-Item
+#20162034 4 drop.Change_position_on_a_scale pacific-:-3-:-Item 1-:-5-:-Difference 1/8-:-6-:-Difference
+#21774012 9 decline.Change_position_on_a_scale sale-:-6-:-Item
+#22052025 10 fill.Filling infantry-:-8-:-Goal conscript-:-13-:-Theme
+#21495015 11 understand.Awareness number-:-8-:-Cognizer necessity-:-13-:-Content/Topic
+#21043002 13 buy.Commerce_buy investor-:-11-:-Buyer stock-:-20-:-Goods
+#21616029 4 fall.Change_position_on_a_scale cost-:-2-:-Item #Percnt-:-6-:-Difference
+#22083001 7 drop.Change_position_on_a_scale profit-:-6-:-Item #Percnt-:-9-:-Difference
+#20994001 4 erupt.Process_start mountain-:-14-:-Event
+#21619001 8 begin.Process_start that-:-7-:-Event
+#21562018 16 fall.Change_position_on_a_scale stock-:-11-:-Item
+#21554007 7 begin.Activity_start firm-:-5-:-Agent produce-:-9-:-Activity
+#21222009 9 begin.Process_start which-:-7-:-Event
+#21601008 33 buy.Commerce_buy share-:-29-:-Goods
+#20465014 9 believe.Awareness
+#20224013 11 follow.Cotheme suspension-:-14-:-Cotheme
+#21744014 17 build.Building that-:-16-:-Agent model-:-24-:-Created_entity
+#22102019 15 begin.Process_start rate-:-6-:-Event
+#20034038 6 buy.Commerce_buy investor-:-3-:-Buyer fund-:-8-:-Goods
+#21817010 8 begin.Activity_start galileo-:-6-:-Agent tour-:-11-:-Activity
+#20251005 5 decline.Change_position_on_a_scale requirement-:-2-:-Item
+#21264031 9 consider.Cogitation #PersPron-:-7-:-Cognizer magazine-:-6-:-Topic
+#21728022 5 fall.Change_position_on_a_scale interest-:-4-:-Item #Percnt-:-7-:-Difference
+#21740005 5 post.Sending segment-:-3-:-Sender sale-:-7-:-Theme
+#20020007 3 laud.Judgment_communication Hills-:-2-:-Communicator korea-:-5-:-Evaluee create-:-7-:-Reason
+#22106043 27 accompany.Cotheme phrase-:-20-:-Theme third-:-25-:-Theme litany-:-31-:-Cotheme
+#20975037 10 prevent.Preventing escalation-:-12-:-Event
+#20306004 3 fall.Change_position_on_a_scale price-:-2-:-Item cent-:-5-:-Difference
+#21282004 21 begin.Activity_start jerell-:-20-:-Agent withhold-:-22-:-Activity
+#21019005 6 give.Giving commission-:-5-:-Donor approval-:-9-:-Theme basket-:-14-:-Recipient
+#21065001 23 decline.Change_position_on_a_scale work-:-22-:-Item
+#22140015 19 buy.Commerce_buy who-:-17-:-Buyer Daewoo-:-21-:-Goods
+#20638014 17 purchase.Commerce_buy drive-:-14-:-Goods
+#20629067 49 follow.Cotheme that-:-48-:-Theme boom-:-51-:-Cotheme
+#21283015 16 fall.Change_position_on_a_scale profit-:-2-:-Item #Percnt-:-18-:-Difference
+#21146082 6 build.Building #PersPron-:-4-:-Agent road-:-8-:-Created_entity
+#21946037 8 believe.Awareness
+#21187007 4 fall.Change_position_on_a_scale index-:-3-:-Item point-:-6-:-Difference
+#22151045 6 start.Activity_start Lingus-:-5-:-Agent ferry-:-7-:-Activity
+#20155001 5 soar.Change_position_on_a_scale price-:-4-:-Item
+#21366031 16 believe.Awareness
+#20108040 35 check.Scrutiny #PersPron-:-32-:-Cognizer credentials-:-37-:-Ground
+#21226039 3 fall.Change_position_on_a_scale profit-:-2-:-Item
+#20464029 4 gain.Change_position_on_a_scale Time-:-3-:-Item 1-:-5-:-Difference 1_2-:-6-:-Difference
+#21377063 11 buy.Commerce_buy #PersPron-:-9-:-Buyer brake-:-13-:-Goods
+#20254005 17 fall.Change_position_on_a_scale index-:-7-:-Item
+#20114038 10 hand.Giving
+#20267002 7 adorn.Adorning bench-:-9-:-Location basket-:-1-:-Theme palm-:-6-:-Theme
+#21516001 4 post.Sending inc.-:-3-:-Sender profit-:-8-:-Theme
+#20162005 7 gain.Change_position_on_a_scale Index-:-6-:-Item 0.99-:-8-:-Difference
+#21187036 10 jump.Change_position_on_a_scale which-:-9-:-Item mark-:-12-:-Difference
+#21057004 20 start.Process_start negotiation-:-14-:-Event
+#20444002 6 gain.Change_position_on_a_scale Average-:-5-:-Item point-:-8-:-Difference
+#20092004 7 fall.Change_position_on_a_scale force-:-5-:-Item
+#21208043 5 begin.Process_start fright-:-4-:-Event
+#20631001 8 join.Cause_to_amalgamate finnair-:-1-:-Agent airline-:-6-:-Agent wave-:-10-:-Part_1
+#21937027 4 jump.Change_position_on_a_scale co.-:-3-:-Item 2-:-5-:-Difference
+#20192024 29 rise.Change_position_on_a_scale price-:-27-:-Item
+#21137041 12 guide.Cotheme vision-:-6-:-Theme #PersPron-:-13-:-Cotheme
+#21626004 8 believe.Awareness Airways-:-7-:-Cognizer end-:-15-:-Content
+#21428031 3 understand.Awareness work-:-9-:-Content/Topic
+#20513001 7 rise.Change_position_on_a_scale inflation-:-3-:-Item #Percnt-:-12-:-Difference
+#20001001 9 join.Cause_to_amalgamate vinken-:-2-:-Agent board-:-11-:-Part_1
+#20405023 4 buy.Commerce_buy Corp.-:-3-:-Buyer patent-:-8-:-Goods
+#20990010 7 believe.Awareness
+#20782018 7 post.Sending bethlehem-:-6-:-Sender charge-:-12-:-Theme
+#21856039 2 believe.Awareness
+#21723024 11 gain.Change_position_on_a_scale Shimizu-:-10-:-Item 50-:-12-:-Difference
+#20569048 23 decline.Change_position_on_a_scale rate-:-20-:-Item
+#20274017 10 consider.Cogitation #PersPron_#Cor-:-8-:-Cognizer ask-:-11-:-Topic
+#21036003 29 fall.Change_position_on_a_scale average-:-5-:-Item 5.94-:-30-:-Difference
+#21591004 24 start.Activity_start #PersPron_#Cor-:-21-:-Agent ship-:-25-:-Activity
+#20174014 3 believe.Awareness
+#21529013 4 sidestep.Avoiding that-:-3-:-Agent issue-:-6-:-Undesirable_situation
+#21636027 16 believe.Awareness
+#21055002 5 gain.Change_position_on_a_scale composite-:-4-:-Item 1.19-:-6-:-Difference
+#22031025 12 believe.Awareness
+#21480068 9 fall.Change_position_on_a_scale Georgia-Pacific-:-8-:-Item 1-:-10-:-Difference 3_4-:-11-:-Difference
+#22106038 5 begin.Process_start life-:-7-:-Event
+#21856053 2 believe.Awareness
+#21328042 12 buy.Commerce_buy manville-:-9-:-Buyer much-:-13-:-Goods
+#21424033 11 begin.Activity_start department-:-3-:-Agent distance-:-12-:-Activity
+#22006007 12 buy.Commerce_buy #PersPron-:-10-:-Buyer 112_000-:-14-:-Goods
+#20334006 17 climb.Change_position_on_a_scale profit-:-16-:-Item #Percnt-:-19-:-Difference
+#20924004 9 buy.Commerce_buy holder-:-7-:-Buyer share-:-11-:-Goods
+#21086001 22 choose.Choosing #PersPron-:-20-:-Cognizer site-:-25-:-Chosen
+#21319035 14 begin.Activity_start fournier-:-8-:-Agent buy-:-15-:-Activity
+#20464005 26 drop.Change_position_on_a_scale index-:-25-:-Item 3.27-:-27-:-Difference
+#20994017 3 swell.Cause_change_of_position_on_a_scale figure-:-5-:-Attribute
+#21932025 4 decline.Change_position_on_a_scale contract-:-3-:-Item cent-:-6-:-Difference
+#21012004 17 consider.Cogitation newspaper-:-15-:-Cognizer idea-:-19-:-Topic
+#20003026 23 mix.Cause_to_amalgamate worker-:-1-:-Agent fiber-:-26-:-Part_1
+#21249034 9 drop.Change_position_on_a_scale spending-:-2-:-Item
+#21320002 17 fall.Change_position_on_a_scale crude-:-16-:-Item cent-:-19-:-Difference
+#20153013 24 jump.Change_position_on_a_scale earnings-:-20-:-Item #Percnt-:-26-:-Difference
+#21930017 4 fall.Change_position_on_a_scale stock-:-3-:-Item $-:-5-:-Difference
+#21317022 29 send.Sending sorrell-:-11-:-Sender note-:-31-:-Theme
+#21723004 15 climb.Change_position_on_a_scale index-:-4-:-Item 266.66-:-16-:-Difference #Percnt-:-20-:-Difference
+#20950013 9 fall.Change_position_on_a_scale net-:-8-:-Item #Percnt-:-11-:-Difference
+#20302004 7 criticize.Judgment_communication community-:-13-:-Communicator tax-:-3-:-Evaluee tend-:-16-:-Reason
+#21133001 4 consider.Cogitation bush-:-2-:-Cognizer cast-:-5-:-Topic
+#22109024 11 begin.Activity_start #PersPron_#Cor-:-8-:-Activity
+#20781004 5 begin.Activity_start intel-:-4-:-Agent notify-:-6-:-Activity
+#21703004 6 believe.Awareness #PersPron-:-3-:-Cognizer have-:-9-:-Content
+#20563004 19 increase.Cause_change_of_position_on_a_scale quantity-:-21-:-Item
+#21036008 7 fall.Change_position_on_a_scale index-:-6-:-Item 1.16-:-8-:-Difference
+#20413017 22 believe.Awareness
+#21856075 27 buy.Commerce_buy who-:-26-:-Buyer brand-:-29-:-Goods
+#20788036 18 ban.Prohibiting number-:-8-:-State_of_affairs
+#20162028 22 drop.Change_position_on_a_scale nekoosa-:-3-:-Item 1-:-23-:-Difference 3/8-:-24-:-Difference
+#20776033 18 begin.Process_start uncertainty-:-16-:-Event
+#20097019 6 join.Cause_to_amalgamate stanley-:-3-:-Agent list-:-9-:-Part_1
+#21693009 8 fall.Change_position_on_a_scale net-:-7-:-Item #Percnt-:-10-:-Difference
+#20469029 13 prohibit.Prohibiting that-:-12-:-Principle #PersPron_#Cor-:-14-:-State_of_affairs use-:-16-:-State_of_affairs
+#20679007 8 buy.Commerce_buy Hewlett-Packard-:-6-:-Buyer share-:-11-:-Goods
+#20984053 2 run.Cause_motion
+#20584046 18 consider.Cogitation
+#20719005 7 cover.Filling london-:-6-:-Agent #PersPron-:-8-:-Goal glory-:-10-:-Theme
+#21992004 7 decline.Change_position_on_a_scale employment-:-3-:-Item
+#21037051 14 build.Building Daikin-:-12-:-Agent plant-:-16-:-Created_entity
+#21273022 12 buy.Commerce_buy #PersPron-:-10-:-Buyer what-:-9-:-Goods
+#21901007 24 give.Giving Roh-:-2-:-Donor hint-:-26-:-Theme
+#21371019 11 jump.Change_position_on_a_scale share-:-10-:-Item
+#21144009 18 purchase.Commerce_buy offer-:-16-:-Buyer million-:-21-:-Goods #Percnt-:-30-:-Goods
+#20530001 19 eschew.Avoiding brother-:-8-:-Agent standard-bearer-:-11-:-Agent promotion-:-22-:-Undesirable_situation trend-:-25-:-Undesirable_situation rule-:-28-:-Undesirable_situation
+#20401004 6 decline.Change_position_on_a_scale value-:-5-:-Item
+#20901004 13 give.Giving extension-:-18-:-Theme inc.-:-3-:-Recipient division-:-6-:-Recipient
+#20114007 33 give.Giving Hearst-:-29-:-Donor paper-:-35-:-Theme
+#20527013 4 drop.Change_position_on_a_scale origination-:-3-:-Item
+#20257015 7 lay.Placing egg-:-5-:-Theme
+#20288011 9 criticize.Judgment_communication bush-:-6-:-Evaluee move-:-14-:-Reason
+#21687002 21 buy.Commerce_buy Soviet-:-19-:-Buyer ton-:-25-:-Goods
+#21345005 4 drop.Change_position_on_a_scale income-:-3-:-Item #Percnt-:-6-:-Difference
+#21455022 13 coat.Adorning wall-:-10-:-Location finish-:-16-:-Theme
+#21026022 4 fall.Change_position_on_a_scale price-:-3-:-Item
+#20261016 10 consider.Cogitation #PersPron-:-9-:-Cognizer make-:-15-:-Topic
+#21802032 8 knock.Cause_motion
+#21206025 4 understand.Awareness disappoint-:-9-:-Content/Topic
+#21733002 11 post.Sending company-:-10-:-Sender net-:-12-:-Theme
+#21962007 5 give.Giving option-:-4-:-Donor right-:-9-:-Theme obligation-:-14-:-Theme owner-:-7-:-Recipient
+#20137021 3 gain.Change_position_on_a_scale Shell-:-2-:-Item 20-:-4-:-Difference
+#21804016 17 consider.Cogitation #PersPron-:-14-:-Cognizer #PersPron-:-18-:-Topic
+#21733001 19 post.Sending inc.-:-3-:-Sender rise-:-23-:-Theme
+#21843023 4 post.Sending fund-:-2-:-Sender yield-:-5-:-Theme
+#21728016 5 fall.Change_position_on_a_scale profit-:-4-:-Item #Percnt-:-7-:-Difference
+#20975046 18 follow.Cotheme that-:-12-:-Theme guideline-:-21-:-Cotheme
+#21829013 20 believe.Awareness
+#21509004 20 fall.Change_position_on_a_scale stake-:-18-:-Item
+#21857006 6 hire.Hiring aetna-:-1-:-Employer insurer-:-4-:-Employer engineer-:-7-:-Employee architect-:-9-:-Employee
+#22170049 10 buy.Commerce_buy #PersPron-:-8-:-Buyer share-:-12-:-Goods
+#20127005 31 rise.Change_position_on_a_scale share-:-30-:-Item penny-:-33-:-Difference
+#21784028 9 fall.Change_position_on_a_scale share-:-8-:-Item cent-:-11-:-Difference
+#20531001 6 buy.Commerce_buy #PersPron-:-4-:-Buyer share-:-14-:-Goods
+#20141014 23 increase.Change_position_on_a_scale income-:-21-:-Item
+#21774001 5 post.Sending Corp.-:-4-:-Sender rise-:-9-:-Theme
+#21569079 5 pick.Choosing sponsor-:-2-:-Cognizer stock-:-7-:-Chosen
+#21711001 9 jump.Change_position_on_a_scale profit-:-8-:-Item #Percnt-:-11-:-Difference
+#20296018 8 believe.Awareness
+#20204007 9 shun.Avoiding fund-:-7-:-Agent security-:-10-:-Undesirable_situation
+#21057038 6 begin.Process_start talk-:-4-:-Event
+#21269045 13 build.Building Industry-:-3-:-Agent plant-:-15-:-Created_entity
+#20254001 7 rise.Change_position_on_a_scale gauge-:-6-:-Item #Percnt-:-11-:-Difference
+#20585058 3 fall.Change_position_on_a_scale medical-:-2-:-Item 4-:-4-:-Difference
+#21862002 11 conduct.Cotheme survey-:-3-:-Cotheme
+#21154071 16 begin.Activity_start Vaezi-:-6-:-Agent minister-:-11-:-Agent visit-:-19-:-Activity
+#21947006 5 lead.Cotheme arabia-:-8-:-Theme exporter-:-14-:-Theme #Cor_#PersPron-:-16-:-Cotheme
+#21986051 16 endow.Giving
+#21411048 27 lead.Cotheme #PersPron-:-26-:-Theme Hurricane-:-29-:-Cotheme
+#22161018 45 begin.Process_start massage-:-44-:-Event
+#21646001 7 begin.Process_start slide-:-3-:-Event
+#20771026 16 understand.Awareness #PersPron-:-14-:-Cognizer think-:-20-:-Content/Topic
+#21154061 3 consider.Cogitation
+#20527001 6 plummet.Change_position_on_a_scale stock-:-5-:-Item
+#21783013 7 fall.Change_position_on_a_scale net-:-6-:-Item #Percnt-:-9-:-Difference
+#21569057 4 buy.Commerce_buy #PersPron-:-2-:-Buyer $-:-6-:-Goods
+#22100012 6 begin.Activity_start carrier-:-3-:-Agent marketing-:-7-:-Activity
+#22109007 15 join.Cause_to_amalgamate who-:-14-:-Agent
+#21208007 8 drive.Cause_motion
+#21569025 9 investigate.Scrutiny division-:-3-:-Cognizer charge-:-14-:-Ground increase-:-16-:-Ground
+#21463016 19 tumble.Change_position_on_a_scale #Percnt-:-21-:-Difference #Percnt-:-28-:-Difference
+#21297004 12 evaluate.Assessing #PersPron-:-9-:-Phenomenon
+#20350007 5 soar.Change_position_on_a_scale stock-:-4-:-Item $-:-6-:-Difference
+#21160008 7 prevent.Thwarting limit-:-5-:-Preventing_cause state-:-9-:-Protagonist/Action spend-:-11-:-Protagonist/Action
+#21572009 20 build.Building #PersPron-:-18-:-Created_entity
+#21937017 7 follow.Cotheme who-:-6-:-Theme stock-:-9-:-Cotheme
+#22111043 15 start.Activity_start #PersPron_#Cor-:-14-:-Agent pull-:-16-:-Activity
+#21120006 34 buy.Commerce_buy #PersPron_#Cor-:-24-:-Buyer food-:-35-:-Goods
+#20113022 21 decline.Change_position_on_a_scale payment-:-18-:-Item
+#21646027 10 begin.Activity_start china-:-9-:-Agent reform-:-11-:-Activity
+#22013029 27 send.Sending boss-:-4-:-Sender coffin-:-32-:-Theme #PersPron-:-28-:-Goal/Recipient
+#21470037 22 cover.Filling wall-:-14-:-Goal
+#21057063 43 give.Giving pilson-:-25-:-Donor #PersPron-:-44-:-Theme negotiator-:-47-:-Recipient
+#20687009 12 begin.Process_start that-:-11-:-Event
+#20571003 24 denounce.Judgment_communication leader-:-5-:-Communicator kinnock-:-8-:-Communicator thatcher-:-26-:-Evaluee have-:-28-:-Reason refuse-:-33-:-Reason
+#21037010 17 build.Building Corp.-:-3-:-Agent shipbuilder-:-6-:-Agent plant-:-20-:-Created_entity expansion-:-24-:-Created_entity
+#20360024 14 pursue.Cotheme entity-:-7-:-Theme measurement-:-16-:-Cotheme
+#20569051 18 rise.Change_position_on_a_scale product-:-17-:-Item rate-:-24-:-Difference
+#21058054 6 follow.Cotheme industry-:-3-:-Theme bill-:-9-:-Cotheme
+#21655028 8 give.Giving Elvira-:-7-:-Donor smile-:-11-:-Theme #PersPron-:-9-:-Recipient
+#21540009 4 fall.Change_position_on_a_scale price-:-3-:-Item
+#21932046 4 buy.Commerce_buy country-:-2-:-Buyer ton-:-6-:-Goods
+#21105033 23 fall.Change_position_on_a_scale income-:-2-:-Item #Percnt-:-25-:-Difference
+#21329006 15 begin.Activity_start emerson-:-1-:-Agent bosch-:-3-:-Agent offer-:-19-:-Activity
+#20786009 4 consider.Cogitation
+#20759003 11 increase.Cause_change_of_position_on_a_scale stake-:-15-:-Item
+#20950007 14 fall.Change_position_on_a_scale Class-:-2-:-Item cent-:-16-:-Difference
+#22169010 5 lead.Cotheme bond-:-12-:-Theme rally-:-3-:-Cotheme
+#20497001 23 fall.Change_position_on_a_scale income-:-15-:-Item
+#21480068 18 tumble.Change_position_on_a_scale 1-:-19-:-Difference 1_2-:-20-:-Difference
+#20686015 8 increase.Cause_change_of_position_on_a_scale budget-:-15-:-Item
+#22064027 8 believe.Awareness bank-:-3-:-Cognizer government-:-7-:-Cognizer get-:-11-:-Content
+#21617027 10 hire.Hiring parent-:-6-:-Employer sitter-:-12-:-Employee
+#21854021 6 fall.Change_position_on_a_scale stock-:-4-:-Item
+#22063017 9 fall.Change_position_on_a_scale yield-:-2-:-Item less-:-10-:-Difference
+#20760001 10 fall.Change_position_on_a_scale income-:-5-:-Item #Percnt-:-12-:-Difference
+#21971002 34 choose.Choosing buyer-:-33-:-Cognizer drive-:-37-:-Chosen
+#20687003 14 move.Cause_motion
+#20453034 6 give.Giving #PersPron-:-3-:-Donor something-:-7-:-Theme
+#20400052 18 start.Process_start #PersPron_#Cor-:-17-:-Event
+#20112023 22 prohibit.Prohibiting act-:-21-:-Principle service-:-24-:-State_of_affairs
+#20155033 9 lead.Cotheme oil-:-8-:-Theme way-:-11-:-Cotheme
+#21781044 11 gain.Change_position_on_a_scale Ajinomoto-:-10-:-Item 70-:-12-:-Difference
+#21817018 4 start.Process_start project-:-3-:-Event
+#21146021 5 search.Seeking #PersPron-:-3-:-Cognizer_agent price-:-9-:-Ground
+#21929006 4 follow.Cotheme krenz-:-2-:-Theme path-:-9-:-Cotheme
+#21273014 25 plummet.Change_position_on_a_scale value-:-22-:-Item $-:-27-:-Difference
+#21936040 20 begin.Activity_start Harris-:-5-:-Agent woman-:-11-:-Agent overpower-:-24-:-Activity
+#21331034 14 criticize.Judgment_communication Pretl-:-13-:-Communicator appeal-:-16-:-Evaluee raise-:-18-:-Reason
+#21905002 13 post.Sending concern-:-12-:-Sender loss-:-15-:-Theme
+#21255010 28 investigate.Scrutiny government-:-12-:-Cognizer cause-:-31-:-Ground
+#21971033 15 believe.Awareness
+#21946009 13 believe.Awareness
+#21856035 12 buy.Commerce_buy #Percnt-:-3-:-Buyer brand-:-15-:-Goods
+#22046003 6 assess.Assessing #PersPron-:-4-:-Assessor strategy-:-8-:-Phenomenon
+#22039004 8 post.Sending company-:-7-:-Sender rise-:-12-:-Theme
+#20359054 9 post.Sending bunch-:-4-:-Sender increase-:-11-:-Theme
+#21780025 25 consider.Cogitation department-:-23-:-Cognizer impact-:-27-:-Topic
+#20706003 12 give.Giving that-:-11-:-Donor value-:-16-:-Theme transaction-:-14-:-Recipient
+#20049028 9 send.Sending IRS-:-7-:-Sender letter-:-11-:-Theme
+#20570011 3 begin.Activity_start group-:-2-:-Agent raise-:-4-:-Activity
+#21450007 12 chase.Cotheme #PersPron-:-11-:-Theme robber-:-14-:-Cotheme
+#21646032 8 decline.Change_position_on_a_scale output-:-3-:-Item #Percnt-:-10-:-Difference
+#20633046 3 send.Sending News-:-2-:-Sender script-:-4-:-Theme agent-:-6-:-Goal/Recipient
+#21860016 19 drive.Cause_motion
+#22153058 8 lead.Cotheme which-:-6-:-Theme development-:-12-:-Cotheme
+#20977009 4 lead.Cotheme merksamer-:-2-:-Theme buy-out-:-6-:-Cotheme
+#20532021 13 rise.Change_position_on_a_scale share-:-12-:-Item penny-:-15-:-Difference
+#20036026 18 fall.Change_position_on_a_scale order-:-4-:-Item #Percnt-:-20-:-Difference
+#21988002 5 jump.Change_position_on_a_scale export-:-2-:-Item #Percnt-:-7-:-Difference
+#22170050 21 pick.Choosing #PersPron_#Cor-:-19-:-Cognizer time-:-24-:-Chosen
+#21844033 20 buy.Commerce_buy WCRS-:-18-:-Buyer that-:-17-:-Goods
+#20464005 14 fall.Change_position_on_a_scale index-:-13-:-Item 3.56-:-15-:-Difference
+#20259004 15 consider.Cogitation RTC-:-13-:-Cognizer use-:-16-:-Topic
+#21913004 8 decline.Change_position_on_a_scale exclusive-:-1-:-Item profit-:-7-:-Item #Percnt-:-10-:-Difference
+#21493027 2 believe.Awareness
+#20560024 15 believe.Awareness
+#20615005 18 rise.Change_position_on_a_scale export-:-17-:-Item #Percnt-:-20-:-Difference
+#21291012 18 begin.Process_start problem-:-17-:-Event
+#20765061 7 prevent.Thwarting procrastination-:-6-:-Preventing_cause #PersPron_#Cor-:-8-:-Protagonist/Action have-:-10-:-Protagonist/Action
+#20743003 14 begin.Activity_start #PersPron-:-12-:-Agent negotiation-:-15-:-Activity
+#20043002 24 pursue.Cotheme politician-:-22-:-Theme that-:-19-:-Cotheme
+#20755013 15 follow.Cotheme #PersPron-:-12-:-Cotheme
+#20414053 3 hire.Hiring
+#21188004 15 consider.Cogitation agreement-:-13-:-Topic
+#21254008 3 praise.Judgment_communication leader-:-2-:-Communicator restructuring-:-6-:-Evaluee
+#21652015 5 drop.Change_position_on_a_scale income-:-4-:-Item
+#21830030 13 follow.Cotheme people-:-9-:-Theme instruction-:-14-:-Cotheme
+#21930010 4 follow.Cotheme decline-:-8-:-Cotheme
+#20664005 7 start.Activity_start #PersPron_#Cor-:-5-:-Agent trade-:-8-:-Activity
+#20994093 7 pursue.Cotheme concern-:-4-:-Theme niche-:-9-:-Cotheme tourist-:-12-:-Cotheme trade-:-20-:-Cotheme
+#20641008 6 move.Cause_motion
+#20980004 18 start.Process_start trip-:-17-:-Event
+#21860031 4 prevent.Thwarting investor-:-7-:-Protagonist/Action
+#20451012 5 follow.Cotheme who-:-3-:-Theme schedule-:-10-:-Cotheme
+#21905004 12 gain.Change_position_on_a_scale Morrison-:-11-:-Item $-:-13-:-Difference
+#21043010 3 post.Sending s&l-:-2-:-Sender loss-:-6-:-Theme
+#21364015 4 post.Sending Phillips-:-1-:-Sender Arco-:-3-:-Sender decline-:-5-:-Theme
+#21809050 10 begin.Process_start mainframe-:-8-:-Event
+#21552001 21 fall.Change_position_on_a_scale income-:-20-:-Item #Percnt-:-23-:-Difference
+#21435009 11 accompany.Cotheme inspector-:-14-:-Theme #PersPron-:-9-:-Cotheme
+#20985002 17 give.Giving reserve-:-15-:-Donor power-:-21-:-Theme #PersPron_#Cor-:-18-:-Recipient
+#20148003 19 rise.Change_position_on_a_scale future-:-18-:-Item point-:-23-:-Difference
+#20452019 10 consider.Cogitation agency-:-7-:-Cognizer ability-:-15-:-Topic status-:-26-:-Topic
+#22125021 7 drive.Cause_motion
+#21642003 8 tumble.Change_position_on_a_scale #Percnt-:-10-:-Difference
+#21768005 13 jump.Change_position_on_a_scale share-:-12-:-Item
+#20664023 7 investigate.Scrutiny authority-:-2-:-Cognizer exchange-:-8-:-Ground
+#20231026 23 rise.Change_position_on_a_scale balance-:-19-:-Item yen-:-26-:-Difference $-:-28-:-Difference
+#21600046 10 pass.Giving
+#20769023 3 rise.Change_position_on_a_scale gnp-:-2-:-Item rate-:-7-:-Difference
+#20085033 13 begin.Activity_start #PersPron_#Cor-:-12-:-Agent offer-:-14-:-Activity
+#20286014 28 lead.Cotheme management-:-16-:-Theme charge-:-30-:-Cotheme
+#21624031 17 buy.Commerce_buy investor-:-11-:-Buyer bond-:-19-:-Goods
+#22019047 3 drop.Change_position_on_a_scale associate-:-2-:-Item 1-:-4-:-Difference
+#21937032 16 jump.Change_position_on_a_scale Shares-:-1-:-Item 2-:-17-:-Difference 1_8-:-18-:-Difference
+#21591010 30 begin.Process_start restructuring-:-20-:-Event introduction-:-25-:-Event
+#21151020 8 rise.Change_position_on_a_scale price-:-7-:-Item
+#21314016 5 buy.Commerce_buy investor-:-4-:-Buyer share-:-7-:-Goods
+#20475024 24 begin.Activity_start side-:-21-:-Agent negotiate-:-25-:-Activity
+#21828006 18 trail.Cotheme net-:-6-:-Theme $-:-23-:-Cotheme $-:-28-:-Cotheme
+#21672002 11 fall.Change_position_on_a_scale net-:-10-:-Item #Percnt-:-14-:-Difference
+#21815010 24 decline.Change_position_on_a_scale estimate-:-13-:-Item 500_000-:-27-:-Difference
+#21547015 6 stow.Placing who-:-5-:-Agent/Cause gear-:-7-:-Theme
+#21617038 15 believe.Awareness
+#21619020 20 drop.Change_position_on_a_scale fee-:-13-:-Item #Percnt-:-22-:-Difference
+#21120012 10 start.Activity_start crumble-:-12-:-Activity
+#20955015 2 believe.Awareness
+#20571038 11 give.Giving Germany-:-3-:-Donor position-:-16-:-Theme Germany-:-12-:-Recipient
+#21760048 11 start.Activity_start Worker-:-9-:-Agent nation-:-14-:-Activity
+#21286071 8 believe.Awareness
+#20415034 15 accompany.Cotheme measure-:-17-:-Theme subsidize-:-30-:-Theme program-:-10-:-Cotheme
+#21550027 21 begin.Process_start #PersPron_#Cor-:-19-:-Event
+#20415035 9 believe.Awareness
+#22048009 9 begin.Activity_start Chamber-:-6-:-Agent use-:-10-:-Activity
+#22048014 20 give.Giving that-:-18-:-Donor deduction-:-27-:-Theme up-:-34-:-Theme #Percnt-:-37-:-Theme people-:-22-:-Recipient
+#22053019 8 give.Giving deal-:-5-:-Donor right-:-13-:-Theme committee-:-11-:-Recipient
+#21213004 10 buy.Commerce_buy investor-:-6-:-Buyer Treasury-:-11-:-Goods
+#21586013 11 start.Activity_start furrier-:-10-:-Agent market-:-13-:-Activity
+#22104038 29 consider.Cogitation
+#20442004 5 purchase.Commerce_buy citicorp-:-4-:-Buyer which-:-3-:-Goods
+#21549051 25 hang.Placing neighbor-:-24-:-Agent/Cause wallpaper-:-27-:-Theme
+#21453041 2 believe.Awareness
+#20666029 33 fall.Change_position_on_a_scale price-:-28-:-Item #Percnt-:-38-:-Difference #Percnt-:-41-:-Difference
+#21614002 34 plummet.Change_position_on_a_scale price-:-31-:-Item
+#21328010 11 chase.Cotheme #PersPron-:-8-:-Theme tail-:-14-:-Cotheme
+#20254008 5 follow.Cotheme weakness-:-4-:-Theme month-:-8-:-Cotheme
+#20725049 16 give.Giving that-:-15-:-Donor share-:-19-:-Theme country-:-23-:-Recipient
+#20472008 8 believe.Awareness community-:-3-:-Cognizer settle-:-14-:-Content
+#20080023 8 follow.Cotheme Simmons-:-6-:-Theme offer-:-15-:-Cotheme
+#21861017 13 jump.Change_position_on_a_scale revenue-:-12-:-Item #Percnt-:-15-:-Difference
+#21928010 15 forgo.Avoiding
+#21314040 15 drop.Change_position_on_a_scale group-:-14-:-Item 3_4-:-16-:-Difference
+#20648013 18 buy.Commerce_buy insurer-:-1-:-Buyer Corp.-:-6-:-Buyer Corp-:-9-:-Buyer Co.-:-16-:-Buyer reinsurance-:-19-:-Goods
+#22163003 15 fall.Change_position_on_a_scale income-:-13-:-Item
+#20089006 9 pull.Cause_motion man-:-6-:-Agent/Cause woman-:-8-:-Agent/Cause rope-:-12-:-Theme
+#21830026 19 follow.Cotheme instruction-:-17-:-Cotheme
+#22142008 9 begin.Activity_start investors-:-3-:-Agent buy-:-10-:-Activity
+#20978003 8 begin.Activity_start Renaissance-:-1-:-Agent manager-:-6-:-Agent buy-:-9-:-Activity
+#21616029 11 gain.Change_position_on_a_scale cost-:-10-:-Item #Percnt-:-14-:-Difference
+#20192028 36 begin.Process_start harvest-:-35-:-Event
+#21944026 15 buy.Commerce_buy #PersPron-:-14-:-Buyer share-:-17-:-Goods
+#20277010 8 choose.Choosing #PersPron-:-3-:-Cognizer moment-:-11-:-Chosen
+#21895001 5 give.Giving official-:-4-:-Donor mark-:-9-:-Theme media-:-7-:-Recipient
+#21578068 7 buy.Commerce_buy officer-:-5-:-Buyer total-:-9-:-Goods
+#20996007 12 join.Cause_to_amalgamate #PersPron-:-10-:-Agent search-:-14-:-Part_1
+#20976023 40 give.Giving gray-:-48-:-Donor twist-:-43-:-Theme role-:-33-:-Recipient
+#20914003 16 decrease.Change_position_on_a_scale number-:-11-:-Item
+#22019002 10 begin.Process_start trading-:-9-:-Event
+#20214023 18 pack.Filling retiree-:-6-:-Agent tourist-:-8-:-Agent stand-:-20-:-Goal
+#20607001 16 begin.Process_start trade-:-17-:-Event
+#21099088 18 buy.Commerce_buy equity-:-16-:-Goods
+#21055008 5 rise.Change_position_on_a_scale index-:-4-:-Item 2.09-:-6-:-Difference
+#21081001 10 select.Choosing unit-:-8-:-Chosen
+#20681054 6 fall.Change_position_on_a_scale average-:-5-:-Item point-:-8-:-Difference
+#20467017 8 start.Activity_start executive-:-7-:-Agent company-:-12-:-Activity
+#21601006 18 decline.Change_position_on_a_scale price-:-16-:-Item
+#21789006 22 give.Giving a_free_hand-:-25-:-Theme open-:-27-:-Theme technocrat-:-19-:-Recipient
+#20080015 4 rise.Change_position_on_a_scale stock-:-3-:-Item $-:-5-:-Difference
+#21578051 3 gain.Change_position_on_a_scale Equipment-:-2-:-Item 1-:-4-:-Difference 3_8-:-5-:-Difference
+#20648009 13 believe.Awareness
+#22136027 5 join.Cause_to_amalgamate u.s.-:-2-:-Agent canada-:-4-:-Agent country-:-8-:-Part_1
+#21337015 5 pick.Choosing investor-:-3-:-Cognizer stock-:-7-:-Chosen
+#21784001 5 post.Sending company-:-4-:-Sender earnings-:-8-:-Theme
+#21687035 11 purchase.Commerce_buy copper-:-13-:-Goods
+#21140014 5 jump.Change_position_on_a_scale interest-:-4-:-Item #Percnt-:-7-:-Difference
+#21695025 4 place.Placing freshman-:-3-:-Agent/Cause emphasis-:-7-:-Theme role-:-11-:-Goal spread-:-13-:-Goal
+#20938024 31 begin.Process_start stock-:-30-:-Event
+#20088018 16 ban.Prohibiting which-:-15-:-Principle trade-:-18-:-State_of_affairs
+#22162005 28 give.Giving crackdown-:-15-:-Donor out-:-32-:-Theme bank-:-30-:-Recipient
+#20040004 11 rise.Change_position_on_a_scale contribution-:-9-:-Item
+#21314022 26 begin.Activity_start investor-:-23-:-Agent retreat-:-28-:-Activity
+#20148013 9 follow.Cotheme investor-:-4-:-Theme institution-:-7-:-Theme strategy-:-12-:-Cotheme
+#21677043 11 send.Sending each-:-4-:-Sender newsletter-:-15-:-Theme
+#20584045 15 give.Giving company-:-5-:-Donor customer-:-22-:-Theme entity-:-18-:-Recipient
+#22061064 13 fall.Change_position_on_a_scale receipt-:-9-:-Item 1_4-:-14-:-Difference
+#20440009 18 build.Building home-:-17-:-Created_entity
+#21689004 16 join.Cause_to_amalgamate firm-:-4-:-Agent Coopers-:-17-:-Part_1 Lybrand-:-19-:-Part_1
+#20094004 9 believe.Awareness
+#20465061 11 begin.Activity_start vogelstein-:-2-:-Agent student-:-6-:-Agent fearon-:-9-:-Agent month-:-12-:-Activity
+#20162036 2 tumble.Change_position_on_a_scale 2-:-3-:-Difference
+#21881023 10 buy.Commerce_buy usair-:-7-:-Buyer share-:-13-:-Goods
+#20439030 14 unite.Cause_to_amalgamate that-:-12-:-Agent worker-:-15-:-Part_1 employer-:-17-:-Part_1 government-:-19-:-Part_2
+#21569005 22 buy.Commerce_buy that-:-20-:-Buyer ticket-:-26-:-Goods
+#21205007 3 fall.Change_position_on_a_scale stock-:-2-:-Item cent-:-5-:-Difference
+#21030004 19 select.Choosing Upchurch-:-7-:-Chosen president-:-13-:-Chosen counsel-:-16-:-Chosen
+#21971014 14 give.Giving #PersPron-:-13-:-Donor system-:-18-:-Theme #PersPron-:-15-:-Recipient
+#21480057 6 fall.Change_position_on_a_scale average-:-5-:-Item 32.71-:-7-:-Difference
+#20350005 17 prevent.Preventing swing-:-20-:-Event
+#21549008 7 start.Activity_start Krenz-:-6-:-Agent overhaul-:-8-:-Activity
+#21567087 19 give.Giving that-:-16-:-Donor pause-:-20-:-Theme client-:-22-:-Recipient
+#21999034 3 fall.Change_position_on_a_scale share-:-2-:-Item cent-:-5-:-Difference
+#21931019 8 give.Giving recovery-:-3-:-Donor confidence-:-11-:-Theme trader-:-10-:-Recipient
+#20033001 15 fall.Change_position_on_a_scale reserve-:-3-:-Item $-:-19-:-Difference
+#20586021 11 fall.Change_position_on_a_scale index-:-10-:-Item point-:-13-:-Difference
+#21554063 12 drop.Change_position_on_a_scale contract-:-11-:-Item
+#22100001 5 move.Cause_motion
+#20998017 4 hire.Hiring
+#20148003 21 fall.Change_position_on_a_scale future-:-18-:-Item point-:-23-:-Difference
+#20627010 6 believe.Awareness
+#21057052 8 begin.Activity_start #PersPron-:-7-:-Agent career-:-10-:-Activity
+#21377010 23 begin.Process_start decade-:-22-:-Event
+#21469012 6 drop.Change_position_on_a_scale sale-:-4-:-Item #Percnt-:-9-:-Difference #Percnt-:-12-:-Difference
+#20632005 18 rise.Change_position_on_a_scale share-:-7-:-Item penny-:-20-:-Difference
+#21603027 4 give.Giving hour-:-6-:-Theme family-:-2-:-Recipient
+#22075003 13 search.Seeking aide-:-10-:-Cognizer_agent legislator-:-12-:-Cognizer_agent compromise-:-16-:-Ground
+#20349016 9 consider.Cogitation Board-:-7-:-Cognizer variety-:-11-:-Topic
+#20943005 15 buy.Commerce_buy Atlantic-:-12-:-Buyer base-:-20-:-Goods facility-:-27-:-Goods
+#21502005 19 start.Process_start rate-:-17-:-Event
+#20414035 6 know.Awareness
+#20542005 9 criticize.Judgment_communication telerate-:-7-:-Communicator Jones-:-11-:-Evaluee disclose-:-14-:-Reason
+#20304023 8 examine.Scrutiny bank-:-6-:-Cognizer methodology-:-10-:-Ground control-:-13-:-Ground
+#20359006 7 soar.Change_position_on_a_scale price-:-5-:-Item
+#21817011 7 send.Sending spacecraft-:-6-:-Sender photo-:-10-:-Theme
+#20610020 23 increase.Change_position_on_a_scale share-:-22-:-Item
+#21208077 5 tumble.Change_position_on_a_scale 2-:-6-:-Difference 7_8-:-7-:-Difference
+#20280013 4 give.Giving Dewar-:-2-:-Donor discount-:-5-:-Theme people-:-10-:-Recipient
+#20185003 2 increase.Cause_change_of_position_on_a_scale board-:-4-:-Item
+#21192023 11 tumble.Change_position_on_a_scale $-:-12-:-Difference
+#21011015 8 post.Sending west-:-7-:-Sender earnings-:-9-:-Theme
+#20657009 11 rise.Change_position_on_a_scale sale-:-3-:-Item #Percnt-:-13-:-Difference
+#21367029 11 give.Giving #PersPron-:-10-:-Donor party-:-12-:-Theme
+#20628001 4 buy.Commerce_buy owner-:-2-:-Buyer machinery-:-6-:-Goods
+#21587006 12 suspect.Awareness staff-:-11-:-Cognizer spread-:-23-:-Content
+#20648016 29 purchase.Commerce_buy who-:-21-:-Buyer reinsurance-:-31-:-Goods
+#21480074 4 fall.Change_position_on_a_scale investor-:-3-:-Item 3-:-5-:-Difference
+#20701001 17 post.Sending co.-:-11-:-Sender co.-:-15-:-Sender gain-:-21-:-Theme
+#21253008 5 follow.Cotheme bank-:-4-:-Theme policy-:-9-:-Cotheme
+#21782012 9 start.Process_start creep_up-:-10-:-Event
+#21464009 26 tumble.Change_position_on_a_scale price-:-25-:-Item
+#20162006 3 lead.Cotheme stock-:-2-:-Theme decliner-:-4-:-Cotheme
+#20328024 31 build.Building agreement-:-29-:-Created_entity gimmickry-:-33-:-Components
+#20818005 15 fall.Change_position_on_a_scale profit-:-5-:-Item #Percnt-:-17-:-Difference
+#21617007 6 fall.Change_position_on_a_scale sale-:-5-:-Item
+#20067010 20 decline.Change_position_on_a_scale income-:-19-:-Item #Percnt-:-22-:-Difference
+#21037048 13 follow.Cotheme industry-:-12-:-Cotheme
+#21188003 22 send.Sending application-:-5-:-Theme ministry-:-27-:-Goal/Recipient
+#21935022 3 give.Giving Laband-:-2-:-Donor idea-:-6-:-Theme #PersPron-:-4-:-Recipient
+#21099088 14 buy.Commerce_buy equity-:-11-:-Goods
+#20465026 38 explode.Change_position_on_a_scale which-:-33-:-Item
+#21810004 12 gain.Change_position_on_a_scale average-:-11-:-Item point-:-14-:-Difference
+#21154058 14 buy.Commerce_buy #PersPron-:-13-:-Buyer share-:-15-:-Goods bond-:-18-:-Goods
+#21550013 18 begin.Process_start water-:-16-:-Event
+#21201009 7 buy.Commerce_buy Bear-:-4-:-Buyer Stearns-:-6-:-Buyer more-:-8-:-Goods
+#21273020 10 understand.Awareness
+#20649002 19 rise.Change_position_on_a_scale revenue-:-11-:-Item #Percnt-:-21-:-Difference
+#20090046 12 trail.Cotheme number-:-9-:-Theme pace-:-15-:-Cotheme
+#21011009 22 begin.Activity_start subsidiary-:-19-:-Activity
+#21549005 22 select.Choosing member-:-20-:-Chosen
+#21746002 5 post.Sending company-:-4-:-Sender income-:-7-:-Theme
+#20465001 4 start.Activity_start scientist-:-2-:-Activity
+#20327024 12 rise.Change_position_on_a_scale sector-:-3-:-Item #Percnt-:-16-:-Difference
+#21825039 7 give.Giving plan-:-6-:-Donor bonus-:-11-:-Theme employee-:-8-:-Recipient
+#21692005 14 drop.Change_position_on_a_scale worth-:-13-:-Item
+#21809047 18 begin.Activity_start ship-:-19-:-Activity
+#20359007 25 fall.Change_position_on_a_scale price-:-23-:-Item
+#20049035 18 increase.Cause_change_of_position_on_a_scale pay-:-20-:-Item #Percnt-:-23-:-Difference
+#20756014 13 start.Activity_start which-:-12-:-Activity
+#20049012 11 hire.Hiring #PersPron-:-10-:-Employer lawyer-:-12-:-Employee
+#21225020 31 believe.Awareness analyst-:-30-:-Cognizer mean-:-5-:-Content
+#20950015 5 drop.Change_position_on_a_scale net-:-4-:-Item #Percnt-:-7-:-Difference
+#20758067 10 send.Sending thomson-:-8-:-Sender photo-:-13-:-Theme
+#20144006 15 post.Sending group-:-5-:-Sender earnings-:-16-:-Theme
+#21006004 3 join.Cause_to_amalgamate lortie-:-2-:-Agent provigo-:-4-:-Part_1
+#21208015 5 begin.Process_start #PersPron_#Cor-:-4-:-Event
+#21206026 18 rise.Change_position_on_a_scale station-:-17-:-Item
+#21306001 7 join.Cause_to_amalgamate #PersPron-:-4-:-Agent Memories-:-9-:-Part_1 group-:-12-:-Part_1
+#20155016 21 begin.Process_start issue-:-24-:-Event
+#20681081 14 drop.Change_position_on_a_scale care-:-2-:-Item 7/8-:-15-:-Difference
+#21915055 5 assess.Assessing official-:-2-:-Assessor damage-:-6-:-Phenomenon
+#20162017 3 jump.Change_position_on_a_scale soup-:-2-:-Item 3-:-4-:-Difference 3/8-:-5-:-Difference
+#21208001 19 lead.Cotheme UAL-:-10-:-Theme parent-:-12-:-Theme share-:-20-:-Cotheme
+#20374032 7 fall.Change_position_on_a_scale which-:-6-:-Item point-:-9-:-Difference
+#22123010 6 drop.Change_position_on_a_scale price-:-4-:-Item #Percnt-:-8-:-Difference
+#21208043 20 buy.Commerce_buy firm-:-16-:-Buyer future-:-21-:-Goods
+#20023004 17 increase.Cause_change_of_position_on_a_scale interest-:-19-:-Item
+#20094013 7 consider.Cogitation company-:-4-:-Cognizer survival-:-9-:-Topic
+#21741004 9 fall.Change_position_on_a_scale net-:-8-:-Item #Percnt-:-11-:-Difference
+#20464032 15 fall.Change_position_on_a_scale casualty-:-2-:-Item 2-:-16-:-Difference 1_/_4-:-17-:-Difference
+#20725092 9 increase.Cause_change_of_position_on_a_scale staff-:-12-:-Item #Percnt-:-14-:-Difference
+#22080003 8 fall.Change_position_on_a_scale rate-:-7-:-Item
+#22064024 5 give.Giving choice-:-7-:-Theme Republican-:-2-:-Recipient
+#20274035 7 buy.Commerce_buy investor-:-5-:-Buyer #Percnt-:-10-:-Goods money-:-24-:-Goods
+#20184004 15 increase.Cause_change_of_position_on_a_scale benefit-:-20-:-Item #Percnt-:-22-:-Difference #Percnt-:-25-:-Difference
+#20192039 7 increase.Change_position_on_a_scale price-:-6-:-Item
+#21213006 10 fall.Change_position_on_a_scale average-:-9-:-Item point-:-13-:-Difference
+#21857005 7 post.Sending stock-:-6-:-Sender gain-:-9-:-Theme
+#20574004 11 buy.Commerce_buy #PersPron-:-10-:-Buyer interest-:-18-:-Goods
+#21380002 27 begin.Activity_start exchange-:-26-:-Activity
+#21051001 16 jump.Change_position_on_a_scale income-:-15-:-Item #Percnt-:-18-:-Difference
+#21903039 5 believe.Awareness
+#21440055 13 drop.Change_position_on_a_scale result-:-4-:-Item #Percnt-:-18-:-Difference
+#21278003 8 begin.Process_start plant-:-6-:-Event
+#20610009 11 gain.Change_position_on_a_scale Mills-:-9-:-Item share-:-16-:-Difference
+#20719010 17 erupt.Process_start problem-:-16-:-Event
+#21442045 21 fall.Change_position_on_a_scale price-:-9-:-Item #Percnt-:-24-:-Difference
+#20507001 7 purchase.Commerce_buy #PersPron-:-5-:-Buyer million-:-12-:-Goods
+#20113009 11 rise.Change_position_on_a_scale income-:-10-:-Item
+#20777008 6 begin.Process_start problem-:-5-:-Event
+#21470017 6 start.Activity_start graduate-:-4-:-Agent job-:-7-:-Activity
+#20663004 8 post.Sending and-:-2-:-Sender increase-:-13-:-Theme
+#22061045 3 fall.Change_position_on_a_scale Paper-:-2-:-Item 1-:-4-:-Difference 3_8-:-5-:-Difference
+#21781045 9 gain.Change_position_on_a_scale Pharmaceutical-:-8-:-Item 140-:-10-:-Difference
+#20351013 3 fall.Change_position_on_a_scale price-:-2-:-Item
+#21601028 4 lead.Cotheme fund-:-3-:-Theme increase-:-7-:-Cotheme
+#21554035 16 drop.Change_position_on_a_scale number-:-6-:-Item #Percnt-:-18-:-Difference
+#20918013 5 rise.Change_position_on_a_scale stock-:-4-:-Item $-:-6-:-Difference
+#20979002 18 join.Cause_to_amalgamate lloyd-:-11-:-Agent board-:-21-:-Part_1
+#20781015 10 start.Activity_start #PersPron_#Cor-:-3-:-Activity
+#20447008 3 believe.Awareness
+#20944039 15 understand.Awareness
+#21825007 7 jump.Change_position_on_a_scale price-:-5-:-Item #Percnt-:-9-:-Difference
+#20290045 9 choose.Choosing who-:-8-:-Cognizer disobey-:-11-:-Chosen
+#20036031 7 rise.Change_position_on_a_scale backlog-:-3-:-Item #Percnt-:-9-:-Difference
+#20118151 6 decline.Change_position_on_a_scale liquidity-:-4-:-Item
+#21157019 7 begin.Process_start spiral-:-10-:-Event
+#21861018 11 drop.Change_position_on_a_scale revenue-:-10-:-Item #Percnt-:-13-:-Difference
+#20089021 9 begin.Activity_start ringer-:-8-:-Agent vary-:-10-:-Activity
+#20590021 27 give.Giving committee-:-25-:-Donor clean_slate-:-33-:-Theme Bush-:-29-:-Recipient
+#20246001 12 increase.Cause_change_of_position_on_a_scale #Percnt-:-16-:-Item
+#20305008 5 start.Activity_start who-:-4-:-Agent career-:-7-:-Activity
+#21875118 5 criticize.Judgment_communication official-:-3-:-Communicator plan-:-6-:-Evaluee
+#20938001 18 consider.Cogitation
+#20361021 5 criticize.Judgment_communication investigation-:-3-:-Communicator auditor-:-8-:-Evaluee Coopers-:-10-:-Evaluee Lybrand-:-12-:-Evaluee ignore-:-16-:-Reason
+#21857009 5 dispatch.Sending adjuster-:-3-:-Theme
+#20578061 24 start.Activity_start producer-:-21-:-Agent frenzy-:-28-:-Activity
+#21145008 18 give.Giving shrift-:-20-:-Theme who-:-15-:-Recipient
+#20353005 11 follow.Cotheme #PersPron-:-6-:-Theme rule-:-13-:-Cotheme
+#22054015 3 criticize.Judgment_communication speech-:-2-:-Communicator idiocy-:-6-:-Evaluee
+#20578060 28 choose.Choosing warner-:-22-:-Cognizer produce-:-31-:-Chosen
+#21464039 16 begin.Process_start activity-:-15-:-Event
+#21375039 16 decline.Change_position_on_a_scale rating-:-14-:-Item
+#21440031 14 believe.Awareness hallingby-:-2-:-Cognizer director-:-5-:-Cognizer begin-:-18-:-Content
+#21340004 12 climb.Change_position_on_a_scale asset-:-8-:-Item
+#21203010 21 start.Activity_start trader-:-20-:-Agent sell_out-:-22-:-Activity
+#21934011 4 believe.Awareness
+#21855010 19 join.Cause_to_amalgamate cboe-:-2-:-Agent exchange-:-6-:-Agent corp.-:-10-:-Agent fossett-:-13-:-Agent owner-:-15-:-Agent
+#20377001 16 begin.Activity_start company-:-7-:-Agent manufacture-:-17-:-Activity
+#21923010 13 trail.Cotheme coke-:-1-:-Theme pepsi-:-14-:-Cotheme
+#20214009 21 begin.Process_start season-:-19-:-Event
+#21967002 22 merge.Amalgamation corp.-:-12-:-Part_1 company-:-19-:-Part_1 corp.-:-26-:-Part_2 corp.-:-30-:-Part_2 inc-:-34-:-Part_2
+#20327036 5 rise.Change_position_on_a_scale Index-:-4-:-Item 0.17-:-6-:-Difference
+#20942012 6 criticize.Judgment_communication country-:-10-:-Communicator proposal-:-3-:-Evaluee
+#20909098 15 erupt.Process_start trouble-:-14-:-Event
+#21208045 8 climb.Change_position_on_a_scale industrial-:-7-:-Item point-:-11-:-Difference
+#20319007 15 rise.Change_position_on_a_scale wages-:-9-:-Item salary-:-11-:-Item #Percnt-:-17-:-Difference
+#20666035 12 buy.Commerce_buy which-:-11-:-Buyer pulp-:-13-:-Goods
+#21915026 28 conduct.Cotheme international-:-2-:-Theme designer-:-11-:-Theme business-:-29-:-Cotheme
+#22032027 27 fill.Filling Eastern-:-19-:-Agent seat-:-29-:-Goal
+#21438005 12 join.Cause_to_amalgamate corp.-:-2-:-Agent company-:-9-:-Agent board-:-15-:-Part_1
+#20681028 10 begin.Process_start that-:-8-:-Event
+#20455012 6 ban.Prohibiting fda-:-5-:-Principle use-:-8-:-State_of_affairs
+#21057031 39 buy.Commerce_buy Tisch-:-38-:-Buyer stake-:-43-:-Goods
+#21123022 25 believe.Awareness
+#20178024 6 rise.Change_position_on_a_scale income-:-5-:-Item
+#22153001 4 begin.Activity_start corp.-:-3-:-Agent ship-:-5-:-Activity
+#20041028 28 consider.Cogitation #PersPron-:-25-:-Topic
+#20939008 27 investigate.Scrutiny that-:-17-:-Cognizer possibility-:-29-:-Ground
+#21766022 21 merge.Amalgamation part-:-16-:-Part_1
+#20955028 12 avoid.Avoiding breeden-:-11-:-Agent make-:-13-:-Undesirable_situation
+#21831023 5 disparage.Judgment_communication #PersPron_#Cor-:-2-:-Communicator audience-:-7-:-Evaluee
+#21146181 6 build.Building center-:-3-:-Created_entity shop-:-8-:-Created_entity
+#20528018 16 send.Sending mailing-:-14-:-Theme
+#20127005 3 fall.Change_position_on_a_scale profit-:-2-:-Item #Percnt-:-5-:-Difference
+#22061053 3 drop.Change_position_on_a_scale Goodrich-:-2-:-Item 1-:-4-:-Difference 3_8-:-5-:-Difference
+#20053001 19 rise.Change_position_on_a_scale sale-:-18-:-Item #Percnt-:-21-:-Difference
+#21314008 8 buy.Commerce_buy #PersPron-:-7-:-Buyer mcdonald-:-9-:-Goods co.-:-13-:-Goods Procter-:-15-:-Goods Gamble-:-17-:-Goods
+#21453043 25 fall.Change_position_on_a_scale dollar-:-24-:-Item #Percnt-:-27-:-Difference #Percnt-:-35-:-Difference #Percnt-:-42-:-Difference
+#21652023 11 fall.Change_position_on_a_scale income-:-10-:-Item
+#21955002 24 buy.Commerce_buy holder-:-22-:-Buyer share-:-25-:-Goods
+#22125022 5 buy.Commerce_buy that-:-3-:-Buyer paper-:-7-:-Goods
+#21139019 23 fall.Change_position_on_a_scale sale-:-18-:-Item #Percnt-:-25-:-Difference
+#20155043 26 buy.Commerce_buy which-:-24-:-Buyer grain-:-28-:-Goods
+#20118081 8 fall.Change_position_on_a_scale business-:-3-:-Item pay-:-5-:-Item
+#21687008 9 buy.Commerce_buy company-:-7-:-Buyer contract-:-10-:-Goods
+#21304002 21 buy.Commerce_buy #PersPron-:-19-:-Buyer #Percnt-:-27-:-Goods
+#21285044 8 fall.Change_position_on_a_scale novell-:-1-:-Item concern-:-6-:-Item 1-:-9-:-Difference 1_2-:-10-:-Difference
+#21975001 8 fall.Change_position_on_a_scale income-:-7-:-Item #Percnt-:-10-:-Difference
+#21463013 12 fall.Change_position_on_a_scale sale-:-6-:-Item #Percnt-:-15-:-Difference
+#20254002 13 climb.Change_position_on_a_scale which-:-11-:-Item #Percnt-:-15-:-Difference
+#22124009 20 buy.Commerce_buy #PersPron-:-19-:-Buyer list-:-24-:-Goods
+#21957058 10 decline.Change_position_on_a_scale electric-:-2-:-Item 12-:-11-:-Difference
+#21603083 9 buy.Commerce_buy #PersPron-:-8-:-Buyer ton-:-13-:-Goods more-:-18-:-Goods
+#21368032 11 buy.Commerce_buy who-:-10-:-Buyer porcelain-:-13-:-Goods doll-:-19-:-Goods
+#21856055 15 buy.Commerce_buy consumer-:-11-:-Buyer product-:-16-:-Goods
+#20779037 13 buy.Commerce_buy government-:-7-:-Buyer bank-:-11-:-Buyer share-:-20-:-Goods
+#20374036 12 buy.Commerce_buy company-:-10-:-Buyer stock-:-16-:-Goods
+#21623016 15 decline.Change_position_on_a_scale rate-:-12-:-Item
+#20137022 4 fall.Change_position_on_a_scale mining-:-3-:-Item yen-:-6-:-Difference
+#21622024 3 buy.Commerce_buy maker-:-2-:-Buyer wish-:-6-:-Goods
+#21586036 12 buy.Commerce_buy who-:-10-:-Buyer fur-:-13-:-Goods
+#20340002 18 buy.Commerce_buy unit-:-13-:-Buyer share-:-21-:-Goods
+#21613009 15 fall.Change_position_on_a_scale yield-:-14-:-Item
+#21723042 3 fall.Change_position_on_a_scale alliance-:-2-:-Item 1-:-4-:-Difference
+#22045015 13 buy.Commerce_buy #PersPron_#Cor-:-12-:-Buyer gold-:-14-:-Goods
+#21469016 9 fall.Change_position_on_a_scale sale-:-7-:-Item #Percnt-:-14-:-Difference
+#20488002 6 climb.Change_position_on_a_scale average-:-5-:-Item point-:-8-:-Difference
+#21863011 5 buy.Commerce_buy trader-:-4-:-Buyer stock-:-8-:-Goods
+#22045015 29 fall.Change_position_on_a_scale price-:-27-:-Item
+#20345003 6 climb.Change_position_on_a_scale Average-:-5-:-Item 41.60-:-7-:-Difference
+#20141022 10 buy.Commerce_buy #PersPron-:-8-:-Buyer house-:-12-:-Goods
+#21586054 6 move.Cause_motion
+#20314025 6 buy.Commerce_buy #PersPron-:-4-:-Buyer discipline-:-10-:-Goods
+#22043014 12 decline.Change_position_on_a_scale rate-:-10-:-Item point-:-15-:-Difference
+#21869011 5 decline.Change_position_on_a_scale rate-:-2-:-Item
+#20681039 13 value.Assessing stock-:-10-:-Feature
+#20532002 26 buy.Commerce_buy that-:-23-:-Buyer MTM-:-27-:-Goods producer-:-29-:-Goods
+#21344002 7 climb.Change_position_on_a_scale profit-:-2-:-Item
+#20953023 4 value.Assessing electric-:-3-:-Assessor offer-:-6-:-Feature $-:-8-:-Value
+#20319001 6 rise.Change_position_on_a_scale cost-:-5-:-Item #Percnt-:-8-:-Difference
+#21201046 7 buy.Commerce_buy investor-:-4-:-Buyer stock-:-9-:-Goods
+#21084001 4 rise.Change_position_on_a_scale price-:-3-:-Item #Percnt-:-6-:-Difference
+#20409075 20 decline.Change_position_on_a_scale membership-:-18-:-Item
+#20334004 21 rise.Change_position_on_a_scale earnings-:-20-:-Item
+#20334004 11 rise.Change_position_on_a_scale profit-:-1-:-Item interest-:-6-:-Item #Percnt-:-13-:-Difference
+#20428003 9 rise.Change_position_on_a_scale export-:-8-:-Item #Percnt-:-11-:-Difference
+#20177005 3 rise.Change_position_on_a_scale net-:-2-:-Item
+#22045038 18 buy.Commerce_buy that-:-9-:-Buyer sugar-:-20-:-Goods
+#20162042 4 rise.Change_position_on_a_scale warehouse-:-3-:-Item 1-:-5-:-Difference
+#21166018 7 rise.Change_position_on_a_scale yield-:-3-:-Item
+#22055029 7 move.Cause_motion
+#21432018 4 move.Cause_motion
+#20224017 4 value.Assessing proposal-:-3-:-Assessor Jaguar-:-5-:-Feature more-:-7-:-Value
+#20359049 11 buy.Commerce_buy #PersPron-:-8-:-Buyer stock-:-14-:-Goods
+#22111010 12 build.Building Peterson-:-10-:-Agent dealership-:-15-:-Created_entity
+#21273015 34 buy.Commerce_buy #PersPron-:-33-:-Buyer CD-:-36-:-Goods
+#21172020 5 rise.Change_position_on_a_scale export-:-4-:-Item
+#20477018 9 buy.Commerce_buy Allianz-:-7-:-Buyer
+#20444020 18 rise.Change_position_on_a_scale pound-:-3-:-Item
+#20428003 15 decline.Change_position_on_a_scale export-:-13-:-Item
+#21881034 18 buy.Commerce_buy #PersPron-:-17-:-Buyer stock-:-24-:-Goods
+#21162030 35 rise.Change_position_on_a_scale spending-:-10-:-Item #Percnt-:-38-:-Difference
+#20467042 9 rise.Change_position_on_a_scale share-:-8-:-Item penny-:-11-:-Difference
+#20649007 7 rise.Change_position_on_a_scale net-:-5-:-Item #Percnt-:-9-:-Difference
+#20170008 8 build.Building ship-:-4-:-Created_entity
+#21046003 15 decline.Change_position_on_a_scale failure-:-14-:-Item
+#20464004 6 decline.Change_position_on_a_scale market-:-3-:-Item
+#20663001 16 rise.Change_position_on_a_scale income-:-11-:-Item #Percnt-:-18-:-Difference
+#20098006 11 rise.Change_position_on_a_scale wage-:-9-:-Item
+#21429002 20 make.Building sa-:-26-:-Agent which-:-18-:-Created_entity
+#21190028 18 buy.Commerce_buy #PersPron-:-16-:-Buyer movie-:-19-:-Goods
+#21744017 8 build.Building which-:-7-:-Agent car-:-15-:-Created_entity
+#20231022 5 rise.Change_position_on_a_scale Realty-:-2-:-Item Development-:-4-:-Item 40-:-6-:-Difference
+#21052012 6 buy.Commerce_buy people-:-3-:-Buyer anything-:-7-:-Goods
+#21603045 12 value.Assessing #PersPron-:-11-:-Assessor which-:-10-:-Feature $-:-15-:-Value
+#20760006 20 rise.Change_position_on_a_scale profit-:-14-:-Item #Percnt-:-22-:-Difference
+#21026039 28 buy.Commerce_buy who-:-25-:-Buyer cotton-:-29-:-Goods
+#20060002 8 buy.Commerce_buy that-:-7-:-Buyer rerun-:-12-:-Goods
+#20162043 8 rise.Change_position_on_a_scale income-:-3-:-Item #Percnt-:-11-:-Difference
+#21026039 49 climb.Change_position_on_a_scale price-:-48-:-Item cent-:-53-:-Difference
+#21844006 8 give.Giving move-:-7-:-Donor foothold-:-13-:-Theme #PersPron-:-9-:-Recipient
+#21036038 28 rise.Change_position_on_a_scale line-:-27-:-Item 1_2-:-29-:-Difference
+#21567001 10 give.Giving father-:-9-:-Donor piece-:-13-:-Theme #PersPron-:-11-:-Recipient
+#21784016 19 decline.Change_position_on_a_scale sale-:-14-:-Item #Percnt-:-21-:-Difference
+#21869017 6 give.Giving exclusion-:-3-:-Theme stock-:-9-:-Recipient
+#20610029 21 build.Building plant-:-17-:-Created_entity
+#20473024 16 build.Building #PersPron-:-14-:-Agent pipeline-:-19-:-Created_entity
+#20335018 11 give.Giving opportunity-:-13-:-Theme #PersPron_#Cor-:-7-:-Recipient
+#21986051 5 build.Building stuff-:-4-:-Agent palazzo-:-14-:-Created_entity
+#21272054 8 build.Building three-:-3-:-Agent machine-:-11-:-Created_entity
+#21519001 34 build.Building which-:-31-:-Created_entity
+#20126021 12 build.Building #PersPron-:-8-:-Created_entity
+#21540002 27 value.Assessing proposal-:-3-:-Feature $-:-29-:-Value $-:-32-:-Value $-:-41-:-Value
+#20340006 18 value.Assessing purchase-:-4-:-Feature franc-:-27-:-Value
+#21013014 18 value.Assessing thrift-:-16-:-Assessor bond-:-20-:-Feature low-:-23-:-Value
+#20177009 13 climb.Change_position_on_a_scale sale-:-11-:-Item
+#21870011 26 move.Cause_motion
+#21442034 13 climb.Change_position_on_a_scale foreclosure-:-11-:-Item
+#21455018 19 make.Building much-:-10-:-Created_entity possible-:-16-:-Created_entity aluminum-:-21-:-Components steel-:-23-:-Components glass-:-25-:-Components
+#20994090 7 build.Building hotel-:-5-:-Agent complex-:-10-:-Created_entity
+#20573005 20 climb.Change_position_on_a_scale income-:-5-:-Item #Percnt-:-22-:-Difference
+#21781022 5 climb.Change_position_on_a_scale grenfell-:-4-:-Item 14-:-6-:-Difference
+#20587022 4 move.Cause_motion
+#20304015 11 value.Assessing each-:-8-:-Feature
+#20440001 4 climb.Change_position_on_a_scale contracting-:-3-:-Item #Percnt-:-6-:-Difference
+#21026035 27 purchase.Commerce_buy china-:-26-:-Buyer cotton-:-28-:-Goods
+#21291007 13 purchase.Commerce_buy affiliate-:-6-:-Buyer Inc.-:-10-:-Buyer interest-:-17-:-Goods
+#20550011 19 wonder.Cogitation
+#20409005 15 move.Cause_motion
+#21728005 3 climb.Change_position_on_a_scale price-:-2-:-Item #Percnt-:-7-:-Difference
+#20315001 13 move.Cause_motion
+#21884028 7 climb.Change_position_on_a_scale georgia-pacific-:-6-:-Item 1-:-8-:-Difference 1/4-:-9-:-Difference
+#20277034 36 purchase.Commerce_buy which-:-34-:-Buyer building-:-39-:-Goods
+#20584015 6 value.Assessing pact-:-4-:-Feature $-:-9-:-Value $-:-12-:-Value
+#21257014 3 value.Assessing lee-:-2-:-Assessor package-:-5-:-Feature $-:-8-:-Value $-:-11-:-Value

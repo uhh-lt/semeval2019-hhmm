@@ -1,0 +1,3 @@
+11/01/2019: Multiple sentences are added to pos-auto-parse-auto file. These were duplicate sentences (same sentence with multiple unique ids in WSJ). This file now covers all sentence ids used in the gold/test data.  
+15/01/2019: Fixed a bugs related to the added sentences (additional offset 1) [thanks to ezhick179 at gmail.com for reporting the problem]
+15/01/2019: Added sentence #21778073 manually to assumed-gold.conll [thanks to ezhick179 at gmail.com for reporting the problem]

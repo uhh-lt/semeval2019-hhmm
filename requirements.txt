@@ -1,0 +1,11 @@
+
+python>=3.6
+sklearn
+gensim
+pandas
+numpy
+scipy
+pyconll
+pathlib
+tensorflow=1.12.0
+tensorflow_hub=0.1.1
